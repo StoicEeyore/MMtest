@@ -1,5 +1,4 @@
 [
-	//Added content
 
 	{
 		"name": "Aircraft Hangar",
@@ -29,7 +28,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": [
-			"[+20]% Production when constructing [non-[Armored]] units [in this city]"
+			"[+20]% Production when constructing [non-[Armored]] units [in this city]",
 			"New [Military] units start with [15] XP [in this city]", 
 			"Destroyed when the city is captured"
 			],
@@ -40,7 +39,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"uniques": [
-			"[+20]% Production when constructing [Armored] units [in this city]"
+			"[+20]% Production when constructing [Armored] units [in this city]",
 			"Can only be built <in cities with a [Factory]>",
 			"New [Mech] units start with [30] XP [in this city]", 
 			"Destroyed when the city is captured"
@@ -53,7 +52,7 @@
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Can only be built <in cities with a [Harbor]>",
-			"[+20]% Production when constructing [Water] units [in this city]"
+			"[+20]% Production when constructing [Water] units [in this city]",
 			"[+1 Production] from [Water] tiles [in this city]",
 			"New [Water] units start with [30] XP [in this city]",
 			"Connects trade routes over water", 
@@ -136,7 +135,7 @@
 			"Can only be built <in cities with a [Factory]>",
 			"Must have an owned [Titanium] within [4] tiles",
 			"Provides [1] [Advanced Alloy] <for every [3] [Aluminum]> <in this city>",
-			"Provides [1] [Advanced Alloy] <for every [2] [Titanium]> <in this city>",
+			"Provides [1] [Advanced Alloy] <for every [2] [Titanium]> <in this city>"
 			],
 		"requiredTech": "Compass"
 	},
@@ -164,7 +163,7 @@
 			"Consumes [2] [Uranium]",
 			"Produces [1] [Fusion Core]",
 			"Produces [4] [Fusion Core] <after discovering [Portable Reactors]>",
-			"Double quantity of [Fusion Core] produced <in this city> <after discovering [Zero Point Energy]>",
+			"Double quantity of [Fusion Core] produced <in this city> <after discovering [Zero Point Energy]>"
 			],
 		"requiredTech": "Fusion Power"
 	},
@@ -178,7 +177,7 @@
 			"Can only be built <in cities with a [Fusion Reactor]>",
 			"Consumes [2] [Fusion Core]",
 			"Quantity of strategic resources produced by the empire +[200]%",
-			"Quantity of strategic resources produced by the empire +[200]%", <after discovering [Zero Point Energy]>",
+			"Quantity of strategic resources produced by the empire +[200]% <after discovering [Zero Point Energy]>",
 			"Consumes [2] [Fusion Core] <after discovering [Zero Point Energy]>"
 			],
 		"requiredTech": "Massive Projects"
@@ -263,7 +262,7 @@
 		"uniques": ["Cannot be hurried",
 			"Empire enters golden age",
 			"[+1 Production] from every specialist [in all cities]",
-			"Gain a free [Earthscraper] [in this city]",
+			"Gain a free [Earthscraper] [in this city]"
 		],
 		"requiredTech": "Massive Projects"
 	},
@@ -276,10 +275,6 @@
 		],
 		"requiredTech": "Massive Projects"
 	},
-
-	// Ancient Era
-
-	// Always available
 	{
 		"name": "Palace",
 		"isNationalWonder": true,
@@ -308,9 +303,9 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
+		"uniques": ["Destroyed when the city is captured"]
 	},
-	// Column 1
+
 	{
 		"name": "Granary",
 		"food": 2,
@@ -350,7 +345,6 @@
 		"requiredTech": "Archery",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
 	},
-	// Column 2
 	{
 		"name": "Stone Works",
 		"happiness": 1,
@@ -371,9 +365,6 @@
 		"requiredTech": "Calendar",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
-
-	//modified for uniques
-
 	{
 		"name": "Library",
 		"hurryCostModifier": 25,
@@ -498,12 +489,9 @@
 		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
-		// "Requires [Honor]" in BNW
 	},
 
-	// Classical Era
 
-	// Column 3
 	{
 		"name": "Lighthouse",
 		"cost": 75,
@@ -577,7 +565,6 @@
 		"requiredTech": "Construction",
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
 	},
-	// Column 4
 	{
 		"name": "Temple",
 		"faith": 2,
@@ -722,9 +709,7 @@
 		"quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar"
 	},
 
-	// Medieval Era
 
-	// Column 5
 	{
 		"name": "Garden",
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
@@ -822,7 +807,6 @@
 			"[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
 	},
-	// Column 6
 	{
 		"name": "Harbor",
 		"cost": 120,
@@ -941,9 +925,7 @@
 		"requiredTech": "Steel"
 	},
 
-	// Renaissance Era
 
-	// Column 7
 	{
 		"name": "Observatory",
 		"maintenance": 0,
@@ -1014,19 +996,6 @@
         "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]"],
         "requiredTech": "Banking"
     },
-	// will be introduced in BNW expansion pack
-//	{
-//		"name": "Hanse",
-//		"replaces": "Bank",
-//		"uniqueTo": "Germany",
-//		"gold": 2,
-//		"specialistSlots": {"Merchant": 1},
-//		"hurryCostModifier": 15,
-//		"percentStatBonus": {"gold": 25},
-//		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
-//		"requiredBuilding": "Market",
-//		"requiredTech": "Banking"
-//	},
 	{
 		"name": "Forbidden Palace",
 		"culture": 1,
@@ -1063,7 +1032,6 @@
 		"requiredTech": "Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},
-	// Column 8
 	{
 		"name": "Seaport",
 		"hurryCostModifier": 25,
@@ -1142,9 +1110,7 @@
 		"quote": "'The Kremlin is constantly changing the rules of the game to suit its purposes. We are not playing chess, we're playing roulette.' - Garry Kasparov"
 	},
 
-	// Industrial Era
 
-	// Column 9
 	{
 		"name": "Museum",
 		"culture": 5,
@@ -1201,7 +1167,6 @@
 		"quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
 	},
 
-	//increased xp
 
 	{
 		"name": "Military Academy",
@@ -1220,7 +1185,6 @@
 		"requiredTech": "Military Science",
 		"quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
 	},
-	// Column 10
 	{
 		"name": "Hospital",
 		"food": 5,
@@ -1256,9 +1220,7 @@
         "requiredTech": "Electricity"
     },
 
-	// Modern Era
 
-	// Column 11
 	{
 		"name": "Stadium",
 		"happiness": 4,
@@ -1293,7 +1255,7 @@
         "uniques": ["Only available <when espionage is enabled>",
             "New spies start with [1] level(s)",
             "Promotes all spies [1] time(s)",
-            "Gain an extra spy", // Order is significant here
+            "Gain an extra spy",
 			"[-15]% enemy spy effectiveness [in this city]",
 			"Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city"],
@@ -1329,7 +1291,6 @@
 		"requiredTech": "Railroads",
 		"quote": "'...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world.' - King Ludwig II of Bavaria"
 	},
-	// Column 12
 	{
 		"name": "Research Lab",
 		"science": 4,
@@ -1349,9 +1310,7 @@
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
 	},
 
-	// Atomic Era
 
-	// Column 13
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
@@ -1375,7 +1334,6 @@
 		"requiredTech": "Combined Arms",
 		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
 	},
-	// Column 14
 	{
 		"name": "Solar Plant",
 		"production": 5,
@@ -1427,9 +1385,7 @@
         "quote": "'Distrust and caution are the parents of security.' - Benjamin Franklin"
     },
 
-	// Information Era
 
-	// Column 15
 	{
 		"name": "CN Tower",
 		"isWonder": true,
@@ -1467,7 +1423,6 @@
 		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]"],
 		"requiredTech": "Robotics"
 	},
-	// Column 16
 	{
 		"name": "United Nations",
 		"isWonder": true,
@@ -1478,7 +1433,6 @@
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
 	},
 
-	// All Eras
 
 	{
 		"name": "Utopia Project",
@@ -1488,7 +1442,6 @@
 			"Triggers a Cultural Victory upon completion", "Only available <when [Cultural] Victory is enabled>", "Cannot be hurried"]
 	},
 
-	// Religious buildings
 
 	{
 		"name": "Cathedral",
