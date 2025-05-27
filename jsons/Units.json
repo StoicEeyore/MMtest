@@ -5676,7 +5676,80 @@
 			"Self-destructs when attacking"
 			],
 		"attackSound": "artillery"
-	}
+	},
+		{
+		"name": "ODST Trooper test",
+		"unitType": ["Gunpowder", "Infantry", "Armored", "Data Uplinked"],
+		"movement": 2,
+		"strength": 90,
+		"cost": 60,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"Ignores terrain cost",
+			"Can transform to [ODST Drop Pod test] <in capital>",
+			"Never appears as a Barbarian unit"
+			],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "SPARTAN Mk IV test",
+		"unitType": ["Energy Guns", "Infantry", "Data Uplinked", "Armored", "Recon"],
+		"movement": 3,
+		"strength": 117,
+		"cost": 66,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"Limited to [3] per Civilization",
+			"Can transform to [SPARTAN Drop Pod test] <in capital>",
+			"[+20]% Strength <vs [Armored] units>",
+			"[+15]% Strength <vs [Mech] units>",
+			"[+10]% Strength <vs [Airborne] units>",
+			"[1] additional attacks per turn",
+			"Unit will heal every turn, even if it performs an action",
+			"[+33] HP when healing",
+			"Never appears as a Barbarian unit"
+			],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{"text": "You will become the best we can make you."}
+		]
+	},
+	{
+		"name": "ODST Drop Pod test",
+		"unitType": ["Drop Pod"],
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 12,
+		"cost": 60,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"Cannot attack cities",
+			"Free [ODST Trooper test] appears <upon being defeated>",
 
+	//<upon expending a [ODST Drop Pod] unit>
+
+			"Can transform to [ODST Trooper test]",
+			"Never appears as a Barbarian unit"
+			],
+		"attackSound": "missile"
+	},
+	{
+		"name": "SPARTAN Drop Pod test",
+		"unitType": ["Drop Pod"],
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 60,
+		"range": 12,
+		"cost": 66,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"Cannot attack cities",
+			"Free [SPARTAN Mk IV test] appears <upon being defeated>",
+			"Can transform to [SPARTAN Mk IV test]",
+			"Never appears as a Barbarian unit"
+			],
+		"attackSound": "missile"
+	}
 
 ]
