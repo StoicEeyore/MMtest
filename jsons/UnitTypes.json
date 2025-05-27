@@ -572,7 +572,7 @@
 		"[+4] Sight",
 		"Can see over obstacles",
 		"Ranged attacks may be performed over obstacles",
-		"[+50]% Strength <vs [non-[Armored]] units>"
+		"[+50]% Strength <vs [non-[Armored]] units>",
 		"[+200]% Strength <when attacking>",
 		"Can only be built <in cities with a [Orbital Launch Facility]>",
 		"Damage taken from interception reduced by [90]%",
@@ -590,7 +590,7 @@
 		"[+200]% Strength <vs [Gunpowder] units> <when attacking>",
 		"[-90]% Strength <vs [Armored] units> <when attacking>",
 		"[+50]% Strength <after discovering [Advanced Missile Tech]>",
-		"[+100]% Strength <after discovering [Bioengineering]>",
+		"[+100]% Strength <after discovering [Bioengineering]>"
 		],
 	"movementType": "Air"
 	},
@@ -637,8 +637,8 @@
     {
         "name": "ODST Satellite",
         "uniques": [
-		"[+5000]% Strength <vs non-[Satellite] units>',
-		"[+5000]% Strength <vs non-[Missile] units>',
+		"[+5000]% Strength <vs non-[Satellite] units>",
+		"[+5000]% Strength <vs non-[Missile] units>",
 		"All tiles cost 1 movement",
 		"Ignores Zone of Control",
 		"Can pass through impassable tiles",
@@ -660,7 +660,7 @@
 		"Can carry [0] [Ballistic] units",
 		"Can carry [1] [Satellite] units",
 		"Cannot intercept [Missile] units",
-		"Cannot intercept [Satellite] units",
+		"Cannot intercept [Satellite] units"
 		],
 	"movementType": "Land"
 	},
@@ -676,7 +676,7 @@
 		"Cannot intercept [Satellite] units",
 		"[100]% chance to intercept air attacks"
 		],
-	"movementType": "Land",
+	"movementType": "Land"
 	},
 	{
 	"name": "Heavy Hover Carrier",
@@ -694,7 +694,7 @@
 		"Cannot intercept [Satellite] units",
 		"[100]% chance to intercept air attacks"
 		],
-	"movementType": "Land",
+	"movementType": "Land"
 	},
 
 	//Drones
@@ -742,7 +742,7 @@
         "name": "Helicopter",
         "uniques": [
 		"Can pass through impassable tiles",
-		"May travel on Water tiles without embarking"
+		"May travel on Water tiles without embarking",
 		"Can move after attacking",
 		"Ignores Zone of Control",
 		"Ignores terrain cost",
@@ -762,8 +762,8 @@
 		"Can move after attacking",
 		"Ignores Zone of Control",
 		"Unable to capture cities",
-		"May travel on Water tiles without embarking"
-		"Ignores terrain cost"
+		"May travel on Water tiles without embarking",
+		"Ignores terrain cost",
 		"[+20]% to Flank Attack bonuses",
 		"[+100]% Strength <vs [Infantry] units>",
 		"[+75]% Strength <vs [Armored] units>",
@@ -817,7 +817,7 @@
 		"Can move after attacking",
 		"Can see invisible [Water] units",
 		"[+50]% Strength <vs [Airborne] units>",
-		"[+50]% Damage when intercepting",
+		"[+50]% Damage when intercepting"
 		],
         "movementType": "Water"
     },
@@ -937,7 +937,7 @@
         "uniques": [
 		"[+35]% Strength <vs cities>",
 		"[+25]% Strength <vs [Armored] units>",
-		"[+25]% Strength <vs [Naval Armor] units>"
+		"[+25]% Strength <vs [Naval Armor] units>",
 		"Cannot be carried by [Carrier] units"
 		],
         "movementType": "Air"
@@ -947,7 +947,7 @@
         "uniques": [
 		"Can perform Air Sweep",
 		"[+75]% Strength <vs [Armored] units>",
-		"[+50]% Strength <vs [Naval Armor] units>"
+		"[+50]% Strength <vs [Naval Armor] units>",
 		"[+150]% Strength <vs [Helicopter] units>",
 		"[+100]% Strength <vs [Heavy Helicopter] units>"
 		],
