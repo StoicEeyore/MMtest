@@ -315,7 +315,7 @@
 			"Limited to [5] per Civilization",
 			"Uncapturable"
 			],
-		"movement": 2,
+		"movement": 2
 	},
 	{
 		"name": "Signal Jammer",
@@ -374,7 +374,7 @@
 			"Can move after attacking",
 			"Never appears as a Barbarian unit"
 			],
-		"attackSound": "shot",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Missile Rover",
@@ -391,7 +391,7 @@
 			"Consumes [1] [Iron]",
 			"Never appears as a Barbarian unit"
 			],
-		"attackSound": "MissileLaunch",
+		"attackSound": "MissileLaunch"
 	},
 
 	//recon
@@ -967,8 +967,7 @@
 		"strength": 70,
 		"cost": 250,
 		"requiredTech": "Cloning",
-		"upgradesTo": "Nerve Staple Conscript",
-		"upgradesTo": "Stim Trooper",
+		"upgradesTo": ["Nerve Staple Conscript", "Stim Trooper"],
 		"uniques": [
 			"Can only be built <in cities with a [Cloning Vat]>",
 			"Can upgrade to [Nerve Staple Conscript] <after discovering [Bioengineering]>",
@@ -986,7 +985,7 @@
 		"requiredTech": "Exoframe Suits",
 		"uniques": [
 			"Never appears as a Barbarian unit",
-			"Consumes [1] [Aluminum]",
+			"Consumes [1] [Aluminum]"
 			],
 		"attackSound": "machinegun"
 	},
@@ -1031,7 +1030,7 @@
 			"[+15]% Strength",
 			"[-50]% XP gained from combat",
 			"No damage penalty for wounded units",
-			"Ignores Zone of Control"
+			"Ignores Zone of Control",
 			"Consumes [1] [Aluminum]",
 			"Never appears as a Barbarian unit"
 			],
@@ -1147,7 +1146,7 @@
 			"[+10]% Strength <vs [Airborne] units>",
 			"[1] additional attacks per turn",
 			"Unit will heal every turn, even if it performs an action",
-			"[+33] HP when healing"
+			"[+33] HP when healing",
 			"Consumes [1] [Advanced Alloy]",
 			"Consumes [1] [Fusion Core]",
 			"Consumes [1] [AI Core]",
@@ -1172,8 +1171,7 @@
 		"upgradesTo": "Medieval Siege Tower",
 		"uniques": [
 			"[+120]% Strength <vs cities> <when attacking>", 
-			"[-50]% Strength <when defending>"
-			],
+			"[-50]% Strength <when defending>",
 		"Never appears as a Barbarian unit", "[-1] Sight"],
 		"attackSound": "throw"
 	},
@@ -1588,7 +1586,7 @@
 		"uniques": [
 			"[+5]% Strength",
 			"[+10]% Strength <after discovering [Augmented Reality]>",
-			"Consumes [1] [Aluminum],
+			"Consumes [1] [Aluminum]",
 			"Consumes [1] [Digital Storage Space]",
 			"Never appears as a Barbarian unit"
 			],
@@ -2661,7 +2659,7 @@
 		"requiredTech": "Augmented Reality",
 		"uniques": [
 			"Invisible to non-adjacent units",
-			"Withdraws before melee combat <with [20]% chance>"
+			"Withdraws before melee combat <with [20]% chance>",
 			"[+100]% Strength <vs [Armored] units>",
 			"Can only be built <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [1] [Digital Storage Space]",
@@ -3444,7 +3442,7 @@
 		"movement": 3,
 		"interceptRange": 3,
 		"strength": 80,
-		"rangedStrength": 120
+		"rangedStrength": 120,
 		"cost": 600,
 		"requiredTech": "Advanced Missile Tech",
 		"uniques": [
@@ -4215,6 +4213,7 @@
 		"attackSound": "MissileLaunch",
 		"civilopediaText": [
 			{"text": "It slices, it dices, it makes hundreds and hundreds of julienne generals..."}
+		]
 	},
 	{
 		"name": "Naval Strike Drone",
@@ -4830,7 +4829,7 @@
 			"Never appears as a Barbarian unit"
 			],
 		"promotions": ["Indirect Fire"],
-		"attackSound": "shipguns",
+		"attackSound": "shipguns"
 	},
 
 	//siege ships
@@ -5117,7 +5116,7 @@
 			"Can carry [4] [Torpedo] units",
 			"Can carry [2] [{Missile} {[non-[Ballistic]]}] units <after discovering [Advanced Missile Tech]>",
 			"Never appears as a Barbarian unit",
-			"Can only be built <in cities with a [Harbor]>", 
+			"Can only be built <in cities with a [Harbor]>"
 			],
 		"attackSound": "torpedo"
 	},
@@ -5386,7 +5385,7 @@
 		"requiredTech": "Beam Weapons",
 		"uniques": [
 			"Consumes [1] [Oil]", 
-			"Consumes [1] [Titanium]"
+			"Consumes [1] [Titanium]",
 			"[+2] Sight",
 			"[-100]% Damage when intercepting <vs [Satellite] units> <with [50]% chance>",
 			"Can only be built <in cities with a [Aircraft Hangar]>",
