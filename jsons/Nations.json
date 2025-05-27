@@ -555,7 +555,7 @@
 		
 		"uniqueName": "Viking Fury",
 		"uniqueText": "All units embark and disembark using only 1 movement point\nMilitary units don't use movement points to pillage and don't suffer from water attack maluses\nAll units can enter Ocean tiles upon entering the Medieval era",
-		"uniques": ["No movement cost to pillage <for [Military] units>", "[{Military} {Land}] units gain the [Amphibious] promotion", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
+		"uniques": ["No movement cost to pillage <for [Military] units>", "[{Military} {Land}] units gain the [Amphibious] promotion", "[1] Movement point cost to embark <for [All] units>", "[1] Movement point cost to disembark <for [All] units>", "Enables [All] units to enter ocean tiles <starting from the [Medieval era]>"
 		], 
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Jelling","Truso",
 			"Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
@@ -867,7 +867,7 @@
 			"[+1 Culture, +1 Gold] [in capital] <for every [Vodka]>","[+2]% XP gained from combat <for [Military] units> <for every [Vodka]>", "New [Military] units start with [1] XP [in all cities] <for every [Vodka]>",
 			"[+1 Culture, +1 Gold] [in capital] <for every [Whales]>", "[+2]% XP gained from combat <for [Military] units> <for every [Whales]>", "New [Military] units start with [1] XP [in all cities] <for every [Whales]>",
 			"[+1 Culture, +1 Gold] [in capital] <for every [Whisky]>", "[+2]% XP gained from combat <for [Military] units> <for every [Whisky]>", "New [Military] units start with [1] XP [in all cities] <for every [Whisky]>",
-			"[+1 Culture, +1 Gold] [in capital] <for every [Wine]>", "[+2]% XP gained from combat <for [Military] units> <for every [Wine]>", "New [Military] units start with [1] XP [in all cities] <for every [Wine]>",
+			"[+1 Culture, +1 Gold] [in capital] <for every [Wine]>", "[+2]% XP gained from combat <for [Military] units> <for every [Wine]>", "New [Military] units start with [1] XP [in all cities] <for every [Wine]>"
 			],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
@@ -1125,7 +1125,7 @@
 			 "[Faith] cost of purchasing [Water Mill] buildings [-50]%",
 			"[Faith] cost of purchasing [Lighthouse] buildings [-40]%",
 			"[Faith] cost of purchasing [Aqueduct] buildings [-30]%",
-			"[Faith] cost of purchasing [Hospital] buildings [-10]%",
+			"[Faith] cost of purchasing [Hospital] buildings [-10]%"
 		],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
@@ -1608,7 +1608,7 @@
                 "[+1 Gold] [in capital] <for every [Cotton]>", "[+1 Gold] [in capital] <for every [Crab]>", "[+1 Gold] [in capital] <for every [Dyes]>", "[+1 Gold] [in capital] <for every [Furs]>", "[+1 Gold] [in capital] <for every [Gems]>", "[+1 Gold] [in capital] <for every [Gold Ore]>", "[+1 Gold] [in capital] <for every [Incense]>",
                 "[+1 Gold] [in capital] <for every [Ivory]>", "[+1 Gold] [in capital] <for every [Jewelry]>", "[+1 Gold] [in capital] <for every [Marble]>", "[+1 Gold] [in capital] <for every [Obsidian]>", "[+1 Gold] [in capital] <for every [Olive]>", "[+1 Gold] [in capital] <for every [Pearls]>", "[+1 Gold] [in capital] <for every [Poppy]>",
                 "[+1 Gold] [in capital] <for every [Porcelain]>", "[+1 Gold] [in capital] <for every [Rum]>", "[+1 Gold] [in capital] <for every [Salt]>", "[+1 Gold] [in capital] <for every [Silk]>", "[+1 Gold] [in capital] <for every [Silver]>", "[+1 Gold] [in capital] <for every [Spices]>", "[+1 Gold] [in capital] <for every [Sugar]>",
-                "[+1 Gold] [in capital] <for every [Tea]>", "[+1 Gold] [in capital] <for every [Tobacco]>", "[+1 Gold] [in capital] <for every [Truffles]>", "[+1 Gold] [in capital] <for every [Vodka]>", "[+1 Gold] [in capital] <for every [Whales]>", "[+1 Gold] [in capital] <for every [Whisky]>", "[+1 Gold] [in capital] <for every [Wine]>"]
+                "[+1 Gold] [in capital] <for every [Tea]>", "[+1 Gold] [in capital] <for every [Tobacco]>", "[+1 Gold] [in capital] <for every [Truffles]>", "[+1 Gold] [in capital] <for every [Vodka]>", "[+1 Gold] [in capital] <for every [Whales]>", "[+1 Gold] [in capital] <for every [Whisky]>", "[+1 Gold] [in capital] <for every [Wine]>"],
 			
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
@@ -1729,7 +1729,7 @@
 			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Suzdal","Magnitogorsk"],
-		"spyNames": ["Nadezhda", "Lev", "Anna", "Ilya", "Lyubov", "Ivan", "Sofia", "Artyom", "Ksenia", "Dmitry"],
+		"spyNames": ["Nadezhda", "Lev", "Anna", "Ilya", "Lyubov", "Ivan", "Sofia", "Artyom", "Ksenia", "Dmitry"]
 	},
 	{
 		"name": "Spain",
@@ -2073,7 +2073,7 @@
 		            "[+3 Culture] [in all cities] <with [6] to [6] neighboring [Coast] tiles> <while the empire is happy>",
 		            "[+1 Food, +1 Production] from every [Coast] <with [1] to [1] neighboring [City center] tiles> <during a Golden Age>",
 		            "[+1 Food, +1 Production] from every [City center] <with [1] to [6] neighboring [Coast] tiles> <during a Golden Age>"],
-		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga","Caloocan","Cabanatuan","Iloilo","Malolos","Pasay","Mambajao","Nabunturan","Navotas","Cavite El Viejo","Pasig","Las Pinas","Biak-na-Bato","Jaro","Tarlac","Palanan","Bacolor"]
+		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga","Caloocan","Cabanatuan","Iloilo","Malolos","Pasay","Mambajao","Nabunturan","Navotas","Cavite El Viejo","Pasig","Las Pinas","Biak-na-Bato","Jaro","Tarlac","Palanan","Bacolor"],
 		"spyNames": ["Jasmine", "Corazon", "Pedro", "Alejandro", "Remedios", "Marilyn", "Makisig", "Bayani", "Benigno", "Hernán"]
 	},
 	{
@@ -2262,8 +2262,8 @@
 		"uniques": ["Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion","[+1 Food, +1 Culture, +1 Production] from every [Mountain]"],
 		"cities": ["Yerevan","Tigranakert","Artashat","Yervandashat","Armavir","Gyumri","Vanadzor","Abovyan","Kapan","Ararat","Gavar",
 		"Hrazdan","Ijevan","Goris","Ashtarak","Masis"]
-	}
-			{
+	},
+		{
 		"name": "Macrobia",
 		"leaderName": "Sayid",
 		"adjective": ["Macrobian"],
@@ -2637,7 +2637,7 @@
 		"outerColor": [166, 22, 51],
 		"innerColor": [75, 156, 245],
 		"uniqueName": "Worship of the Old Gods",
-		"uniques": ["[+1 Faith] [in all cities] <before the [Medieval era]>"]
+		"uniques": ["[+1 Faith] [in all cities] <before the [Medieval era]>"],
 		"cities": ["Vilnius","Kaunas","Klaipeda","Kernave","Siauliai","Trakai","Panevezys","Kedainiai","Voruta","Prienai",
 			"Utena","Alytus","Birzai","Marijamopole","Taurage","Birstonas","Jonava","Mazeikiai","Ukmerge","Kedainiai",
 			"Telsiai","Plunge","Kretinga","Gargzdai","Raseiniai","Joniskis","Anyksciai","Skuodas"]
@@ -2672,7 +2672,7 @@
 		"innerColor": [255, 179, 0],
 		"uniqueName": "Go n-éirí leat!",
 		"uniques": ["Each city founded increases culture cost of policies [17]% less than normal","[-1 Happiness] [in all cities]"],
-		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"],
+		"cities": ["Dublin","Cork","Downpatrick","Tipperary","Trim","Limerick","Kilkenny","Belfast","Galway","Lucan","Newry","Lifford","Tallaght","Armagh","Waterford","An Uaimh"]
 	},
 
 		{
@@ -2774,7 +2774,7 @@
 		"outerColor": [32, 44, 77],
 		"innerColor": [232, 194, 2],
 		"uniqueName": "Nordic Bounty",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]"]
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>","Enables [Water] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Food] from every [Tundra]"],
 		"cities": ["Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord","Sandnes","Skien","Drammen"]
 	},
 			{
@@ -2884,7 +2884,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
  "Piroboridava", "Argedava", "Deva", "Tamasidava", "Patridava", "Dierna", "Potaissa", "Germisara", "Tyras", "Dinogetia",
  "Hotel Transylvania", "Troesmis", "Carsidava", "Sacidava", "Dokidava", "Salinae", "Utidava", "Tapae", "Apulum", "Ramidava",
  "Amutria", "Cumidava", "Sangidava", "Netindava", "Zargidava", "Zurobara", "Rusidava", "Carsium", "Praetorium", "Tibiscum",
- "Ulpianum", "Noviodunum", "Porolissum", "Tiasum",
+ "Ulpianum", "Noviodunum", "Porolissum", "Tiasum"
                 ]
         },
 {
@@ -3123,7 +3123,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 		"outerColor": [225,214,196],
 		"innerColor": [176,70,138],
 		"uniqueName": "The Barbarian Ideal",
-		"uniques": ["All newly-trained [Sword] units [in all cities with a world wonder] receive the [Besiege] promotion","All newly-trained [Gunpowder] units [in all cities with a world wonder] receive the [Besiege] promotion","[+33]% City Strength from defensive buildings <in cities with a [Wonder]>", "[+25]% Great Person generation [in all coastal cities] <when at war>", "[-25]% [Gold] from Trade Routes"]
+		"uniques": ["All newly-trained [Sword] units [in all cities with a world wonder] receive the [Besiege] promotion","All newly-trained [Gunpowder] units [in all cities with a world wonder] receive the [Besiege] promotion","[+33]% City Strength from defensive buildings <in cities with a [Wonder]>", "[+25]% Great Person generation [in all coastal cities] <when at war>", "[-25]% [Gold] from Trade Routes"],
 		"cities": ["Halicarnassus","Stratonikeia","Mylasa","Harpasa","Tabal","Karyanda","Kidramos","Kaunos","Kidramos","Orthosia","Alinda","Lazpas",
 		"Chalketor","Kalynda","Amyzon","Alabanda","Karkisa","Astyra"]
 	},
@@ -3274,7 +3274,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
         "declaringWar": "Unfortunately, your time has come; it is foretold in the stars.",
                 "attacked": "Hm. Another upstart think they're the ones to finally supercede the venerable Etruscans, after a millennia. \nUnsuprising.",
                 "defeated": "When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy",
-                "introduction": "I am Tyrrhenus, and you are in my slice of Eturia. \nFear not, for this is a land of civilization and hospitality."
+                "introduction": "I am Tyrrhenus, and you are in my slice of Eturia. \nFear not, for this is a land of civilization and hospitality.",
                 "neutralHello": "Help I cannot stop yapping.", 
 /*"When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
                 "hateHello": "Oh... it's you people. \nCan't you find someone less wealthy to pester?",
@@ -3348,7 +3348,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			"introduction": "Salam. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
 			
 			"neutralHello": "Good day to you!",
-			"hateHello": "So?"
+			"hateHello": "So?",
 			"tradeRequest": "My friend, does this seem reasonable to you?",
 			
 			"outerColor": [203,  5,  3],
@@ -3527,7 +3527,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			"introduction": "Salam kenal, sanak. Puti Jamilan at your presence, mother of my people and queen of Minangkabau.",
 			
 			"neutralHello": "Apo kaba?",
-			"hateHello": "Kalera!"
+			"hateHello": "Kalera!",
 			"tradeRequest": "Perhaps we should exchange resources, for the better of our kingdoms.",
 			
 			"outerColor": [103, 18, 28],
@@ -3683,7 +3683,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			"introduction": "Welcome to Sunda, weary traveler. It must have been a long journey for you to get here. People call me Siliwangi, but I prefer to be called Jayadewata.",
 
 			"neutralHello": "Greetings.",
-			"hateHello": "So?"
+			"hateHello": "So?",
 			"tradeRequest": "My friend, does this seem reasonable to you?",
 
 			"outerColor": [ 80,  0, 70],
@@ -3814,7 +3814,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			],
 			"cities": ["Trowulan","Klaten","Kadiri","Surabaya","Malang","Probolinggo","Madiun","Mojokerto","Semarang","Solo",
 				"Pekalongan","Tegal","Salatiga","Magelang","Palembang","Bandar Lampung","Pangkalpinang","Denpasar","Bengkulu","Jambi",
-				"Pekanbaru","Padang","Medan","Makassar","Batam","Samarinda","Ambon","Kupang","Kutaraja","Pontianak"
+				"Pekanbaru","Padang","Medan","Makassar","Batam","Samarinda","Ambon","Kupang","Kutaraja","Pontianak",
 				"Palembang","Pekanbaru","Bandar Lampung","Palangka Raya","Banjarmasin","Samarinda","Kupang","Mataram Kuno","Bima","Kendari",
 				"Mamuju","Palu","Manado","Ambon","Dili","Manokwari","Johor","Malacca","Alor Setar","Seremban",
 				"Kuantan","Penang","Perak","Terengganu","Selangor","Kuching","Kota Kinabalu","Bandar Brunei","Pontianak","Balikpapan",
@@ -3913,7 +3913,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			"declaringWar": "I must protect the interests of the Matawis. Surrender quickly so that this may end without bloodshed.",
 			"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
 			"defeated": "The Sultanate falls, but I will be remembered. Will you?",
-			"introduction": "Let it be known between us- I, Sultan Agung, will repay treachery with blood! But, if you are a true friend, we will have peace."
+			"introduction": "Let it be known between us- I, Sultan Agung, will repay treachery with blood! But, if you are a true friend, we will have peace.",
 			
 			"neutralHello": "Sugeng rawuh.",
 			"hateHello": "Heh ndlogok!",
@@ -4967,7 +4967,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 		"uniqueName": "Mining Riches",
 		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
 			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
-		"cities": ["Santiago","Valparaiso","Copiapo","Antofagasta","Iquique","Valdivia","Rancagua","Concepcion","La Serena","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Puerto Aysen","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"]
+		"cities": ["Santiago","Valparaiso","Copiapo","Antofagasta","Iquique","Valdivia","Rancagua","Concepcion","La Serena","Temuco","Osorno","Port Montt", "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Puerto Aysen","Cochrane","Natales Port","Punta Arenas", "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"],
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
@@ -5377,7 +5377,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 		"uniqueName": "Guarani Strenght",
 		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 
-		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu",],
+		"cities": ["Asuncion","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Oviedo","Capiata","Limpio","Lambare","Itaugua","Luque","Villa Elisa","Villarrica","Hermandarias","Aregua","Caacupe","Minga Guazu"],
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
@@ -5472,7 +5472,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
 			"Free [Great General] appears <upon discovering [Military Science]>"],
     
-                "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
+                "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"],
 		"civilopediaText": [
 			{"text": ""},
 			{"text": ""},
@@ -5481,4 +5481,5 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
 			{"text": ""},
 			{"text": ""}
 		]
-	},
+	}
+]
