@@ -3,10 +3,8 @@
     "fallbackTileSet": "FantasyHex",
     "ruleVariants": {
 
-		// River pseudo-tile used in Civilopedia display only
 		"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
 
-        //forest and jungle
         "Grassland+Forest": ["Grassland","ForestG"],
         "Grassland+Jungle": ["Grassland","JungleG"],
         "Grassland+Hill+Forest": ["Grassland+Hill","ForestGH"],
@@ -18,7 +16,6 @@
         "Tundra+Forest": ["Tundra","ForestT"],
         "Tundra+Hill+Forest": ["Tundra+Hill","ForestTH"],
 
-	//Barbarian encampment
 	"Tundra+Forest+Barbarian encampment": ["Tundra","ForestTUp","Barbarian encampmentT", "ForestTLow"],
 	"Tundra+Hill+Barbarian encampment": ["Tundra+Hill","Barbarian encampmentT"],
 	"Tundra+Hill+Forest+Barbarian encampment": ["Tundra+Hill","ForestTUp","Barbarian encampmentT","ForestTLow"],
@@ -37,7 +34,6 @@
 	"Desert+Flood plains+Barbarian encampment": ["Desert","Flood plains","Barbarian encampment"],
 	"Desert+Hill+Barbarian encampment": ["Desert+Hill","Barbarian encampment"],
 
-	//Ancient ruins
 	"Tundra+Forest+Ancient ruins": ["Tundra","ForestTUp","RuinsT", "ForestTLow"],
 	"Tundra+Hill+Ancient ruins": ["Tundra+Hill","RuinsT"],
 	"Tundra+Hill+Forest+Ancient ruins": ["Tundra+Hill","ForestTUp","RuinsT","ForestTLow"],
@@ -58,7 +54,6 @@
 	"Desert+Flood plains+Ancient ruins": ["Desert","Flood plains","RuinsD"],
 	"Desert+Hill+Ancient ruins": ["Desert+Hill","RuinsD"],
 
-	//Truffles
 	"Tundra+Forest+Truffles": ["Tundra","ForestTUp","Truffles", "ForestTLow"],
 	"Tundra+Hill+Forest+Truffles": ["Tundra+Hill","ForestTUp","Truffles","ForestTLow"],
 	"Grassland+Forest+Truffles": ["Grassland","ForestGUp","Truffles", "ForestGLow"],
@@ -77,7 +72,6 @@
 	"Plains+Hill+Forest+Truffles+Camp": ["Plains+Hill","ForestPHUp","Truffles+Camp","ForestPHLow"],
 	"Tundra+Truffles+Camp": ["Tundra", "Truffles+CampT"],
 
-	//Furs
 	"Tundra+Furs": ["Tundra", "FursT"],
 	"Tundra+Forest+Furs": ["Tundra","ForestTUp","FursT", "ForestTLow"],
 	"Tundra+Hill+Forest+Furs": ["Tundra+Hill","ForestTUp","FursT","ForestTLow"],
@@ -93,7 +87,6 @@
 	"Plains+Forest+Furs+Camp": ["Plains","ForestPUp","Furs+Camp", "ForestPLow"],
 	"Plains+Hill+Forest+Furs+Camp": ["Plains+Hill","ForestPHUp","Furs+Camp","ForestPHLow"],
 
-	//Deer
 	"Tundra+Forest+Deer": ["Tundra","ForestTUp","Deer", "ForestTLow"],
 	"Tundra+Hill+Forest+Deer": ["Tundra+Hill","ForestTUp","Deer","ForestTLow"],
 	"Grassland+Forest+Deer": ["Grassland","ForestGUp","Deer", "ForestGLow"],
@@ -108,7 +101,6 @@
 	"Plains+Hill+Forest+Deer+Camp": ["Plains+Hill","ForestPHUp","Deer+Camp","ForestPHLow"],
 	"Tundra+Deer+Camp": ["Tundra", "Deer+CampT"],
 
-	//Aluminum
 	"Tundra+Forest+Aluminum": ["Tundra","Aluminum", "ForestT"],
 	"Tundra+Hill+Forest+Aluminum": ["Tundra+Hill","Aluminum","ForestT"],
 	"Grassland+Jungle+Aluminum": ["Grassland","Aluminum", "JungleG"],
@@ -116,7 +108,6 @@
 	"Plains+Jungle+Aluminum": ["Plains","Aluminum", "JungleP"],
 	"Plains+Hill+Forest+Aluminum": ["Plains+Hill","Aluminum","ForestPH"],
 
-	//Coal
 	"Tundra+Forest+Coal": ["Tundra","Coal", "ForestT"],
 	"Tundra+Hill+Forest+Coal": ["Tundra+Hill","Coal","ForestT"],
 	"Grassland+Forest+Coal": ["Grassland","Coal", "ForestG"],
@@ -128,7 +119,6 @@
 	"Grassland+Marsh+Coal": ["Grassland", "Coal", "Marsh"],
 
 
-	//Copper
 	"Tundra+Forest+Copper": ["Tundra","Copper", "ForestT"],
 	"Tundra+Hill+Forest+Copper": ["Tundra+Hill","Copper","ForestT"],
 	"Grassland+Forest+Copper": ["Grassland","Copper", "ForestG"],
@@ -137,7 +127,6 @@
 	"Plains+Forest+Copper": ["Plains","Copper", "ForestP"],
 	"Plains+Jungle+Copper": ["Plains","Copper", "JungleP"],
 
-	//Gems
 	"Tundra+Forest+Gems": ["Tundra","Gems", "ForestT"],
 	"Tundra+Hill+Forest+Gems": ["Tundra+Hill","Gems","ForestT"],
 	"Grassland+Forest+Gems": ["Grassland","Gems", "ForestG"],
@@ -146,7 +135,6 @@
 	"Plains+Forest+Gems": ["Plains","Gems", "ForestP"],
 	"Plains+Jungle+Gems": ["Plains","Gems", "JungleP"],
 
-	//Gold Ore
 	"Tundra+Forest+Gold Ore": ["Tundra","Gold Ore", "ForestT"],
 	"Tundra+Hill+Forest+Gold Ore": ["Tundra+Hill","Gold Ore","ForestT"],
 	"Grassland+Forest+Gold Ore": ["Grassland","Gold Ore", "ForestG"],
@@ -155,7 +143,6 @@
 	"Plains+Forest+Gold Ore": ["Plains","Gold Ore", "ForestP"],
 	"Plains+Jungle+Gold Ore": ["Plains","Gold Ore", "JungleP"],
 
-	//Iron
 	"Tundra+Forest+Iron": ["Tundra","Iron", "ForestT"],
 	"Tundra+Hill+Forest+Iron": ["Tundra+Hill","Iron","ForestT"],
 	"Grassland+Forest+Iron": ["Grassland","Iron", "ForestG"],
@@ -166,7 +153,6 @@
 	"Plains+Hill+Forest+Iron": ["Plains+Hill","Iron","ForestPH"],
 	"Grassland+Marsh+Iron": ["Grassland", "Iron", "Marsh"],
 
-	//Salt
 	"Tundra+Forest+Salt": ["Tundra","Salt","ForestT"],
 	"Tundra+Hill+Forest+Salt": ["Tundra+Hill","Salt","ForestT"],
 	"Grassland+Forest+Salt": ["Grassland","Salt", "ForestG"],
@@ -174,7 +160,6 @@
 	"Plains+Forest+Salt": ["Plains","Salt", "ForestP"],
 
 
-	//Silver
 	"Tundra+Forest+Silver": ["Tundra","Silver", "ForestT"],
 	"Tundra+Hill+Forest+Silver": ["Tundra+Hill","Silver","ForestT"],
 	"Grassland+Forest+Silver": ["Grassland","Silver", "ForestG"],
@@ -184,7 +169,6 @@
 	"Plains+Jungle+Silver": ["Plains","Silver", "JungleP"],
 	"Plains+Hill+Forest+Silver": ["Plains+Hill","Silver","ForestPH"],
 
-	//Uranium
 	"Tundra+Forest+Uranium": ["Tundra","Uranium", "ForestT"],
 	"Tundra+Hill+Forest+Uranium": ["Tundra+Hill","Uranium","ForestT"],
 	"Grassland+Forest+Uranium": ["Grassland","Uranium", "ForestG"],
@@ -195,13 +179,11 @@
 	"Plains+Hill+Forest+Uranium": ["Plains+Hill","Uranium","ForestPH"],
 	"Grassland+Marsh+Uranium": ["Grassland", "Uranium", "Marsh"],
 
-	//Oil
 	"Grassland+Jungle+Oil": ["Grassland","Oil", "JungleG"],
 	"Plains+Jungle+Oil": ["Plains","Oil", "JungleP"],
 	"Coast+Oil": ["Coast", "OilS"],
 	"Grassland+Marsh+Oil": ["Grassland", "Oil", "Marsh"],
 
-	//Stone
 	"Desert+Stone": ["Desert","StoneD"],
 	"Desert+Flood plains+Stone": ["Desert","Flood plains","StoneD"],
 	"Desert+Hill+Stone": ["Desert+Hill","StoneD"],
@@ -212,11 +194,9 @@
 	"Tundra+Hill+Stone+Quarry": ["Tundra+Hill","Stone+QuarryT"],
 	"Tundra+Hill+Marble+Quarry": ["Tundra+Hill","Marble+QuarryT"],
 
-	//Bananas
 	"Grassland+Jungle+Bananas": ["Grassland","JungleGUp","Bananas", "JungleGLow"],
 	"Plains+Jungle+Bananas": ["Plains","JunglePUp","Bananas", "JunglePLow"],
 
-	//Citrus
 	"Tundra+Forest+Citrus": ["Tundra","ForestTUp","Citrus", "ForestTLow"],
 	"Tundra+Hill+Forest+Citrus": ["Tundra+Hill","ForestTUp","Citrus","ForestTLow"],
 	"Grassland+Forest+Citrus": ["Grassland","ForestGUp","Citrus", "ForestGLow"],
@@ -226,7 +206,6 @@
 	"Plains+Jungle+Citrus": ["Plains","JunglePUp","Citrus", "JunglePLow"],
 	"Plains+Hill+Forest+Citrus": ["Plains+Hill","ForestPHUp","Citrus","ForestPHLow"],
 
-	//Dyes
 	"Tundra+Forest+Dyes": ["Tundra","ForestTUp","Dyes", "ForestTLow"],
 	"Tundra+Hill+Forest+Dyes": ["Tundra+Hill","ForestTUp","Dyes","ForestTLow"],
 	"Grassland+Forest+Dyes": ["Grassland","ForestGUp","Dyes", "ForestGLow"],
@@ -236,7 +215,6 @@
 	"Plains+Jungle+Dyes": ["Plains","JunglePUp","Dyes", "JunglePLow"],
 	"Plains+Hill+Forest+Dyes": ["Plains+Hill","ForestPHUp","Dyes","ForestPHLow"],
 
-	//Silk
 	"Tundra+Forest+Silk": ["Tundra","Silk", "ForestT"],
 	"Tundra+Hill+Forest+Silk": ["Tundra+Hill","Silk","ForestT"],
 	"Grassland+Forest+Silk": ["Grassland","Silk", "ForestG"],
@@ -246,7 +224,6 @@
 	"Plains+Jungle+Silk": ["Plains","Silk", "JungleP"],
 	"Plains+Hill+Forest+Silk": ["Plains+Hill","Silk","ForestPH"],
 
-	//Spices
 	"Tundra+Forest+Spices": ["Tundra","ForestTUp","Spices", "ForestTLow"],
 	"Tundra+Hill+Forest+Spices": ["Tundra+Hill","ForestTUp","Spices","ForestTLow"],
 	"Grassland+Forest+Spices": ["Grassland","ForestGUp","Spices", "ForestGLow"],
@@ -256,7 +233,6 @@
 	"Plains+Jungle+Spices": ["Plains","JunglePUp","Spices", "JunglePLow"],
 	"Plains+Hill+Forest+Spices": ["Plains+Hill","ForestPHUp","Spices","ForestPHLow"],
 
-	//Farm
 	"Grassland+Farm": ["Grassland","FarmG","HutFarm"],
 	"Grassland+Deer+Farm": ["Grassland","FarmG","Deer"],
 	"Grassland+Stone+Farm": ["Grassland","FarmG","Stone"],
@@ -443,14 +419,11 @@
 	"Snow+Farm": ["Snow","FarmS","HutFarmT"],
 	"Snow+Hill+Farm": ["Snow+Hill","FarmSH","HutFarmT"],
 
-	//Oil Well
 	"Coast+Oil well": ["Coast","Oil WellC"],
 	"Coast+Oil+Oil well": ["Coast","Oil WellC"],
 
-	//Offshore Platform
 	"Coast+Oil+Offshore Platform": ["Coast","Offshore Platform"],
 
-	//Academy
 	"Tundra+Academy": ["Tundra","AcademyT"],
 	"Tundra+Deer+Academy": ["Tundra","Deer","AcademyT"],
 	"Tundra+Stone+Academy": ["Tundra","Stone","AcademyT"],
@@ -503,7 +476,6 @@
 	"Snow+Academy": ["Snow","AcademyT"],
 	"Snow+Hill+Academy": ["Snow+Hill","AcademyT"],
 
-	//Citadel
 	"Tundra+Citadel": ["Tundra","CitadelT"],
 	"Tundra+Deer+Citadel": ["Tundra","Deer","CitadelT"],
 	"Tundra+Stone+Citadel": ["Tundra","Stone","CitadelT"],
@@ -558,7 +530,6 @@
 	"Snow+Citadel": ["Snow","CitadelT"],
 	"Snow+Hill+Citadel": ["Snow+Hill","CitadelT"],
 
-	//Customs house
 	"Tundra+Customs house": ["Tundra","Customs houseT"],
 	"Tundra+Deer+Customs house": ["Tundra","Deer","Customs houseT"],
 	"Tundra+Stone+Customs house": ["Tundra","Stone","Customs houseT"],
@@ -612,7 +583,6 @@
 	"Snow+Customs house": ["Snow","Customs houseT"],
 	"Snow+Hill+Customs house": ["Snow+Hill","Customs houseT"],
 
-	//Holy site
 	"Tundra+Holy site": ["Tundra","Holy siteT"],
 	"Tundra+Deer+Holy site": ["Tundra","Deer","Holy siteT"],
 	"Tundra+Stone+Holy site": ["Tundra","Stone","Holy siteT"],
@@ -667,7 +637,6 @@
 	"Snow+Holy site": ["Snow","Holy siteT"],
 	"Snow+Hill+Holy site": ["Snow+Hill","Holy siteT"],
 
-	//Landmark
 	"Tundra+Landmark": ["Tundra","LandmarkT"],
 	"Tundra+Deer+Landmark": ["Tundra","Deer","LandmarkT"],
 	"Tundra+Stone+Landmark": ["Tundra","Stone","LandmarkT"],
@@ -722,7 +691,6 @@
 	"Snow+Landmark": ["Snow","LandmarkT"],
 	"Snow+Hill+Landmark": ["Snow+Hill","LandmarkT"],
 
-	//Manufactory
 	"Tundra+Manufactory": ["Tundra","ManufactoryT"],
 	"Tundra+Deer+Manufactory": ["Tundra","Deer","ManufactoryT"],
 	"Tundra+Stone+Manufactory": ["Tundra","Stone","ManufactoryT"],
@@ -777,7 +745,6 @@
 	"Snow+Manufactory": ["Snow","ManufactoryT"],
 	"Snow+Hill+Manufactory": ["Snow+Hill","ManufactoryT"],
 
-	//Trading post
 	"Tundra+Trading post": ["Tundra","Trading postT"],
 	"Tundra+Deer+Trading post": ["Tundra","Deer","Trading postT"],
 	"Tundra+Stone+Trading post": ["Tundra","Stone","Trading postT"],
@@ -863,7 +830,6 @@
 	"Tundra+Hill+Sheep+Forest+Trading post": ["Tundra+Hill","Sheep","ForestTH","Trading postT"],
 	"Tundra+Hill+Horses+Forest+Trading post": ["Tundra+Hill","Horses","ForestTH","Trading postT"],
 
-	//Lumbermill
 	"Tundra+Forest+Lumber mill": ["Tundra","ForestT","Lumber millT"],
 	"Tundra+Deer+Forest+Lumber mill": ["Tundra","Deer","ForestT","Lumber millT"],
 	"Tundra+Stone+Forest+Lumber mill": ["Tundra","Stone","ForestT","Lumber millT"],
@@ -906,7 +872,6 @@
 	"Tundra+Hill+Sheep+Forest+Lumber mill": ["Tundra+Hill","Sheep","ForestTH","Lumber millT"],
 	"Tundra+Hill+Horses+Forest+Lumber mill": ["Tundra+Hill","Horses","ForestTH","Lumber millT"],
 
-	//Mine
 	"Tundra+Mine": ["Tundra","MineT"],
 	"Tundra+Iron+Mine": ["Tundra","Iron","MineT"],
 	"Tundra+Aluminum+Mine": ["Tundra","Aluminum","MineT"],
@@ -938,7 +903,6 @@
 	"Snow+Mine": ["Snow","MineT"],
 	"Snow+Hill+Mine": ["Snow+Hill","MineT"],
 
-	//Fort
 	"Tundra+Fort": ["Tundra","FortT"],
 	"Tundra+Deer+Fort": ["Tundra","Deer","FortT"],
 	"Tundra+Stone+Fort": ["Tundra","Stone","FortT"],
@@ -992,7 +956,6 @@
 	"Snow+Fort": ["Snow","FortT"],
 	"Snow+Hill+Fort": ["Snow+Hill","FortT"],
 
-	//GI (template code for snow improvement)
 	"Tundra+GI": ["Tundra","GIT"],
 	"Tundra+Deer+GI": ["Tundra","Deer","GIT"],
 	"Tundra+Stone+GI": ["Tundra","Stone","GIT"],
