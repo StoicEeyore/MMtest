@@ -1,5 +1,4 @@
 [
-  // Each entry is a tutorial, but the tutorial may be spread over separate paragraphs.
 
   {
     "name": "Introduction",
@@ -8,7 +7,6 @@
     ]
   },
 
-  // Civilopedia only, because players said this was too wall-of-text
   {
       "name": "New Game",
       "civilopediaText": [

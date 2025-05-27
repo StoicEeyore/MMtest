@@ -25,12 +25,12 @@
     {
         "name": "survivors (adds population to a city)",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
+        "uniques": ["[+1] population in a random city"], 
 		"color": "#81c784"
     },
     {
         "name": "a stash of gold",
-        "notification": "", // trigger notification only
+        "notification": "", 
         "uniques": ["Gain [50]-[100] [Gold] <(modified by game speed)>"],
         "color": "#ffeb7f"
     },

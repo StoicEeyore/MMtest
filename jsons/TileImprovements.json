@@ -32,7 +32,6 @@
 	},
 
 
-  //adjust in terrains
 
 
 	{
@@ -102,7 +101,6 @@
 		"shortcutKey": "T"
 	},
 
-	// Resource-specific
 	{
 		"name": "Camp",
 		"turnsToBuild": 7,
@@ -123,7 +121,7 @@
 	},
 	{
 		"name": "Offshore Platform",
-		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"turnsToBuild": 1, 
 		"techRequired": "Refrigeration",
 		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]",
             "Cannot be built on [Fallout] tiles",
@@ -160,7 +158,7 @@
 	},
 	{
 		"name": "Fishing Boats",
-		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"turnsToBuild": 1,  
 		"terrainsCanBeBuiltOn": ["Coast"],
 		"food": 1,
 		"techRequired": "Sailing",
@@ -170,7 +168,7 @@
 		"shortcutKey": "F"
 	},
 
-	// Military improvement
+
 	{
 		"name": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
@@ -182,7 +180,6 @@
 		"shortcutKey": "O"
 	},
 
-	// Transportation
 	{
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -213,9 +210,6 @@
         ]
 	},
 
-	// Removals
-	// Any improvement that starts with 'Remove ' is automatically changed into
-	// the improvement that removes the terrainfeature after it.
 	{
 		"name": "Remove Forest",
 		"turnsToBuild": 4,
@@ -239,7 +233,6 @@
 		"shortcutKey": "X"
 	},
 
-	// These are unique and have unique in-game checks related to them
 	{
 		"name": "Remove Road",
 		"turnsToBuild": 2,
@@ -265,7 +258,6 @@
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "."
 	},
-    // Purely for turnsToBuild and civilopediaText. Unbuildable so it doesn't show in ImprovementPicker
     {
         "name": "Repair",
         "terrainsCanBeBuiltOn": ["Land"],
@@ -276,7 +268,6 @@
     },
 
 
-    // Great Person improvements
 	{
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -326,7 +317,6 @@
 		]
 	},
 
-	//Civilization unique improvements
 	{
 		"name": "Moai",
 		"uniqueTo": "Polynesia",
@@ -362,7 +352,6 @@
 		"shortcutKey": "F"
 	},
 
-	// Unbuildable improvements
 	{
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
