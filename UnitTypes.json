@@ -1,0 +1,995 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+    },
+
+//other
+
+    {
+        "name": "Elephant",
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder",
+	"uniques": [
+		"[+15]% Strength <when attacking>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Naval Gunpowder",
+	"uniques": [
+		"[+15]% Strength <when attacking>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Air Gunpowder",
+	"uniques": [
+		"[+15]% Strength <when attacking>"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Energy Guns",
+	"uniques": [
+		"[+25]% Strength <when attacking>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Naval Energy Guns",
+	"uniques": [
+		"[+25]% Strength <when attacking>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Air Energy Guns",
+	"uniques": [
+		"[+25]% Strength <when attacking>"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Armored",
+	"uniques": [
+		"[+25]% Strength <when defending>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Naval Armor",
+	"uniques": [
+		"[+25]% Strength <when defending>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Air Armor",
+	"uniques": [
+		"[+25]% Strength <when defending>"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Siege",
+	"uniques": [
+		"[+200]% Strength <vs cities> <when attacking>",
+		"No defensive terrain penalty"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Hover",
+	"uniques": [
+		"Airborne",
+		"Can see over obstacles",
+		"No defensive terrain bonus",
+		"No defensive terrain penalty",
+		"May travel on Water tiles without embarking",
+		"Ignores terrain cost",
+		"Eliminates combat penalty for attacking across a coast",
+		"Eliminates combat penalty for attacking across a river"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Aircraft",
+	"uniques": [
+		"Airborne"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Recon",
+	"uniques": [
+		"Ignores terrain cost",
+		"Can see invisible [Land] units",
+		"Can see over obstacles",
+		"[+1] Sight <when [Embarked]>",
+		"Eliminates combat penalty for attacking over a river",
+		"Eliminates combat penalty for attacking across a coast"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder Amphibious",
+	"uniques": [
+		"[+50]% Strength <when defending> <when [Embarked]>",
+		"[+50]% Strength <when defending>",
+		"[+1] Sight <when [Embarked]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Data Uplinked",
+	"uniques": [
+		"[+15]% Strength <vs [{[non-[Naval Data Uplinked]]} {Water}] units>",
+		"[+15]% Strength <vs [{[non-[Data Uplinked]]} {Land}] units>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Naval Data Uplinked",
+	"uniques": [
+		"[+10]% Strength <vs [{[non-[Naval Data Uplinked]]} {Water}] units>",
+		"[+10]% Strength <vs [{[non-[Data Uplinked]]} {Land}] units>"
+		],
+        "movementType": "Water"
+    },
+
+	//for mod compatability
+
+    {
+        "name": "Scout",
+	"uniques": [
+		"Ignores terrain cost",
+		"Can see invisible [Land] units",
+		"Can see over obstacles",
+		"[+1] Sight <when [Embarked]>",
+		"Eliminates combat penalty for attacking over a river",
+		"Eliminates combat penalty for attacking across a coast"
+		],
+        "movementType": "Land"
+    },
+
+//Rover
+
+    {
+        "name": "Rover",
+	"uniques": [
+		"Ignores terrain cost"
+		],
+        "movementType": "Land"
+    },
+
+//infantry
+
+    {
+        "name": "Infantry",
+	"uniques": [
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Sword",
+	"uniques": [
+		"Infantry",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege Infantry",
+	"uniques": [
+		"[+100]% Strength <when defending>",
+		"No defensive terrain bonus",
+		"Can only attack <vs cities>",
+		"Ignores Zone of Control"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege Gunpowder Infantry",
+	"uniques": [
+		"[+50]% Strength <vs non-[cities]> <when attacking>",
+		"[+100]% Strength <vs cities> <when attacking>"
+		],
+        "movementType": "Land"
+    },
+
+	//anti-cav
+
+    {
+        "name": "Anti-Cavalry",
+	"uniques": [
+		"[+10]% Strength <vs [Mounted] units>",
+		"[-10]% Strength <vs [Infantry] units>,
+		"[-15]% Strength <vs [Archery] units>,
+		"[-15]% Strength <vs [Archery Light] units>,
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Sword Anti-Cavalry Light",
+	"uniques": [
+		"[+25]% Strength <vs [Mounted] units>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Sword Anti-Cavalry",
+	"uniques": [
+		"[+40]% Strength <vs [Mounted] units>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder Anti-Cavalry",
+	"uniques": [
+		"[+50]% Strength <vs [Mounted] units>"
+		],
+        "movementType": "Land"
+    },
+
+    //ranged
+
+    {
+        "name": "Archery Light",
+	"uniques": [
+		"[+10]% Strength <vs [Mounted] units> <when attacking>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+
+	//for mod compatability
+    {
+        "name": "Ranged Gunpowder",
+	"uniques": [
+		"[+15]% Strength <vs [{[non-[Naval Gunpowder]]} {Water}] units> <when attacking>",
+		"[+15]% Strength <vs [{[non-[Gunpowder]]} {Land}] units> <when attacking>",
+		"[+15]% Strength <vs [{[non-[Air Gunpowder]]} {Air}] units> <when attacking>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Gunpowder Light",
+	"uniques": [
+		"[+10]% Strength <vs [Mounted] units> <when attacking>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Gunpowder Emplacement",
+	"uniques": [
+		"Must set up to ranged attack",
+		"[+20]% Strength <vs [Infantry] units> <when attacking>",
+		"[+20]% Strength <vs [Archery] units> <when attacking>",
+		"[+20]% Strength <vs [Archery Light] units> <when attacking>",
+		"[+20]% Strength <vs [Mounted] units> <when attacking>",
+		"[+10]% Strength <vs [Armored] units> <when attacking>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Emplacement",
+	"uniques": [
+		"Must set up to ranged attack"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Archery",
+	"uniques": [
+		"[+20]% Strength <vs [Mounted] units> <when attacking>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder Cannon",
+	"uniques": [
+		"[+20]% Strength <vs [Mounted] units> <when attacking>",
+		"[+20]% Strength <vs [Armored] units> <when attacking>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege Assault",
+	"uniques": [
+		"Must set up to ranged attack",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Armored Artillery",
+	"uniques": [
+		"Must set up to ranged attack",
+		"[+20]% Strength <vs [Mounted] units> <when attacking>",
+		"[+20]% Strength <vs [Armored] units> <when attacking>"
+		],
+        "movementType": "Land"
+    },
+
+
+//cavalry
+
+
+    {
+        "name": "Mounted",
+	"uniques": [
+		"Can move after attacking",
+		"No defensive terrain bonus",
+		"[+20]% to Flank Attack bonuses",
+		"[-33]% Strength <vs cities> <when attacking>",
+		"Ignores Zone of Control",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Heavy Mounted",
+	"uniques": [
+		"Rough terrain penalty",
+		"[+20]% Strength <when attacking>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Heavy Armor",
+	"uniques": [
+		"Can move after attacking",
+		"Rough terrain penalty",
+		"[+20]% Strength <vs non-[Armored] units>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Heavy Armor Hover",
+	"uniques": [
+		"Can move after attacking",
+		"[+20]% Strength <vs non-[Armored] units>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Counter Cavalry",
+	"uniques": [
+		"[+35]% Strength <vs [Mounted] units>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Anti-Armor",
+	"uniques": [
+		"No defensive terrain bonus",
+		"[+50]% Strength <vs [Mounted] units>",
+		"[+50]% Strength <vs [Armored] units>"
+		],
+        "movementType": "Land"
+    },
+
+	//Mechs
+
+
+	{
+	"name": "Close Range Mech",
+	"uniques": [
+		"Mech",
+		"Ignore terrain cost",
+		"Can move after attacking",
+		"No defensive terrain bonus",
+		"Rough terrain penalty",
+		"Eliminates combat penalty for attacking across a river"
+		],
+	"movementType": "Land"
+	},
+	{
+	"name": "Ranged Mech",
+	"uniques": [
+		"Mech",
+		"Ignore terrain cost",
+		"Can move after attacking",
+		"No defensive terrain bonus",
+		"Rough terrain penalty",
+		"Eliminates combat penalty for attacking across a river"
+		],
+	"movementType": "Land"
+	},
+	{
+	"name": "AA Mech",
+	"uniques": [
+		"Mech",
+		"Ignore terrain cost",
+		"Rough terrain penalty",
+		"Cannot intercept [Ballistic] units",
+		"[2] extra interceptions may be made per turn"
+		],
+	"movementType": "Land"
+	},
+
+    //anti-air
+
+    {
+        "name": "Anti-Air",
+	"uniques": [
+		"[-50]% Strength <vs [Armored] units> <when attacking>",
+		"[+50]% Strength <vs [Airborne] units>",
+		"[+20]% Strength <vs [Helicopter] units>",
+		"[+25]% Damage when intercepting",
+		"[-33]% Strength <vs cities>",
+		"Cannot intercept [Ballistic] units",
+		"Cannot intercept [Satellite] units",
+		"Eliminates combat penalty for attacking across a coast",
+		"Eliminates combat penalty for attacking across a river",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Coast] tile> <before discovering [Navigation]>",
+		"[This Unit] takes [5] damage <upon ending a turn in a [Ocean] tile> <before discovering [Radar]>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Advanced Anti-Air",
+	"uniques": [
+		"[-50]% Strength <vs [Armored] units> <when attacking>",
+		"[+80]% Strength <vs [Airborne] units>",
+		"[+20]% Strength <vs [Helicopter] units>",
+		"[+30]% Strength <vs [Heavy Helicopter] units>",
+		"[+50]% Damage when intercepting",
+		"[-33]% Strength <vs cities>",
+		"Cannot intercept [Satellite] units",
+		"Can move after attacking",
+		"No defensive terrain bonus",
+		"Eliminates combat penalty for attacking across a coast",
+		"Eliminates combat penalty for attacking across a river"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Missile Defense",
+	"uniques": [
+		"Cannot attack <vs [non-[Airborne]] units>",
+		"[2] extra interceptions may be made per turn",
+		"Cannot intercept [Satellite] units",
+		"[+5000]% Damage when intercepting"
+		],
+        "movementType": "Land"
+    },
+
+	//torpedo
+	{
+	"name": "Torpedo",
+	"uniques": [
+		"Cannot be intercepted",
+		"Can only attack [Water] units",
+		"Self-destructs when attacking",
+		"[This unit] takes [50] damage <upon ending a turn in a [{non-[Coastal]} {Land}] tile>",
+		"No damage penalty for wounded units",
+		"[+50]% Strength <vs non-[Naval Armor] units>",
+		"[Gold] cost of purchasing [Torpedo] units [+50]% <after discovering [Combustion]>",
+		"[Gold] cost of purchasing [Torpedo] units [+50]% <after discovering [Rocketry]>",
+		"[Gold] cost of purchasing [Torpedo] units [+75]% <after discovering [Advanced Missile Tech]>",
+		"Blast radius [0]"
+		],
+	"movementType": "Air"
+	},
+
+	//missiles
+
+	{
+	"name": "Missile",
+	"uniques": [
+		"Can only be built <in cities with a [Missile Battery]>",
+		"Self-destructs when attacking",
+		"[+4] Sight",
+		"Can see over obstacles",
+		"Ranged attacks may be performed over obstacles",
+		"[+50]% Strength <vs non-[Gunpowder] units>",
+		"[+25]% Strength <vs non-[Armored] units>",
+		"[+25]% Strength <vs non-[Naval Armor] units>"
+		],
+	"movementType": "Air"
+	},
+    {
+        "name": "Ballistic",
+        "movementType": "Air"
+    },
+	{
+	"name": "Conventional Missile",
+	"uniques": [
+		"[+25]% Strength <vs cities> <when attacking>",
+		"[+25]% Strength <vs [Armored] units> <when attacking>",
+		"[+50]% Strength <vs [Water] units> <when attacking>",
+		"[+50]% Strength <vs [Airborne] units> <when attacking>",
+		"[+50]% Strength <after discovering [Advanced Missile Tech]>",
+		"[+100]% Strength <after discovering [Advanced Electronics]>"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Fast Missile",
+	"uniques": [
+		"Cannot intercept [Satellite] units",
+		"[+150]% Strength <vs [Armored] units> <when attacking>",
+		"[+150]% Strength <vs [Water] units> <when attacking>",
+		"[+150]% Strength <vs [Airborne] units> <when attacking>",
+		"[+95]% chance to intercept air attacks",
+		"[+100]% Damage when intercepting",
+		"[+100]% Strength <after discovering [Advanced Electronics]>"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Anti-Air Missile",
+	"uniques": [
+		"Cannot intercept [Satellite] units",
+		"[+300]% Strength <vs [Airborne] units>",
+		"[+200]% Strength <vs [Missile] units>",
+		"[+100]% Strength <after discovering [Advanced Missile Tech]>",
+		"[+100]% Strength <after discovering [Advanced Electronics]>"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Anti-Sat",
+	"uniques": [
+		"Cannot intercept [Aircraft] units",
+		"Can only attack [Satellite] units",
+		"[+200]% Strength <vs [Satellite] units>",
+		"[+100]% Strength <after discovering [Advanced Electronics]>"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Drop Pod",
+	"uniques": [
+		"Self-destructs when attacking",
+		"[+4] Sight",
+		"Can see over obstacles",
+		"Ranged attacks may be performed over obstacles",
+		"[+50]% Strength <vs [non-[Armored]] units>"
+		"[+200]% Strength <when attacking>",
+		"Can only be built <in cities with a [Orbital Launch Facility]>",
+		"Damage taken from interception reduced by [90]%",
+		"Blast radius [1]"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Chem Missile",
+	"uniques": [
+		"Limited to [3] per Civilization",
+		"Only available <if [War Crime Checklist] is constructed>",
+		"[+300]% Strength <vs non-[Armored] units> <when attacking>",
+		"[+300]% Strength <vs non-[Gunpowder] units> <when attacking>",
+		"[+200]% Strength <vs [Gunpowder] units> <when attacking>",
+		"[-90]% Strength <vs [Armored] units> <when attacking>",
+		"[+50]% Strength <after discovering [Advanced Missile Tech]>",
+		"[+100]% Strength <after discovering [Bioengineering]>",
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Nuke Missile",
+	"uniques": [
+		"Only available <if [Manhattan Project] is constructed>"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Atomic Bomber",
+	"uniques": [
+		"Destroys tile improvements when attacking",
+		"Self-destructs when attacking",
+		"Only available <if [Manhattan Project] is constructed>"
+		],
+	"movementType": "Air"
+	},
+	{
+	"name": "Nuke Truck",
+	"uniques": [
+		"Only available <if [Manhattan Project] is constructed>",
+		"Limited to [3] per Civilization",
+		"Self-destructs when attacking",
+		"[-75]% Strength <when defending>",
+		"No defensive terrain bonus"
+		],
+	"movementType": "Land"
+	},
+
+	//Satellites
+
+	{
+	"name": "Satellite",
+	"uniques": [
+		"Can only be built <in cities with a [Orbital Launch Facility]>",
+		"[+4] Sight",
+		"Can see over obstacles",
+		"Ranged attacks may be performed over obstacles"
+		],
+	"movementType": "Air"
+	},
+    {
+        "name": "ODST Satellite",
+        "uniques": [
+		"[+5000]% Strength <vs non-[Satellite] units>',
+		"[+5000]% Strength <vs non-[Missile] units>',
+		"All tiles cost 1 movement",
+		"Ignores Zone of Control",
+		"Can pass through impassable tiles",
+		"May travel on Water tiles without embarking", 
+		"Unable to capture cities",
+		"Cannot attack",
+		"[+6] Sight"
+		],
+	"movementType": "Land"
+    },
+
+	//supercarriers
+	{
+	"name": "Land Carrier",
+	"uniques": ["Carrier",
+		"Limited to [3] per Civilization",
+		"Can move after attacking",
+		"Can carry [4] [Missile] units",
+		"Can carry [0] [Ballistic] units",
+		"Can carry [1] [Satellite] units",
+		"Cannot intercept [Missile] units",
+		"Cannot intercept [Satellite] units",
+		],
+	"movementType": "Land"
+	},
+	{
+	"name": "Hover Carrier",
+	"uniques": ["Carrier",
+		"Cannot attack",
+		"Can carry [4] [Missile] units",
+		"Can carry [0] [Ballistic] units",
+		"Can carry [1] [Satellite] units",
+		"[-25]% Strength <vs [Air] units> <when defending>",
+		"Cannot intercept [Missile] units",
+		"Cannot intercept [Satellite] units",
+		"[100]% chance to intercept air attacks"
+		],
+	"movementType": "Land",
+	},
+	{
+	"name": "Heavy Hover Carrier",
+	"uniques": ["Carrier",
+		"Limited to [1] per Civilization",
+		"Can move after attacking",
+		"[+2] Sight",
+		"Can carry [4] [Missile] units",
+		"Can carry [2] [Ballistic] units",
+		"Can carry [1] [Satellite] units",
+		"[+50]% Strength <vs cities>",
+		"[+50]% Strength <vs [Armored] units>",
+		"[+25]% Strength <vs [Air] units> <when defending>",
+		"Cannot intercept [Missile] units",
+		"Cannot intercept [Satellite] units",
+		"[100]% chance to intercept air attacks"
+		],
+	"movementType": "Land",
+	},
+
+	//Drones
+
+
+    {
+        "name": "Assault Drone",
+	"uniques": [
+		"Drone",
+		"No defensive terrain bonus",
+		"Ignores Zone of Control",
+		"Unable to capture cities",
+		"Can move after attacking"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Hover Drone",
+	"uniques": [
+		"Drone",
+		"Ignores Zone of Control",
+		"Unable to capture cities",
+		"Can move after attacking",
+		"Withdraws before melee combat <with [25]% chance>",
+		"[-50]% Strength <vs [Air] units>",
+		"[-50]% Strength <vs cities>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Naval Drone",
+	"uniques": [
+		"Drone",
+		"Ignores Zone of Control",
+		"Unable to capture cities",
+		"Self-destructs when attacking",
+		"Withdraws before melee combat <with [25]% chance>"
+		],
+        "movementType": "Water"
+    },
+
+	//helicopters
+
+    {
+        "name": "Helicopter",
+        "uniques": [
+		"Can pass through impassable tiles",
+		"May travel on Water tiles without embarking"
+		"Can move after attacking",
+		"Ignores Zone of Control",
+		"Ignores terrain cost",
+		"Unable to capture cities",
+		"[+20]% to Flank Attack bonuses",
+		"[+30]% Strength <vs [Armored] units>",
+		"[-50]% Strength <vs [Air] units>",
+		"[-25]% Strength <vs cities>",
+		"Withdraws before melee combat <with [50]% chance> <vs non-[Anti-Air] units>"
+		],
+        "movementType": "Land"
+    },
+    {
+        "name": "Heavy Helicopter",
+        "uniques": [
+		"Can pass through impassable tiles",
+		"Can move after attacking",
+		"Ignores Zone of Control",
+		"Unable to capture cities",
+		"May travel on Water tiles without embarking"
+		"Ignores terrain cost"
+		"[+20]% to Flank Attack bonuses",
+		"[+100]% Strength <vs [Infantry] units>",
+		"[+75]% Strength <vs [Armored] units>",
+		"[-50]% Strength <vs [Air] units>",
+		"[-25]% Strength <vs cities>",
+		"Withdraws before melee combat <with [50]% chance> <vs non-[Anti-Air] units>"
+		],
+        "movementType": "Land"
+    },
+
+    //naval
+
+    {
+        "name": "Melee Water",
+	"uniques": [
+		"[+50]% Strength <vs [Naval Raider] units>",
+		"Can see invisible [Water] units"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Melee Water Gunpowder",
+	"uniques": [
+		"Withdraws before melee combat <with [60]% chance>",
+		"[+100]% Strength <vs [Submarine] units>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Melee Water AA",
+	"uniques": [
+		"Withdraws before melee combat <with [60]% chance>",
+		"[+100]% Strength <vs [Submarine] units>",
+		"[+50]% Strength <vs [Airborne] units>",
+		"[+50]% Damage when intercepting",
+		"Cannot intercept [Ballistic] units",
+		"Cannot intercept [Satellite] units"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Ranged Water",
+	"uniques": [
+		"[-20]% Strength <vs [Land] units>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Naval Ranged AA",
+	"uniques": [
+		"Can move after attacking",
+		"Can see invisible [Water] units",
+		"[+50]% Strength <vs [Airborne] units>",
+		"[+50]% Damage when intercepting",
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Naval Siege",
+	"uniques": [
+		"[-40]% Strength <vs [Naval Submarine] units>", "[-20]% Strength <vs [Naval Raider] units>",
+		"[+25]% Strength <vs [Land] units>", "[+50]% Strength <vs cities>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Naval Siege Gunpowder",
+	"uniques": [
+		"[+100]% Strength <vs [Water] units> <when attacking>",
+		"[-20]% Strength <vs [Naval Submarine] units>",
+		"[+25]% Strength <vs [Land] units>",
+		"[+10]% Strength <vs cities>"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Naval Raider",
+        "uniques": [
+		"May capture killed [Water] units",
+		"Invisible to non-adjacent units",
+		"Can see invisible [Naval Raider] units"
+		],
+        "movementType": "Water"
+    },
+    {
+        "name": "Submarine",
+        "uniques": [
+		"[+75]% Strength <when attacking>",
+		"Must set up to ranged attack",
+		"Double movement in [Ocean]",
+		"Can only attack [Water] tiles",
+		"Can enter ice tiles",
+		"Invisible to non-adjacent units",
+		"Can see invisible [Naval Submarine] units",
+		"Can see invisible [Naval Raider] units"
+		],
+        "movementType": "Water"
+    },
+    {
+	"name": "Aircraft Carrier",
+	"uniques": [
+		"Cannot attack",
+		"Carrier",
+		"Cannot intercept [Satellite] units",
+		"Cannot intercept [Missile] units"
+		],
+        "movementType": "Water"
+    },
+
+    //aircraft
+
+    {
+        "name": "Fighter",
+        "uniques": [
+		"[+4] Sight",
+		"Can see over obstacles",
+		"Can perform Air Sweep",
+		"[+100]% Strength <vs [CAS] units>",
+		"[+50]% Strength <vs [Bomber] units>",
+		"[+75]% Strength <vs [Atomic Bomber] units>",
+		"[+50]% Strength <vs [Helicopter] units>",
+		"[+25]% Strength <vs [Heavy Helicopter] units>",
+		"Cannot intercept [Missile] units",
+		"Cannot intercept [Satellite] units"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Interceptor",
+        "uniques": [
+		"[+4] Sight",
+		"Can see over obstacles",
+		"Can perform Air Sweep",
+		"[+50]% Strength <vs [CAS] units>",
+		"[+100]% Strength <vs [Bomber] units>",
+		"[+150]% Strength <vs [Atomic Bomber] units>",
+		"[+50]% Strength <vs [Helicopter] units>",
+		"[+25]% Strength <vs [Heavy Helicopter] units>",
+		"Cannot intercept [Ballistic] units",
+		"Cannot intercept [Satellite] units"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Low Orbit Aircraft",
+        "uniques": [
+		"[+4] Sight",
+		"Can see over obstacles",
+		"Can perform Air Sweep",
+		"[+50]% Strength when performing Air Sweep",
+		"[100]% chance to intercept air attacks",
+		"Cannot intercept [Ballistic] units",
+		"[-33]% Strength <vs cities>",
+		"[+10]% Strength <vs non-[Air] units>",
+		"[+50]% Strength <vs [Air] units>",
+		"[+150]% Damage when intercepting <vs non-[Satellite] units>"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Bomber",
+        "uniques": [
+		"[+25]% Strength <vs cities>",
+		"[+25]% Strength <vs [Armored] units>",
+		"[+25]% Strength <vs [Naval Armor] units>"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "Large Bomber",
+        "uniques": [
+		"[+35]% Strength <vs cities>",
+		"[+25]% Strength <vs [Armored] units>",
+		"[+25]% Strength <vs [Naval Armor] units>"
+		"Cannot be carried by [Carrier] units"
+		],
+        "movementType": "Air"
+    },
+    {
+        "name": "CAS",
+        "uniques": [
+		"Can perform Air Sweep",
+		"[+75]% Strength <vs [Armored] units>",
+		"[+50]% Strength <vs [Naval Armor] units>"
+		"[+150]% Strength <vs [Helicopter] units>",
+		"[+100]% Strength <vs [Heavy Helicopter] units>"
+		],
+        "movementType": "Air"
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "Melee",
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land"
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land"
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water"
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air"
+    }
+    
+]
