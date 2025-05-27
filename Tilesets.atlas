@@ -1,0 +1,1161 @@
+Tilesets.png
+size:2048,1024
+repeat:none
+Academy
+bounds:1950,804,32,36
+Academy-Future era
+bounds:1767,958,64,64
+Academy-Atomic era
+bounds:1767,958,64,64
+Academy-Information era
+bounds:1767,958,64,64
+Academy-Snow
+bounds:1303,573,32,35
+AcademyT
+bounds:1503,958,64,64
+AcademyT-Information era
+bounds:1635,958,64,64
+AcademyT-Atomic era
+bounds:1635,958,64,64
+AcademyT-Future era
+bounds:1635,958,64,64
+African Forest Elephant
+bounds:332,277,32,29
+Aluminum
+bounds:502,332,32,28
+Ancient ruins
+bounds:1779,482,32,28
+Ancient ruins-Jungle
+bounds:1541,541,32,32
+Ancient ruins-Sand
+bounds:502,272,32,28
+Ancient ruins-Snow
+bounds:502,242,32,28
+Ancient ruins2
+bounds:1134,432,32,28
+Anti-Aircraft Gun
+bounds:434,45,32,28
+Anti-Tank Gun
+bounds:1270,450,32,28
+Archaeologist
+bounds:658,464,32,28
+Archer
+bounds:862,462,32,28
+Artillery
+bounds:468,62,32,28
+Artillery-Atomic era
+bounds:1201,610,64,56
+Atlatlist
+bounds:1168,512,32,28
+Atoll
+bounds:468,212,32,28
+Axe Thrower
+bounds:400,27,32,28
+Ballista
+bounds:692,462,32,28
+Bananas
+bounds:1881,512,32,28
+Bananas+Plantation
+bounds:1158,784,64,56
+Barbarian encampment
+bounds:828,462,32,28
+Barbarian encampment-Snow
+bounds:332,308,32,29
+Barbarian encampmentT
+bounds:564,744,64,56
+Barringer Crater
+bounds:468,332,32,28
+Battering Ram
+bounds:1100,522,32,28
+Battleship
+bounds:998,432,32,28
+Bazooka
+bounds:1406,480,32,28
+Berber Cavalry
+bounds:1474,510,32,28
+Berserker
+bounds:1134,522,32,28
+Bison
+bounds:400,207,32,28
+Bison+Camp
+bounds:1236,510,32,28
+Bowman
+bounds:590,510,32,28
+Brute
+bounds:1338,480,32,28
+Camel Archer
+bounds:332,215,32,29
+Camp
+bounds:1333,610,64,56
+Camp-Industrial era
+bounds:735,842,64,56
+Cannon
+bounds:366,207,32,28
+Caravan
+bounds:1507,574,32,34
+Caravel
+bounds:1201,542,32,28
+Cargo Ship
+bounds:1406,510,32,28
+Carolean
+bounds:896,492,32,28
+Carrier
+bounds:1983,513,32,28
+Carrier-Information era
+bounds:1531,668,64,56
+Cataphract
+bounds:366,237,32,28
+Catapult
+bounds:502,152,32,28
+Cattle
+bounds:468,122,32,28
+Cattle+Pasture
+bounds:1643,576,32,32
+Cattle+Pasture-Industrial era
+bounds:739,668,64,56
+Cattle+Pasture-Pillaged
+bounds:2,26,64,64
+Horses+Pasture-Pillaged
+bounds:2,26,64,64
+Pasture-Pillaged
+bounds:2,26,64,64
+Sheep+Pasture-Pillaged
+bounds:2,26,64,64
+CattleG
+bounds:1003,668,64,56
+CattleP
+bounds:1863,900,64,56
+Cavalry
+bounds:1779,512,32,28
+Cerro de Potosi
+bounds:434,315,32,28
+Chariot Archer
+bounds:794,462,32,28
+Chariot Archer-Barbarians
+bounds:2,359,95,81
+Chu-Ko-Nu
+bounds:828,522,32,28
+Citadel
+bounds:1950,729,32,35
+Citadel-Atomic era
+bounds:68,160,64,64
+Citadel-Pillaged
+bounds:134,160,64,64
+Citadel-Snow
+bounds:1995,665,32,30
+CitadelT
+bounds:200,292,64,64
+CitadelT-Atomic era
+bounds:68,226,64,64
+CitadelT-Pillaged
+bounds:134,94,64,64
+Citrus
+bounds:1270,480,32,28
+Citrus+Plantation
+bounds:556,510,32,28
+City center
+bounds:1371,573,32,35
+City center-Ancient era
+bounds:1961,695,32,32
+City center-Atomic era
+bounds:1405,574,32,34
+City center-Classical era
+bounds:1677,542,32,32
+City center-Future era
+bounds:1473,574,32,34
+City center-Industrial era
+bounds:1575,575,32,33
+City center-Information era
+bounds:1201,572,32,36
+City center-Medieval era
+bounds:1847,542,32,32
+City center-Modern era
+bounds:1439,574,32,34
+City center-Renaissance era
+bounds:1405,540,32,32
+City ruins
+bounds:964,522,32,28
+CivilianLandUnit
+bounds:433,405,32,28
+Coal
+bounds:862,492,32,28
+Coast
+bounds:1915,501,32,28
+Cocoa
+bounds:468,302,32,28
+Cocoa+Plantation
+bounds:1575,511,32,28
+Comanche Rider
+bounds:332,153,32,29
+Comanche Riders
+bounds:2,292,64,65
+Companion Cavalry
+bounds:1995,603,32,29
+Composite Bowman
+bounds:1100,462,32,28
+ConcaveConvexInner
+bounds:364,776,81,15
+ConcaveConvexOuter
+bounds:364,793,81,15
+ConcaveInner
+bounds:409,585,81,15
+ConcaveOuter
+bounds:281,776,81,15
+Conquistador
+bounds:590,540,32,28
+ConvexConcaveInner
+bounds:281,793,81,15
+ConvexConcaveOuter
+bounds:68,11,81,15
+ConvexInner
+bounds:447,776,81,15
+ConvexOuter
+bounds:447,793,81,15
+Copper
+bounds:434,105,32,28
+Cossack
+bounds:624,450,32,28
+Cotton
+bounds:1304,450,32,28
+Cotton+Plantation
+bounds:1267,668,64,56
+Crab
+bounds:354,537,32,28
+Crossbowman
+bounds:399,417,32,28
+Crosshair
+bounds:2,442,116,100
+CrosshatchHexagon
+bounds:2,544,273,236
+Cruiser
+bounds:658,494,32,26
+Customs house
+bounds:1337,573,32,35
+Customs house-Atomic era
+bounds:2,92,64,64
+Customs houseT
+bounds:68,292,64,64
+Customs houseT-Atomic era
+bounds:1965,958,64,64
+Deer
+bounds:624,540,32,28
+Deer+Camp
+bounds:492,572,32,28
+Deer+Camp-Industrial era
+bounds:186,424,64,56
+Deer+Camp-Pillaged
+bounds:200,164,64,60
+Camp-Pillaged
+bounds:200,164,64,60
+Deer+CampT-Pillaged
+bounds:200,164,64,60
+Furs+Camp-Pillaged
+bounds:200,164,64,60
+FursT+Camp-Pillaged
+bounds:200,164,64,60
+Truffles+Camp-Pillaged
+bounds:200,164,64,60
+Truffles+CampT-Pillaged
+bounds:200,164,64,60
+Deer+CampT
+bounds:541,686,64,56
+Deer+CampT-Industrial era
+bounds:1401,900,64,56
+Desert
+bounds:332,2,32,28
+Desert+Farm
+bounds:896,432,32,28
+Desert+Flood plains+Farm
+bounds:1989,824,32,28
+Desert+Hill
+bounds:1467,900,64,56
+Desert+Hill+Fallout
+bounds:1290,784,64,56
+Desert+Hill+Fallout2
+bounds:1599,900,64,56
+Desert+Hill2
+bounds:1092,726,64,56
+Desert2
+bounds:1203,900,64,56
+Desert3
+bounds:1135,610,64,56
+Destroyer
+bounds:354,507,32,28
+Dromon
+bounds:434,375,32,28
+Dyes
+bounds:454,465,32,28
+Dyes+Plantation
+bounds:1372,450,32,28
+El Dorado
+bounds:332,122,32,29
+EmbarkedUnit-Civilian
+bounds:454,525,32,28
+EmbarkedUnit-Civilian-Modern era
+bounds:658,522,32,28
+EmbarkedUnit-Civilian-Renaissance era
+bounds:1395,842,64,56
+EmbarkedUnit-Military
+bounds:366,297,32,28
+EmbarkedUnit-Military-Modern era
+bounds:1134,462,32,28
+EmbarkedUnit-Military-Renaissance era
+bounds:1597,668,64,56
+EmbarkedUnit-Settler
+bounds:1066,432,32,28
+EmbarkedUnit-Settler-Modern era
+bounds:502,92,32,28
+EmbarkedUnit-Settler-Renaissance era
+bounds:288,498,64,56
+Fallout
+bounds:1269,573,32,35
+Farm
+bounds:266,188,64,56
+Farm+Wheat
+bounds:1290,726,64,56
+FarmD
+bounds:673,668,64,56
+FarmDH
+bounds:1224,784,64,56
+FarmDH-Pillaged
+bounds:222,482,64,60
+FarmGH-Pillaged
+bounds:222,482,64,60
+FarmPH-Pillaged
+bounds:222,482,64,60
+FarmSH-Pillaged
+bounds:222,482,64,60
+FarmTH-Pillaged
+bounds:222,482,64,60
+FarmG
+bounds:1884,784,64,56
+FarmGH
+bounds:1795,610,64,56
+FarmP
+bounds:475,602,64,56
+FarmP-Pillaged
+bounds:873,900,64,60
+Farm-Pillaged
+bounds:873,900,64,60
+FarmD-Pillaged
+bounds:873,900,64,60
+FarmG-Pillaged
+bounds:873,900,64,60
+FarmS-Pillaged
+bounds:873,900,64,60
+FarmT-Pillaged
+bounds:873,900,64,60
+Wheat+Farm-Pillaged
+bounds:873,900,64,60
+FarmPH
+bounds:541,570,64,56
+FarmS
+bounds:673,552,64,56
+FarmSH
+bounds:1399,668,64,56
+FarmT
+bounds:894,726,64,56
+FarmTH
+bounds:1003,552,64,56
+Fish
+bounds:502,212,32,28
+Fishing Boats
+bounds:692,522,32,28
+Fishing Boats-Industrial era
+bounds:696,784,64,56
+Flood plains
+bounds:354,477,32,28
+Foreign Legion
+bounds:468,362,32,28
+Forest
+bounds:1711,542,32,32
+ForestG
+bounds:762,726,64,56
+ForestGH
+bounds:567,802,64,56
+ForestGHLow
+bounds:1269,900,64,56
+ForestGHUp
+bounds:1620,726,64,56
+ForestGLow
+bounds:1399,610,64,56
+ForestGUp
+bounds:541,628,64,56
+ForestP
+bounds:1071,900,64,56
+ForestPH
+bounds:1026,784,64,56
+ForestPHLow
+bounds:1356,784,64,56
+ForestPHUp
+bounds:266,246,64,56
+ForestPLow
+bounds:1422,784,64,56
+ForestPUp
+bounds:871,610,64,56
+ForestT
+bounds:1026,726,64,56
+ForestTH
+bounds:409,718,64,56
+ForestTLow
+bounds:1663,668,64,56
+ForestTUp
+bounds:1092,784,64,56
+Fort
+bounds:1541,575,32,33
+Fort-Atomic era
+bounds:1923,842,64,56
+Fort-Industrial era
+bounds:960,726,64,56
+Fort-Pillaged
+bounds:277,590,64,60
+FortT
+bounds:1158,726,64,56
+FortT-Atomic era
+bounds:871,668,64,56
+FortT-Industrial era
+bounds:1333,668,64,56
+FortT-Pillaged
+bounds:231,362,64,60
+Fountain of Youth
+bounds:1961,627,32,32
+Frigate
+bounds:1202,482,32,28
+Furs
+bounds:692,432,32,28
+Furs+Camp
+bounds:1032,492,32,28
+Furs+Camp-Industrial era
+bounds:739,552,64,56
+FursT
+bounds:696,726,64,56
+FursT+Camp
+bounds:1069,552,64,56
+FursT+Camp-Industrial era
+bounds:1752,784,64,56
+Future Infantry
+bounds:607,570,64,56
+Galleass
+bounds:400,147,32,28
+Galley
+bounds:1745,482,32,28
+Gatling Gun
+bounds:624,510,32,28
+Gems
+bounds:502,392,32,28
+Generic
+bounds:873,962,100,60
+Giant Death Robot
+bounds:1269,540,32,31
+Gold Ore
+bounds:1915,531,32,28
+Grand Mesa
+bounds:1881,542,32,32
+Grassland
+bounds:1168,452,32,28
+Grassland+Farm
+bounds:352,447,32,28
+Grassland+Forest+Camp
+bounds:1371,540,32,31
+Grassland+Forest+Deer+Camp
+bounds:318,465,32,31
+Grassland+Forest+Furs+Camp
+bounds:1961,594,32,31
+Grassland+Forest+Lumber mill
+bounds:1337,540,32,31
+Grassland+Forest+Truffles+Camp
+bounds:1949,561,32,31
+Grassland+Hill
+bounds:1818,726,64,56
+Grassland+Hill+Fallout
+bounds:894,784,64,56
+Grassland+Hill+Fallout2
+bounds:266,72,64,56
+Grassland+Hill+Farm
+bounds:420,495,32,28
+Grassland+Hill+Forest+Camp
+bounds:1949,501,32,28
+Grassland+Hill+Forest+Trading post
+bounds:502,122,32,28
+Grassland+Hill2
+bounds:937,552,64,56
+Grassland+Jungle+Trading post
+bounds:1813,542,32,32
+Grassland2
+bounds:867,842,64,56
+Grassland3
+bounds:739,610,64,56
+GrasslandForest
+bounds:318,432,32,31
+Great Admiral
+bounds:1989,854,32,31
+Great Artist
+bounds:1304,480,32,28
+Great Artist-Modern era
+bounds:475,718,64,56
+Great Barrier Reef
+bounds:930,522,32,28
+Great Engineer
+bounds:332,62,32,28
+Great Engineer-Modern era
+bounds:1663,610,64,56
+Great Galleass
+bounds:454,495,32,28
+Great General
+bounds:1303,540,32,31
+Great General-Modern era
+bounds:2,158,64,65
+Great Merchant
+bounds:1643,512,32,28
+Great Merchant-Modern era
+bounds:266,304,64,56
+Great Musician
+bounds:1609,512,32,28
+Great Prophet
+bounds:1745,512,32,28
+Great Scientist
+bounds:1983,453,32,28
+Great Scientist-Modern era
+bounds:762,784,64,56
+Great War Infantry
+bounds:1066,492,32,28
+Great Writer
+bounds:1168,482,32,28
+Hakkapeliitta
+bounds:1032,522,32,28
+Helicopter Gunship
+bounds:998,522,32,28
+Hexagon
+bounds:2,782,277,240
+Highlight
+bounds:281,810,284,212
+Hill
+bounds:1779,542,32,32
+HillForest+Lumber mill
+bounds:556,450,32,28
+HillMarbleQuarry
+bounds:433,435,32,28
+HillMine
+bounds:468,182,32,28
+HillStoneQuarry
+bounds:400,117,32,28
+Holy site
+bounds:633,822,32,36
+Holy siteT
+bounds:1701,958,64,64
+Holy siteT-Pillaged
+bounds:975,958,64,64
+Academy-Pillaged
+bounds:975,958,64,64
+AcademyT-Pillaged
+bounds:975,958,64,64
+Customs house-Pillaged
+bounds:975,958,64,64
+Customs houseT-Pillaged
+bounds:975,958,64,64
+Holy site-Pillaged
+bounds:975,958,64,64
+Manufactory-Pillaged
+bounds:975,958,64,64
+ManufactoryT-Pillaged
+bounds:975,958,64,64
+Hoplite
+bounds:1134,492,32,28
+Horse Archer
+bounds:434,285,32,28
+Horseman
+bounds:468,32,32,28
+Horses
+bounds:1813,512,32,28
+Horses+Pasture
+bounds:530,776,32,32
+Horses+Pasture-Industrial era
+bounds:1263,842,64,56
+Hussar
+bounds:1984,729,32,29
+HutFarm
+bounds:1197,842,64,56
+HutFarm-Atomic era
+bounds:1659,842,64,56
+HutFarm-Atomic era2
+bounds:266,130,64,56
+HutFarm-Industrial era
+bounds:805,552,64,56
+HutFarm-Industrial era2
+bounds:1729,610,64,56
+HutFarm2
+bounds:1356,726,64,56
+HutFarm3
+bounds:1533,900,64,56
+HutFarm-Atomic era3
+bounds:1533,900,64,56
+HutFarm-Industrial era3
+bounds:1533,900,64,56
+HutFarmT3
+bounds:1533,900,64,56
+HutFarmT
+bounds:1488,726,64,56
+HutFarmT-Atomic era
+bounds:1795,668,64,56
+HutFarmT-Atomic era2
+bounds:1861,668,64,56
+HutFarmT-Industrial era
+bounds:1527,842,64,56
+HutFarmT-Industrial era2
+bounds:1224,726,64,56
+HutFarmT2
+bounds:1725,842,64,56
+Hwach'a
+bounds:468,152,32,28
+Ice
+bounds:365,387,32,28
+Immortal
+bounds:434,165,32,28
+Impi
+bounds:1541,511,32,28
+Incense
+bounds:502,2,32,28
+Incense+Plantation
+bounds:502,362,32,28
+Infantry
+bounds:400,327,32,28
+Inquisitor
+bounds:794,522,32,28
+Iron
+bounds:502,302,32,28
+Ironclad
+bounds:794,492,32,28
+Ivory
+bounds:726,522,32,28
+Ivory+Camp
+bounds:366,327,32,28
+Ivory+Camp-Industrial era
+bounds:1488,784,64,56
+Ivory+Camp-Pillaged
+bounds:277,652,64,60
+Jaguar
+bounds:366,57,32,28
+Janissary
+bounds:467,422,32,28
+Jungle
+bounds:1711,576,32,32
+JungleG
+bounds:805,610,64,56
+JungleGLow
+bounds:1465,668,64,56
+JungleGUp
+bounds:1554,726,64,56
+JungleP
+bounds:1797,900,64,56
+JunglePLow
+bounds:1554,784,64,56
+JunglePUp
+bounds:120,424,64,56
+Keshik
+bounds:1983,543,32,28
+Khan
+bounds:1915,561,32,31
+Khan-Modern era
+bounds:2,225,64,65
+Knight
+bounds:1881,482,32,28
+Krakatoa
+bounds:1995,697,32,30
+Kris Swordsman
+bounds:420,465,32,28
+Lakes
+bounds:366,177,32,28
+Lancer
+bounds:468,272,32,28
+LandUnit
+bounds:726,492,32,28
+Landmark
+bounds:1950,766,32,36
+LandmarkT
+bounds:1437,958,64,64
+LandmarkT-Pillaged
+bounds:1569,958,64,64
+Landmark-Pillaged
+bounds:1569,958,64,64
+Landship
+bounds:1202,422,32,28
+Landsknecht
+bounds:1304,510,32,28
+Legion
+bounds:1440,510,32,28
+Longbowman
+bounds:400,57,32,28
+Longswordsman
+bounds:998,492,32,28
+Lumber mill
+bounds:1005,900,64,56
+Lumber mill-Industrial era
+bounds:669,842,64,56
+Lumber millT
+bounds:1791,842,64,56
+Lumber millT-Industrial era
+bounds:607,686,64,56
+Lumber millT-Pillaged
+bounds:200,102,64,60
+Lumber mill-Pillaged
+bounds:200,102,64,60
+Machine Gun
+bounds:488,452,32,28
+Mandekalu Cavalry
+bounds:332,92,32,28
+Manufactory
+bounds:1995,917,32,39
+Manufactory-Atomic era
+bounds:1899,958,64,64
+Manufactory-Industrial era
+bounds:68,94,64,64
+ManufactoryT
+bounds:68,28,64,64
+ManufactoryT-Atomic era
+bounds:134,292,64,64
+ManufactoryT-Industrial era
+bounds:200,226,64,64
+Maori Warrior
+bounds:930,462,32,28
+Marauder
+bounds:1168,422,32,28
+Marble
+bounds:434,195,32,28
+Marble+Quarry
+bounds:937,668,64,56
+Marble+Quarry-Industrial era
+bounds:252,424,64,56
+Marble+QuarryT
+bounds:1731,900,64,56
+Marble+QuarryT-Industrial era
+bounds:1857,842,64,56
+Marble+QuarryT-Pillaged
+bounds:1371,958,64,64
+Marble+Quarry-Pillaged
+bounds:1371,958,64,64
+Marine
+bounds:726,462,32,28
+Marsh
+bounds:332,339,32,29
+Mechanized Infantry
+bounds:399,387,32,28
+Mehal Sefari
+bounds:366,147,32,28
+Merchant Of Venice
+bounds:400,357,32,28
+Mine
+bounds:366,267,32,28
+Mine-Industrial era
+bounds:801,842,64,56
+Mine-Pillaged
+bounds:1041,958,64,64
+MineT
+bounds:1861,610,64,56
+MineT-Industrial era
+bounds:1069,610,64,56
+MineT-Pillaged
+bounds:1173,958,64,64
+Minuteman
+bounds:896,462,32,28
+Missile Cruiser
+bounds:468,92,32,28
+Missionary
+bounds:386,447,32,28
+Moai
+bounds:1995,634,32,29
+Moai-Pillaged
+bounds:343,714,64,60
+Mobile SAM
+bounds:434,255,32,28
+Modern Armor
+bounds:1949,471,32,28
+Mohawk Warrior
+bounds:828,432,32,28
+Mount Fuji
+bounds:1984,760,32,30
+Mount Kailash
+bounds:1677,576,32,32
+Mount Sinai
+bounds:1927,658,32,32
+Mountain
+bounds:1235,572,32,36
+Mountain-1
+bounds:1239,958,64,64
+Mountain2
+bounds:99,358,64,64
+Musketeer
+bounds:1983,483,32,28
+Musketman
+bounds:862,432,32,28
+Naresuan's Elephant
+bounds:522,452,32,28
+NaturalWonder
+bounds:567,922,100,100
+Nau
+bounds:1847,482,32,28
+Norwegian Ski Infantry
+bounds:1235,542,32,28
+Nuclear Submarine
+bounds:343,567,32,28
+Oasis
+bounds:1711,482,32,28
+Ocean
+bounds:726,432,32,28
+Offshore Platform
+bounds:1372,510,32,28
+Oil
+bounds:1338,450,32,28
+Oil well
+bounds:434,345,32,28
+Oil well-Pillaged
+bounds:277,714,64,60
+Oil+Oil well-Pillaged
+bounds:277,714,64,60
+Oil+Offshore Platform
+bounds:1135,552,64,56
+Oil+Oil well
+bounds:343,655,64,57
+OilS
+bounds:630,744,64,56
+Old Faithful
+bounds:297,390,32,32
+Panzer
+bounds:434,135,32,28
+Paratrooper
+bounds:964,492,32,28
+Pasture
+bounds:1813,576,32,32
+Pasture-Industrial era
+bounds:1686,726,64,56
+Pathfinder
+bounds:400,237,32,28
+Pearls
+bounds:862,522,32,28
+Persian Immortal
+bounds:1995,887,32,28
+Pictish Warrior
+bounds:760,462,32,28
+Pikeman
+bounds:366,117,32,28
+Plains
+bounds:1236,450,32,28
+Plains+Farm
+bounds:1270,510,32,28
+Plains+Forest+Camp
+bounds:1847,576,32,32
+Plains+Forest+Lumber mill
+bounds:1779,576,32,32
+Plains+Hill
+bounds:1620,784,64,56
+Plains+Hill+Fallout
+bounds:1884,726,64,56
+Plains+Hill+Fallout2
+bounds:939,900,64,56
+Plains+Hill2
+bounds:1593,842,64,56
+Plains+Jungle+Trading post
+bounds:1961,661,32,32
+Plains2
+bounds:1135,668,64,56
+Plains3
+bounds:607,628,64,56
+PlainsForest
+bounds:1609,576,32,32
+PlainsJungle
+bounds:1881,576,32,32
+Plantation
+bounds:434,75,32,28
+Plantation+Bananas
+bounds:434,15,32,28
+Plantation+Cotton
+bounds:1813,482,32,28
+Polder
+bounds:332,184,32,29
+Polder-Industrial era
+bounds:871,552,64,56
+Polder-Pillaged
+bounds:134,28,64,64
+Pracinha
+bounds:964,462,32,28
+Privateer
+bounds:1202,452,32,28
+Quarry
+bounds:420,555,32,28
+Quarry+Marble
+bounds:400,297,32,28
+Quarry+Stone
+bounds:930,432,32,28
+Quarry-Industrial era
+bounds:960,784,64,56
+Quarry-Pillaged
+bounds:1833,958,64,64
+QuarryT-Pillaged
+bounds:1833,958,64,64
+QuarryT
+bounds:409,602,64,56
+QuarryT-Industrial era
+bounds:1665,900,64,56
+Quinquereme
+bounds:400,177,32,28
+Railroad
+bounds:200,2,64,36
+Rifleman
+bounds:502,182,32,28
+River-Bottom
+bounds:760,492,32,28
+River-BottomLeft
+bounds:1847,512,32,28
+River-BottomRight
+bounds:468,242,32,28
+Road
+bounds:277,556,60,32
+Road-Pillaged
+bounds:134,226,64,64
+Railroad-Pillaged
+bounds:134,226,64,64
+Rock of Gibraltar
+bounds:1439,540,32,32
+Rocket Artillery
+bounds:366,357,32,28
+RuinsD
+bounds:1461,842,64,56
+RuinsG
+bounds:409,660,64,56
+RuinsT
+bounds:933,842,64,56
+SS Booster
+bounds:590,450,32,28
+SS Cockpit
+bounds:1032,462,32,28
+SS Engine
+bounds:1915,471,32,28
+SS Stasis Chamber
+bounds:1100,432,32,28
+Salt
+bounds:501,422,32,28
+Samurai
+bounds:828,492,32,28
+Scout
+bounds:1609,482,32,28
+Sea Beggar
+bounds:1372,480,32,28
+Settler
+bounds:331,370,32,29
+Settler-Barbarians
+bounds:331,401,32,29
+Settler-Modern era
+bounds:998,462,32,28
+Settler-Modern era-Barbarians
+bounds:468,2,32,28
+Sheep
+bounds:400,87,32,28
+Sheep+Pasture
+bounds:1507,540,32,32
+Sheep+Pasture-Industrial era
+bounds:1752,726,64,56
+Ship of the Line
+bounds:332,246,32,29
+Siege Tower
+bounds:1643,482,32,28
+Silk
+bounds:658,434,32,28
+Silk+Plantation
+bounds:760,432,32,28
+Silver
+bounds:760,522,32,28
+Sipahi
+bounds:1984,792,32,30
+Skirmisher
+bounds:365,417,32,28
+Slinger
+bounds:1677,512,32,28
+Snow
+bounds:366,27,32,28
+Snow+Farm
+bounds:1236,480,32,28
+Snow+Hill
+bounds:1686,784,64,56
+Snow+Hill+Fallout
+bounds:1137,900,64,56
+Snow+Hill+Fallout2
+bounds:828,784,64,56
+Snow+Hill2
+bounds:1929,900,64,56
+Snow2
+bounds:1335,900,64,56
+Snow3
+bounds:1267,610,64,56
+Spearman
+bounds:1066,522,32,28
+Spices
+bounds:556,540,32,28
+Spices+Plantation
+bounds:1032,432,32,28
+Spices+Plantation-Pillaged
+bounds:200,40,64,60
+Bananas+Plantation-Pillaged
+bounds:200,40,64,60
+Citrus+Plantation-Pillaged
+bounds:200,40,64,60
+Cotton+Plantation-Pillaged
+bounds:200,40,64,60
+Dyes+Plantation-Pillaged
+bounds:200,40,64,60
+Incense+Plantation-Pillaged
+bounds:200,40,64,60
+Plantation-Pillaged
+bounds:200,40,64,60
+Silk+Plantation-Pillaged
+bounds:200,40,64,60
+Sugar+Plantation-Pillaged
+bounds:200,40,64,60
+Wine+Plantation-Pillaged
+bounds:200,40,64,60
+Sri Pada
+bounds:1927,624,32,32
+Stone
+bounds:420,525,32,28
+Stone+Quarry
+bounds:1818,784,64,56
+Stone+Quarry-Industrial era
+bounds:673,610,64,56
+Stone+QuarryT
+bounds:828,726,64,56
+Stone+QuarryT-Industrial era
+bounds:1131,842,64,56
+Stone+QuarryT-Pillaged
+bounds:1107,958,64,64
+Stone+Quarry-Pillaged
+bounds:1107,958,64,64
+StoneD
+bounds:1065,842,64,56
+StoneD+Quarry
+bounds:805,668,64,56
+StoneD+Quarry-Industrial era
+bounds:1329,842,64,56
+StoneD+Quarry-Pillaged
+bounds:1305,958,64,64
+Submarine
+bounds:522,482,32,26
+Sugar
+bounds:468,392,32,28
+Sugar+Plantation
+bounds:502,62,32,28
+Swordsman
+bounds:1995,573,32,28
+Tank
+bounds:488,542,32,28
+Tercio
+bounds:488,482,32,28
+Terrace farm
+bounds:400,267,32,28
+TopBorder
+bounds:454,555,32,28
+Trading post
+bounds:366,87,32,28
+Trading post-Industrial era
+bounds:937,610,64,56
+Trading post-Pillaged
+bounds:165,358,64,64
+Trading postT-Pillaged
+bounds:165,358,64,64
+Trading postT
+bounds:1201,668,64,56
+Trading postT-Industrial era
+bounds:1422,726,64,56
+Trebuchet
+bounds:1066,462,32,28
+Trireme
+bounds:522,540,32,28
+Truffles
+bounds:1949,531,32,28
+Truffles+Camp
+bounds:1677,482,32,28
+Truffles+Camp-Industrial era
+bounds:1531,610,64,56
+Truffles+CampT
+bounds:1069,668,64,56
+Truffles+CampT-Industrial era
+bounds:475,660,64,56
+Tundra
+bounds:434,225,32,28
+Tundra+Farm
+bounds:1711,512,32,28
+Tundra+Forest+Camp
+bounds:1745,542,32,32
+Tundra+Forest+Camp+Furs
+bounds:1473,540,32,32
+Tundra+Forest+Deer+Camp
+bounds:1745,576,32,32
+Tundra+Forest+Lumber mill
+bounds:1575,541,32,32
+Tundra+Forest+Truffles+Camp
+bounds:1609,542,32,32
+Tundra+Hill
+bounds:1465,610,64,56
+Tundra+Hill+Fallout
+bounds:343,597,64,56
+Tundra+Hill+Fallout2
+bounds:1729,668,64,56
+Tundra+Hill2
+bounds:1597,610,64,56
+Tundra2
+bounds:999,842,64,56
+Tundra3
+bounds:1003,610,64,56
+TundraForest
+bounds:1643,542,32,32
+Turtle Ship
+bounds:488,512,32,28
+Uluru
+bounds:1927,692,32,32
+UnitAttacked
+bounds:120,482,100,60
+UnitHasAttacked
+bounds:669,900,100,60
+CityHasAttacked
+bounds:669,900,100,60
+UnitMoved
+bounds:771,962,100,60
+UnitMoving
+bounds:567,860,100,60
+UnitTeleported
+bounds:669,962,100,60
+UnitWithdrew
+bounds:771,900,100,60
+Uranium
+bounds:1338,510,32,28
+War Chariot
+bounds:1100,492,32,28
+War Elephant
+bounds:692,492,32,28
+Warrior
+bounds:964,432,32,28
+WaterUnit
+bounds:297,362,32,26
+Whales
+bounds:590,480,32,28
+Whales+Fishing Boats
+bounds:1202,512,32,28
+Whales+Fishing Boats-Industrial era
+bounds:266,14,64,56
+Wheat
+bounds:624,480,32,28
+Wine
+bounds:794,432,32,28
+Wine+Plantation
+bounds:556,480,32,28
+Winged Hussar
+bounds:502,32,32,28
+Work Boats
+bounds:930,492,32,28
+Work Boats-Modern era
+bounds:896,522,32,28
+Worker
+bounds:1927,594,32,28
+Worker-Barbarians
+bounds:332,32,32,28
+Worker-Barbarians-Modern era
+bounds:332,32,32,28
+Worker-Modern era
+bounds:522,510,32,28

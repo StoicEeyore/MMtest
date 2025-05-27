@@ -1,0 +1,931 @@
+AbsoluteUnits.png
+size:2048,2048
+repeat:none
+African Forest Elephant
+bounds:390,293,77,79
+African Forest Elephant-Carthage
+bounds:390,293,77,79
+African Forest Elephant-1
+bounds:293,210,77,79
+African Forest Elephant-Carthage-2
+bounds:293,210,77,79
+African Forest Elephant-2
+bounds:584,542,77,79
+African Forest Elephant-Carthage-1
+bounds:584,542,77,79
+Anti-Aircraft Gun
+bounds:702,78,64,56
+Anti-Aircraft Gun-1
+bounds:1340,1203,64,56
+Anti-Aircraft Gun-2
+bounds:486,23,64,56
+Anti-Tank Gun
+bounds:1494,1372,64,56
+Anti-Tank Gun-1
+bounds:750,20,64,56
+Anti-Tank Gun-2
+bounds:698,427,64,56
+Archer
+bounds:196,1204,95,81
+Archer-1
+bounds:275,789,95,81
+Archer-2
+bounds:779,1785,95,81
+Artillery
+bounds:948,59,64,56
+Artillery-1
+bounds:816,59,64,56
+Artillery-2
+bounds:632,368,64,56
+Atlatlist-1
+bounds:293,291,95,81
+Atlatlist-2
+bounds:487,1204,95,81
+Atlatlist-The Maya
+bounds:586,1868,95,81
+Atlatlist
+bounds:586,1868,95,81
+Ballista
+bounds:1191,1261,77,65
+Ballista-1
+bounds:1192,1596,77,65
+Ballista-2
+bounds:984,1102,77,65
+Battering Ram
+bounds:1349,1529,77,65
+Battering Ram-1
+bounds:1271,1596,77,65
+Battering Ram-2
+bounds:1063,1102,77,65
+Battering Ram-The Huns
+bounds:1270,1529,77,65
+Battleship
+bounds:636,78,64,56
+Battleship-1
+bounds:1494,1430,64,56
+Battleship-2
+bounds:830,291,64,56
+Berserker
+bounds:585,1619,95,81
+Berserker-1
+bounds:682,1702,95,81
+Berserker-2
+bounds:2,477,95,81
+Bowman
+bounds:391,1785,95,81
+Bowman-1
+bounds:99,1175,95,81
+Bowman-2
+bounds:372,623,95,81
+Brute
+bounds:390,540,95,81
+Camel Archer
+bounds:487,458,77,80
+Camel Archer-1
+bounds:178,2,77,80
+Camel Archer-2
+bounds:1959,1966,77,80
+Camel Archer-Arabia
+bounds:99,2,77,80
+Cannon
+bounds:1208,959,64,56
+Cannon-1
+bounds:896,465,64,56
+Cannon-2
+bounds:1406,1145,64,56
+Caravel
+bounds:2,4,64,56
+Caravel-1
+bounds:1825,1546,64,56
+Caravel-2
+bounds:830,349,64,56
+Carolean
+bounds:779,1619,95,81
+Carolean-1
+bounds:81,748,95,81
+Carolean-2
+bounds:729,1038,95,81
+Carolean-Sweden
+bounds:294,1619,95,81
+Carrier
+bounds:1142,1005,64,56
+Carrier-1
+bounds:781,175,64,56
+Carrier-2
+bounds:764,510,64,56
+Cataphract
+bounds:1587,1671,77,70
+Cataphract-1
+bounds:1033,1236,77,70
+Cataphract-2
+bounds:875,1236,77,70
+Cataphract-Byzantium
+bounds:1033,1308,77,70
+Catapult
+bounds:1693,1546,64,56
+Catapult-1
+bounds:698,311,64,56
+Catapult-2
+bounds:1340,1029,64,56
+Cavalry
+bounds:1191,1462,77,65
+Cavalry-1
+bounds:971,968,77,65
+Cavalry-2
+bounds:1112,1261,77,65
+Chariot Archer
+bounds:875,1308,77,70
+Chariot Archer-1
+bounds:1508,1671,77,70
+Chariot Archer-2
+bounds:954,1236,77,70
+Chu-Ko-Nu
+bounds:585,1702,95,81
+Chu-Ko-Nu-1
+bounds:341,1121,95,81
+Chu-Ko-Nu-2
+bounds:196,511,95,81
+Chu-Ko-Nu-China
+bounds:681,1536,95,81
+Companion Cavalry
+bounds:1666,1743,77,70
+Companion Cavalry-1
+bounds:954,1452,77,70
+Companion Cavalry-2
+bounds:1745,1671,77,70
+Companion Cavalry-Greece
+bounds:954,1380,77,70
+Composite Bowman
+bounds:390,1204,95,81
+Composite Bowman-1
+bounds:390,1287,95,81
+Composite Bowman-2
+bounds:99,416,95,81
+Conquistador
+bounds:1113,1739,77,74
+Conquistador-1
+bounds:955,1739,77,74
+Conquistador-2
+bounds:1350,1739,77,74
+Conquistador-Spain
+bounds:1034,1663,77,74
+Cossack
+bounds:760,875,77,78
+Cossack-1
+bounds:663,543,77,78
+Cossack-2
+bounds:760,715,77,78
+Cossack-Russia
+bounds:760,795,77,78
+Crossbowman
+bounds:99,333,95,81
+Crossbowman-1
+bounds:390,457,95,81
+Crossbowman-2
+bounds:778,1536,95,81
+Destroyer
+bounds:1274,1025,64,56
+Destroyer-1
+bounds:1406,1087,64,56
+Destroyer-2
+bounds:715,195,64,56
+Dromon-2
+bounds:1982,1683,64,64
+Dromon-Byzantium
+bounds:1142,1195,64,64
+Dromon
+bounds:1142,1195,64,64
+Dromon-Byzantium-1
+bounds:1208,1195,64,64
+Dromon-Byzantium-2
+bounds:1982,1551,64,64
+Dromon-1
+bounds:1982,1551,64,64
+EmbarkedUnit-Civilian
+bounds:764,452,64,56
+EmbarkedUnit-Civilian-1
+bounds:517,142,64,56
+EmbarkedUnit-Civilian-2
+bounds:1428,1488,64,56
+EmbarkedUnit-Civilian-Denmark
+bounds:1494,1314,64,56
+EmbarkedUnit-Civilian-Polynesia
+bounds:1428,1430,64,56
+EmbarkedUnit-Civilian-Renaissance era
+bounds:451,200,64,56
+EmbarkedUnit-Civilian-Renaissance era-1
+bounds:649,136,64,56
+EmbarkedUnit-Civilian-Renaissance era-2
+bounds:469,316,64,56
+EmbarkedUnit-Civilian-Spain-Modern era
+bounds:1274,1141,64,56
+EmbarkedUnit-Civilian-Modern era
+bounds:1274,1141,64,56
+EmbarkedUnit-Civilian-Spain-Modern era-1
+bounds:1429,1546,64,56
+EmbarkedUnit-Civilian-Modern era-1
+bounds:1429,1546,64,56
+EmbarkedUnit-Civilian-Spain-Modern era-2
+bounds:601,310,64,56
+EmbarkedUnit-Civilian-Modern era-2
+bounds:601,310,64,56
+EmbarkedUnit-Civilian-Spain-Renaissance era
+bounds:896,407,64,56
+EmbarkedUnit-Military
+bounds:1406,1203,64,56
+EmbarkedUnit-Military-1
+bounds:1560,1430,64,56
+EmbarkedUnit-Military-2
+bounds:354,23,64,56
+EmbarkedUnit-Military-Denmark
+bounds:830,233,64,56
+EmbarkedUnit-Military-Polynesia
+bounds:1561,1546,64,56
+EmbarkedUnit-Military-Renaissance era
+bounds:1494,1488,64,56
+EmbarkedUnit-Military-Renaissance era-1
+bounds:781,117,64,56
+EmbarkedUnit-Military-Renaissance era-2
+bounds:830,465,64,56
+EmbarkedUnit-Military-Spain-Modern era
+bounds:1208,1017,64,56
+EmbarkedUnit-Military-Modern era
+bounds:1208,1017,64,56
+EmbarkedUnit-Military-Spain-Modern era-1
+bounds:1274,1083,64,56
+EmbarkedUnit-Military-Modern era-1
+bounds:1274,1083,64,56
+EmbarkedUnit-Military-Spain-Modern era-2
+bounds:618,20,64,56
+EmbarkedUnit-Military-Modern era-2
+bounds:618,20,64,56
+EmbarkedUnit-Military-Spain-Renaissance era
+bounds:847,175,64,56
+Foreign Legion
+bounds:729,1121,95,81
+Foreign Legion-1
+bounds:196,1536,95,81
+Foreign Legion-2
+bounds:1071,1882,95,81
+Foreign Legion-France
+bounds:488,1619,95,81
+Frigate
+bounds:1560,1488,64,56
+Frigate-1
+bounds:896,233,64,56
+Frigate-2
+bounds:1340,971,64,56
+Frigate-Barbarians
+bounds:1340,1145,64,56
+Galleass
+bounds:535,320,64,56
+Galleass-1
+bounds:535,262,64,56
+Galleass-2
+bounds:1759,1546,64,56
+Galley
+bounds:632,484,64,56
+Gatling Gun
+bounds:764,394,64,56
+Gatling Gun-1
+bounds:552,20,64,56
+Gatling Gun-2
+bounds:566,482,64,56
+Giant Death Robot
+bounds:81,1086,64,84
+Giant Death Robot-1
+bounds:81,914,64,84
+Giant Death Robot-2
+bounds:81,1000,64,84
+Great Artist
+bounds:293,457,95,81
+Great Artist-1
+bounds:372,872,95,81
+Great Artist-2
+bounds:779,1702,95,81
+Great Artist-Industrial era
+bounds:197,1702,95,81
+Great Artist-Industrial era-1
+bounds:438,1121,95,81
+Great Artist-Industrial era-2
+bounds:196,345,95,81
+Great Engineer
+bounds:2,228,95,81
+Great Engineer-1
+bounds:1944,1882,95,81
+Great Engineer-2
+bounds:663,706,95,81
+Great Engineer-Industrial era
+bounds:1508,1604,77,65
+Great Engineer-Industrial era-1
+bounds:1349,1395,77,65
+Great Engineer-Industrial era-2
+bounds:1112,1529,77,65
+Great General
+bounds:2,866,77,100
+Great General-1
+bounds:2,764,77,100
+Great General-2
+bounds:2,1070,77,100
+Great General-Industrial era
+bounds:372,789,95,81
+Great General-Industrial era-1
+bounds:488,1702,95,81
+Great General-Industrial era-2
+bounds:1765,1965,95,81
+Great Merchant
+bounds:1824,1743,77,70
+Great Merchant-1
+bounds:1033,1380,77,70
+Great Merchant-2
+bounds:875,1380,77,70
+Great Merchant-Industrial era
+bounds:1666,1604,77,65
+Great Merchant-Industrial era-1
+bounds:1587,1604,77,65
+Great Merchant-Industrial era-2
+bounds:955,1596,77,65
+Great Prophet
+bounds:178,760,95,81
+Great Prophet-1
+bounds:99,1341,95,81
+Great Prophet-2
+bounds:372,706,95,81
+Great Prophet-Industrial era
+bounds:196,1370,95,81
+Great Prophet-Industrial era-1
+bounds:293,1370,95,81
+Great Prophet-Industrial era-2
+bounds:1459,1882,95,81
+Great Scientist
+bounds:489,1868,95,81
+Great Scientist-1
+bounds:294,1702,95,81
+Great Scientist-2
+bounds:1377,1965,95,81
+Great Scientist-Industrial era
+bounds:876,1596,77,65
+Great Scientist-Industrial era-1
+bounds:760,568,77,65
+Great Scientist-Industrial era-2
+bounds:1349,1328,77,65
+Great War Infantry
+bounds:390,1536,95,81
+Great War Infantry-1
+bounds:584,1536,95,81
+Great War Infantry-2
+bounds:81,665,95,81
+Hakkapeliitta
+bounds:1113,1663,77,74
+Hakkapeliitta-1
+bounds:1192,1663,77,74
+Hakkapeliitta-2
+bounds:876,1739,77,74
+Hakkapeliitta-Sweden
+bounds:1034,1739,77,74
+Helicopter Gunship
+bounds:601,252,64,56
+Helicopter Gunship-1
+bounds:667,253,64,56
+Helicopter Gunship-2
+bounds:1129,947,64,56
+Hoplite
+bounds:390,1453,95,81
+Hoplite-1
+bounds:390,374,95,81
+Hoplite-2
+bounds:584,1287,95,81
+Hoplite-Greece
+bounds:1653,1882,95,81
+Hoplite-Greece-1
+bounds:1280,1965,95,81
+Hoplite-Greece-2
+bounds:778,1453,95,81
+Horse Archer-1
+bounds:1429,1743,77,70
+Horse Archer-The Huns-2
+bounds:1429,1743,77,70
+Horse Archer-Barbarians
+bounds:1587,1743,77,70
+Horse Archer-The Huns
+bounds:839,523,77,70
+Horse Archer
+bounds:839,523,77,70
+Horse Archer-The Huns-1
+bounds:875,1452,77,70
+Horse Archer-2
+bounds:875,1452,77,70
+Horseman
+bounds:1033,1452,77,70
+Horseman-1
+bounds:954,1308,77,70
+Horseman-2
+bounds:1903,1743,77,70
+Hussar
+bounds:487,378,77,78
+Hussar-1
+bounds:760,635,77,78
+Hussar-2
+bounds:293,130,77,78
+Hussar-Austria
+bounds:826,1124,77,78
+Hwach'a
+bounds:905,1035,77,65
+Hwach'a-1
+bounds:905,1102,77,65
+Hwach'a-2
+bounds:1270,1462,77,65
+Hwach'a-Korea
+bounds:1349,1462,77,65
+Infantry
+bounds:99,84,95,81
+Infantry-1
+bounds:584,1204,95,81
+Infantry-2
+bounds:147,1009,95,81
+Inquisitor
+bounds:682,1785,95,81
+Inquisitor-1
+bounds:99,1424,95,81
+Inquisitor-2
+bounds:469,872,95,81
+Inquisitor-Industrial era
+bounds:257,13,95,81
+Inquisitor-Industrial era-1
+bounds:196,428,95,81
+Inquisitor-Industrial era-2
+bounds:663,789,95,81
+Ironclad
+bounds:583,194,64,56
+Ironclad-1
+bounds:1406,971,64,56
+Ironclad-2
+bounds:1495,1546,64,56
+Jaguar
+bounds:81,831,95,81
+Jaguar-Aztecs
+bounds:81,831,95,81
+Jaguar-1
+bounds:487,1536,95,81
+Jaguar-2
+bounds:1556,1882,95,81
+Janissary
+bounds:535,1038,95,81
+Janissary-1
+bounds:566,789,95,81
+Janissary-2
+bounds:196,1453,95,81
+Janissary-The Ottomans
+bounds:632,1121,95,81
+Keshik
+bounds:1508,1743,77,70
+Keshik-1
+bounds:1666,1671,77,70
+Keshik-2
+bounds:1033,1524,77,70
+Khan
+bounds:2,560,77,100
+Khan-1
+bounds:2,968,77,100
+Khan-2
+bounds:2,662,77,100
+Knight
+bounds:1903,1671,77,70
+Knight-1
+bounds:875,1524,77,70
+Knight-2
+bounds:1429,1671,77,70
+Lancer
+bounds:984,1169,77,65
+Lancer-1
+bounds:1270,1395,77,65
+Lancer-2
+bounds:1916,1815,77,65
+Lancer-Barbarians
+bounds:1745,1604,77,65
+Landship
+bounds:1063,1035,77,65
+Landship-1
+bounds:1824,1604,77,65
+Landship-2
+bounds:1350,1596,77,65
+Landsknecht
+bounds:780,1951,95,95
+Landsknecht-1
+bounds:295,1951,95,95
+Landsknecht-2
+bounds:683,1951,95,95
+Landsknecht-Germany
+bounds:198,1951,95,95
+Legion
+bounds:487,540,95,81
+Legion-1
+bounds:438,955,95,81
+Legion-2
+bounds:683,1868,95,81
+Legion-Rome
+bounds:2,145,95,81
+Longbowman
+bounds:100,1756,95,95
+Longbowman-1
+bounds:2,1560,95,95
+Longbowman-2
+bounds:2,1172,95,95
+Longbowman-England
+bounds:2,1269,95,95
+Longswordsman
+bounds:2,1366,95,95
+Longswordsman-1
+bounds:586,1951,95,95
+Longswordsman-2
+bounds:2,1657,95,95
+Longswordsman-Barbarians
+bounds:196,179,95,81
+Machine Gun
+bounds:438,81,64,56
+Machine Gun-1
+bounds:896,291,64,56
+Machine Gun-2
+bounds:1274,967,64,56
+Mandekalu Cavalry
+bounds:372,215,77,74
+Mandekalu Cavalry-1
+bounds:876,1663,77,74
+Mandekalu Cavalry-2
+bounds:1271,1739,77,74
+Mandekalu Cavalry-Songhai
+bounds:1350,1663,77,74
+Maori Warrior-1
+bounds:632,955,95,81
+Maori Warrior-2
+bounds:391,1702,95,81
+Maori Warrior-Polynesia
+bounds:198,1868,95,81
+Maori Warrior
+bounds:198,1868,95,81
+Marauder
+bounds:566,623,95,81
+Marine
+bounds:390,1370,95,81
+Marine-1
+bounds:632,1038,95,81
+Marine-2
+bounds:780,1868,95,81
+Mechanized Infantry
+bounds:1113,1596,77,65
+Mechanized Infantry-1
+bounds:839,595,77,65
+Mechanized Infantry-2
+bounds:1270,1261,77,65
+Mehal Sefari
+bounds:1750,1882,95,81
+Mehal Sefari-1
+bounds:197,1785,95,81
+Mehal Sefari-2
+bounds:293,374,95,81
+Mehal Sefari-Ethiopia
+bounds:663,872,95,81
+Minuteman
+bounds:293,1204,95,81
+Minuteman-1
+bounds:81,582,95,81
+Minuteman-2
+bounds:729,955,95,81
+Minuteman-America
+bounds:681,1287,95,81
+Missile Cruiser
+bounds:882,59,64,56
+Missile Cruiser-1
+bounds:517,200,64,56
+Missile Cruiser-2
+bounds:1891,1546,64,56
+Missionary
+bounds:99,499,95,81
+Missionary-1
+bounds:566,872,95,81
+Missionary-2
+bounds:682,1619,95,81
+Missionary-Industrial era
+bounds:681,1453,95,81
+Missionary-Industrial era-1
+bounds:584,1453,95,81
+Missionary-Industrial era-2
+bounds:99,167,95,81
+Mobile SAM
+bounds:1903,1604,77,65
+Mobile SAM-1
+bounds:1349,1261,77,65
+Mobile SAM-2
+bounds:1112,1395,77,65
+Modern Armor
+bounds:1112,1328,77,65
+Modern Armor-1
+bounds:1112,1462,77,65
+Modern Armor-2
+bounds:984,1035,77,65
+Mohawk Warrior
+bounds:778,1370,95,81
+Mohawk Warrior-1
+bounds:681,1370,95,81
+Mohawk Warrior-2
+bounds:147,1092,95,81
+Mohawk Warrior-Iroquois
+bounds:488,1785,95,81
+Musketeer
+bounds:196,262,95,81
+Musketeer-1
+bounds:1168,1882,95,81
+Musketeer-2
+bounds:535,1121,95,81
+Musketeer-France
+bounds:469,789,95,81
+Musketman
+bounds:681,1204,95,81
+Musketman-1
+bounds:566,706,95,81
+Musketman-2
+bounds:196,1287,95,81
+Naresuan's Elephant-1
+bounds:839,662,77,75
+Naresuan's Elephant-2
+bounds:839,893,77,75
+Naresuan's Elephant-Siam
+bounds:826,1047,77,75
+Naresuan's Elephant
+bounds:826,1047,77,75
+Norwegian Ski Infantry
+bounds:1474,1965,95,81
+Norwegian Ski Infantry-1
+bounds:2,394,95,81
+Norwegian Ski Infantry-2
+bounds:778,1204,95,81
+Norwegian Ski Infantry-Denmark
+bounds:1265,1882,95,81
+Nuclear Submarine
+bounds:1340,1087,64,56
+Nuclear Submarine-1
+bounds:1208,1075,64,56
+Nuclear Submarine-2
+bounds:570,78,64,56
+Panzer
+bounds:905,1169,77,65
+Panzer-1
+bounds:1429,1604,77,65
+Panzer-2
+bounds:1050,968,77,65
+Panzer-Germany
+bounds:1270,1328,77,65
+Paratrooper
+bounds:293,1453,95,81
+Paratrooper-1
+bounds:100,1673,95,81
+Paratrooper-2
+bounds:275,706,95,81
+Persian Immortal
+bounds:1668,1965,95,81
+Persian Immortal-1
+bounds:178,677,95,81
+Persian Immortal-2
+bounds:469,623,95,81
+Pictish Warrior
+bounds:487,1453,95,81
+Pictish Warrior-Celts
+bounds:487,1453,95,81
+Pictish Warrior-1
+bounds:99,1258,95,81
+Pictish Warrior-2
+bounds:469,706,95,81
+Pikeman
+bounds:1847,1882,95,81
+Pikeman-1
+bounds:584,1370,95,81
+Pikeman-2
+bounds:99,1507,95,81
+Pikeman-Barbarians
+bounds:293,540,95,81
+Privateer
+bounds:1428,1314,64,56
+Privateer-1
+bounds:1428,1372,64,56
+Privateer-2
+bounds:764,278,64,56
+Quinquereme
+bounds:1982,1617,64,64
+Quinquereme-1
+bounds:1982,1749,64,64
+Quinquereme-2
+bounds:1142,1129,64,64
+Quinquereme-Carthage
+bounds:1142,1063,64,64
+Rider-Barbarians
+bounds:585,1785,95,81
+Rifleman
+bounds:275,623,95,81
+Rifleman-1
+bounds:487,1287,95,81
+Rifleman-2
+bounds:99,1590,95,81
+Rocket Artillery
+bounds:1034,1596,77,65
+Rocket Artillery-1
+bounds:1191,1328,77,65
+Rocket Artillery-2
+bounds:1837,1815,77,65
+SS Booster
+bounds:1677,1815,78,65
+SS Booster-1
+bounds:1597,1815,78,65
+SS Booster-2
+bounds:1117,1815,78,65
+SS Cockpit
+bounds:1517,1815,78,65
+SS Cockpit-1
+bounds:1437,1815,78,65
+SS Cockpit-2
+bounds:1037,1815,78,65
+SS Engine
+bounds:1197,1815,78,65
+SS Engine-1
+bounds:1357,1815,78,65
+SS Engine-2
+bounds:957,1815,78,65
+SS Stasis Chamber
+bounds:1757,1815,78,65
+SS Stasis Chamber-1
+bounds:1277,1815,78,65
+SS Stasis Chamber-2
+bounds:877,1815,78,65
+Samurai
+bounds:489,1951,95,95
+Samurai-1
+bounds:2,1463,95,95
+Samurai-2
+bounds:100,1853,95,95
+Samurai-Japan
+bounds:392,1951,95,95
+Scout
+bounds:196,96,95,81
+Scout-1
+bounds:663,623,95,81
+Scout-2
+bounds:487,1370,95,81
+Sea Beggar
+bounds:1626,1488,64,56
+Sea Beggar-1
+bounds:420,23,64,56
+Sea Beggar-2
+bounds:451,142,64,56
+Settler
+bounds:2,1852,96,96
+Settler-Ancient era
+bounds:2,1852,96,96
+Settler-2
+bounds:2,1754,96,96
+Settler-Ancient era-2
+bounds:2,1754,96,96
+Settler-Ancient era-1
+bounds:100,1950,96,96
+Settler-1
+bounds:100,1950,96,96
+Settler-Industrial era
+bounds:979,1965,100,81
+Settler-Industrial era-1
+bounds:1081,1965,100,81
+Settler-Industrial era-2
+bounds:877,1965,100,81
+Settler-Medieval era
+bounds:293,1536,95,81
+Settler-Medieval era-1
+bounds:877,1882,95,81
+Settler-Medieval era-2
+bounds:244,955,95,81
+Ship of the Line
+bounds:504,84,64,56
+Ship of the Line-1
+bounds:684,20,64,56
+Ship of the Line-2
+bounds:632,426,64,56
+Sipahi
+bounds:955,1663,77,74
+Sipahi-1
+bounds:1192,1739,77,74
+Sipahi-2
+bounds:372,139,77,74
+Sipahi-The Ottomans
+bounds:1271,1663,77,74
+Skirmisher
+bounds:1362,1882,95,81
+Slinger
+bounds:178,843,95,81
+Slinger-1
+bounds:244,1038,95,81
+Slinger-2
+bounds:178,594,95,81
+Spearman
+bounds:391,1619,95,81
+Spearman-1
+bounds:2,311,95,81
+Spearman-2
+bounds:244,1121,95,81
+Submarine
+bounds:896,349,64,56
+Submarine-1
+bounds:1406,1029,64,56
+Submarine-2
+bounds:715,137,64,56
+Swordsman
+bounds:974,1882,95,81
+Swordsman-1
+bounds:341,955,95,81
+Swordsman-2
+bounds:392,1868,95,81
+Swordsman-Barbarians
+bounds:147,926,95,81
+Tank
+bounds:1191,1395,77,65
+Tank-1
+bounds:1191,1529,77,65
+Tank-2
+bounds:1063,1169,77,65
+Tercio
+bounds:293,1287,95,81
+Tercio-1
+bounds:197,1619,95,81
+Tercio-2
+bounds:2,62,95,81
+Tercio-Spain
+bounds:1862,1965,95,81
+Trebuchet
+bounds:649,194,64,56
+Trebuchet-1
+bounds:847,117,64,56
+Trebuchet-2
+bounds:830,407,64,56
+Trireme
+bounds:698,485,64,56
+Trireme-1
+bounds:913,117,64,56
+Trireme-2
+bounds:698,369,64,56
+Trireme-Barbarians
+bounds:913,175,64,56
+Turtle Ship
+bounds:1208,1133,64,60
+Turtle Ship-1
+bounds:1274,1199,64,60
+Turtle Ship-2
+bounds:905,973,64,60
+War Chariot-Egypt
+bounds:1824,1671,77,70
+War Chariot
+bounds:1824,1671,77,70
+War Chariot-Egypt-1
+bounds:954,1524,77,70
+War Chariot-2
+bounds:954,1524,77,70
+War Chariot-Egypt-2
+bounds:1745,1743,77,70
+War Chariot-1
+bounds:1745,1743,77,70
+War Elephant
+bounds:839,816,77,75
+War Elephant-1
+bounds:839,739,77,75
+War Elephant-2
+bounds:826,970,77,75
+Warrior
+bounds:778,1287,95,81
+Warrior-1
+bounds:341,1038,95,81
+Warrior-2
+bounds:295,1868,95,81
+Work Boats
+bounds:764,336,64,56
+Work Boats-1
+bounds:372,81,64,56
+Work Boats-2
+bounds:469,258,64,56
+Work Boats-Industrial era
+bounds:566,424,64,56
+Work Boats-Industrial era-1
+bounds:1627,1546,64,56
+Work Boats-Industrial era-2
+bounds:583,136,64,56
+Worker
+bounds:1571,1965,95,81
+Worker-1
+bounds:99,250,95,81
+Worker-2
+bounds:275,872,95,81
+Worker-Barbarians
+bounds:2,1950,96,96
+Worker-Industrial era
+bounds:535,955,95,81
+Worker-Industrial era-1
+bounds:294,1785,95,81
+Worker-Industrial era-2
+bounds:1183,1965,95,81
+img
+bounds:438,1038,95,81
+Musketman-Barbarians
+bounds:438,1038,95,81

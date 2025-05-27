@@ -1,0 +1,671 @@
+ConstructionIcons.png
+size:2048,2048
+repeat:none
+0
+bounds:1560,668,25,50
+1
+bounds:2033,1586,13,50
+10
+bounds:1652,770,21,50
+11
+bounds:1814,974,35,50
+12
+bounds:1230,411,35,50
+13
+bounds:54,2,35,50
+14
+bounds:1916,1126,35,50
+15
+bounds:1968,1178,30,50
+16
+bounds:2001,1994,40,50
+17
+bounds:1712,872,40,50
+18
+bounds:1610,770,40,50
+19
+bounds:260,1792,40,50
+2
+bounds:1754,872,13,50
+3
+bounds:1282,463,13,50
+4
+bounds:2018,1586,13,50
+5
+bounds:1851,974,10,50
+6
+bounds:970,1585,25,50
+7
+bounds:2001,1942,25,50
+8
+bounds:1458,566,25,50
+9
+bounds:998,463,25,50
+AddInCapital
+bounds:794,1152,100,100
+African Forest Elephant
+bounds:998,923,100,100
+AirSweep
+bounds:1712,1128,100,100
+Alhambra
+bounds:1202,821,100,100
+Amphitheater
+bounds:516,8,100,100
+Angkor Wat
+bounds:312,110,100,100
+Anti-Aircraft Gun
+bounds:1304,1536,100,100
+Anti-Tank Gun
+bounds:1814,1230,100,100
+Apollo Program
+bounds:896,962,100,100
+Aqueduct
+bounds:1100,923,100,100
+Archer
+bounds:998,1025,100,100
+Armory
+bounds:1916,1332,100,100
+Arsenal
+bounds:1610,1536,100,100
+Artillery
+bounds:1610,1434,100,100
+Atlatlist
+bounds:1508,1128,100,100
+Atomic Bomb
+bounds:590,1356,100,100
+B17
+bounds:714,1764,100,100
+Baktun
+bounds:1916,1178,50,50
+Ballista
+bounds:1842,1740,100,100
+Bank
+bounds:108,262,100,100
+Barracks
+bounds:1695,1842,100,100
+Battering Ram
+bounds:816,1574,100,100
+Battleship
+bounds:1836,1638,100,100
+Bazaar
+bounds:284,1232,100,100
+Berserker
+bounds:896,1472,100,100
+Big Ben
+bounds:284,722,100,100
+Bomb Shelter
+bounds:312,8,100,100
+Bomber
+bounds:1508,1536,100,100
+Bowman
+bounds:720,132,100,100
+Brandenburg Gate
+bounds:1026,311,100,100
+Broadcast Tower
+bounds:1100,1331,100,100
+Brute
+bounds:1406,720,100,100
+Burial Tomb
+bounds:1100,1229,100,100
+CN Tower
+bounds:414,212,100,100
+Camel Archer
+bounds:1128,311,100,100
+Cannon
+bounds:284,416,100,100
+Caravel
+bounds:2,156,100,100
+Carolean
+bounds:896,554,100,100
+Carrier
+bounds:182,870,100,100
+Castle
+bounds:1712,1230,100,100
+Cataphract
+bounds:284,518,100,100
+Catapult
+bounds:1712,1434,100,100
+Cathedral
+bounds:590,1152,100,100
+Cavalry
+bounds:488,926,100,100
+Ceilidh Hall
+bounds:386,620,100,100
+Chariot Archer
+bounds:998,821,100,100
+Chichen Itza
+bounds:692,1458,100,100
+Chu-Ko-Nu
+bounds:794,846,100,100
+Circle
+bounds:462,1866,178,178
+ConstructionCircle
+bounds:462,1866,178,178
+Circus
+bounds:590,1458,100,100
+Circus Maximus
+bounds:284,1334,100,100
+Coffee House
+bounds:1304,1128,100,100
+Colosseum
+bounds:488,722,100,100
+Colossus
+bounds:1610,1230,100,100
+Companion Cavalry
+bounds:408,1640,100,100
+Composite Bowman
+bounds:1100,1433,100,100
+ConductTradeMission
+bounds:1128,107,100,100
+Conquistador
+bounds:618,234,100,100
+Constabulary
+bounds:1944,1740,100,100
+ConvertCulture
+bounds:510,1764,100,100
+ConvertFaith
+bounds:1202,617,100,100
+ConvertGold
+bounds:1434,1740,100,100
+ConvertNothing
+bounds:1593,1944,100,100
+ConvertScience
+bounds:1610,1026,100,100
+Cossack
+bounds:1100,515,100,100
+Courthouse
+bounds:822,234,100,100
+Cristo Redentor
+bounds:1026,209,100,100
+Crossbowman
+bounds:386,926,100,100
+Destroyer
+bounds:182,666,100,100
+DisbandUnit
+bounds:104,58,100,100
+Dromon
+bounds:1202,1535,100,100
+Eiffel Tower
+bounds:510,1560,100,100
+Escort
+bounds:488,416,100,100
+Explore
+bounds:1406,1434,100,100
+Factory
+bounds:108,160,100,100
+Fallback
+bounds:1202,1229,100,100
+Fighter
+bounds:1814,1536,100,100
+Floating Gardens
+bounds:1230,1740,100,100
+Forbidden Palace
+bounds:998,1535,100,100
+Foreign Legion
+bounds:1406,1536,100,100
+Forge
+bounds:1389,1944,100,100
+FortifyUntilHealed
+bounds:794,438,100,100
+Fortify
+bounds:794,438,100,100
+Guard
+bounds:794,438,100,100
+FoundCity
+bounds:488,1130,100,100
+FoundReligion
+bounds:1083,1842,100,100
+EnhanceReligion
+bounds:1083,1842,100,100
+Frigate
+bounds:1712,1332,100,100
+Galleass
+bounds:312,314,100,100
+Galley
+bounds:692,642,100,100
+Garden
+bounds:386,416,100,100
+Gatling Gun
+bounds:720,30,100,100
+Giant Death Robot
+bounds:1797,1944,100,100
+Granary
+bounds:1406,822,100,100
+Grand Temple
+bounds:386,1334,100,100
+Great Artist
+bounds:1508,822,100,100
+Great Engineer
+bounds:1287,1842,100,100
+Great Firewall
+bounds:1632,1638,100,100
+Great General
+bounds:210,66,100,94
+Great Merchant
+bounds:414,110,100,100
+Great Mosque of Djenne
+bounds:1610,924,100,100
+Great Prophet
+bounds:488,824,100,100
+Great Scientist
+bounds:692,438,100,100
+Great Wall
+bounds:1304,618,100,100
+Great War Bomber
+bounds:1916,1434,100,100
+Great War Infantry
+bounds:924,44,100,100
+Guided Missile
+bounds:918,1637,100,100
+Hagia Sophia
+bounds:1020,1637,100,100
+Hakkapeliitta
+bounds:822,132,100,100
+Hanging Gardens
+bounds:1740,1740,100,100
+Hanse
+bounds:981,1841,100,100
+Harbor
+bounds:488,518,100,100
+Helicopter Gunship
+bounds:794,540,100,100
+Hermitage
+bounds:414,8,100,100
+Heroic Epic
+bounds:1899,1842,100,100
+HideMore
+bounds:2,2,50,50
+Himeji Castle
+bounds:1814,1332,100,100
+Hoplite
+bounds:1026,1739,100,100
+Horse Archer
+bounds:1202,1433,100,100
+Horseman
+bounds:1712,1536,100,100
+Hospital
+bounds:1304,1230,100,100
+Hubble Space Telescope
+bounds:1508,720,100,100
+HurryConstruction
+bounds:2,54,100,100
+Automate
+bounds:2,54,100,100
+HurryPolicy
+bounds:1695,1944,100,100
+HurryResearch
+bounds:1332,1740,100,100
+Hussar
+bounds:182,1278,100,100
+Hwach'a
+bounds:1406,1230,100,100
+Hydro Plant
+bounds:896,758,100,100
+Infantry
+bounds:386,518,100,100
+Inquisitor
+bounds:794,744,100,100
+Ironclad
+bounds:896,1166,100,100
+Ironworks
+bounds:182,1074,100,100
+Jaguar
+bounds:386,1436,100,100
+Janissary
+bounds:1304,1434,100,100
+Jet Fighter
+bounds:998,1229,100,100
+Katun
+bounds:1230,463,50,50
+Keshik
+bounds:204,1584,100,100
+Khan
+bounds:1814,1026,100,100
+Knight
+bounds:590,438,100,100
+Kremlin
+bounds:182,1176,100,100
+Krepost
+bounds:1202,923,100,100
+Lancer
+bounds:1508,1434,100,100
+Landship
+bounds:1406,924,100,100
+Landsknecht
+bounds:1610,1128,100,100
+Leaning Tower of Pisa
+bounds:692,1254,100,100
+Legion
+bounds:1406,618,100,100
+Library
+bounds:1202,515,100,100
+Lighthouse
+bounds:488,1436,100,100
+Longbowman
+bounds:312,212,100,100
+Longhouse
+bounds:182,768,100,100
+Longswordsman
+bounds:924,146,100,100
+Machine Gun
+bounds:1100,1127,100,100
+Machu Picchu
+bounds:1406,1332,100,100
+Mandekalu Cavalry
+bounds:1185,1842,100,100
+Manhattan Project
+bounds:692,846,100,100
+Maori Warrior
+bounds:998,719,100,100
+Marauder
+bounds:1508,1026,100,100
+Marine
+bounds:998,1433,100,100
+Market
+bounds:210,162,100,100
+Mausoleum of Halicarnassus
+bounds:816,1676,100,100
+Maya
+bounds:1508,668,50,50
+Mechanized Infantry
+bounds:386,824,100,100
+Medical Lab
+bounds:204,1686,100,100
+Mehal Sefari
+bounds:408,1742,100,100
+Military Academy
+bounds:1797,1842,100,100
+Military Base
+bounds:590,744,100,100
+Mint
+bounds:794,1254,100,100
+Minuteman
+bounds:998,617,100,100
+Missile Cruiser
+bounds:1508,1332,100,100
+Missionary
+bounds:386,1028,100,100
+Mobile SAM
+bounds:1202,1331,100,100
+Modern Armor
+bounds:692,540,100,100
+Mohawk Warrior
+bounds:1326,1638,100,100
+Monastery
+bounds:284,824,100,100
+Monument
+bounds:1712,924,100,100
+Mosque
+bounds:182,462,100,100
+MoveTo
+bounds:918,1585,50,50
+ShowMore
+bounds:918,1585,50,50
+Mud Pyramid Mosque
+bounds:590,1254,100,100
+Mughal Fort
+bounds:896,452,100,100
+Museum
+bounds:182,1380,100,100
+Musketeer
+bounds:590,1050,100,100
+Musketman
+bounds:1026,6,100,99
+Naresuan's Elephant
+bounds:1100,821,100,100
+National College
+bounds:1712,1026,100,100
+National Epic
+bounds:1530,1638,100,100
+National Intelligence Agency
+bounds:1026,413,100,100
+National Treasury
+bounds:1304,720,100,100
+Neuschwanstein
+bounds:896,1064,100,100
+Norwegian Ski Infantry
+bounds:1083,1944,100,100
+Notre Dame
+bounds:1610,1332,100,100
+Nuclear Missile
+bounds:306,1742,100,100
+Nuclear Plant
+bounds:1100,719,100,100
+Nuclear Submarine
+bounds:306,1640,100,100
+Observatory
+bounds:794,1050,100,100
+Opera House
+bounds:182,1482,100,100
+Oxford University
+bounds:488,1232,100,100
+Pagoda
+bounds:1304,924,100,100
+Palace
+bounds:794,1356,100,100
+Panzer
+bounds:1202,719,100,100
+Paper Maker
+bounds:284,1130,100,100
+Paradrop
+bounds:488,1028,100,100
+Paratrooper
+bounds:924,248,100,100
+Pentagon
+bounds:386,1232,100,100
+Persian Immortal
+bounds:1185,1944,100,100
+Petra
+bounds:590,642,100,100
+Pictish Warrior
+bounds:998,1331,100,100
+Pikeman
+bounds:408,1538,100,100
+Pillage
+bounds:1128,5,100,100
+Police Station
+bounds:1508,924,100,100
+Porcelain Tower
+bounds:1406,1026,100,100
+Present
+bounds:1128,413,100,100
+Privateer
+bounds:1304,822,100,100
+Promote
+bounds:182,366,100,94
+Upgrade
+bounds:182,366,100,94
+Public School
+bounds:714,1662,100,100
+Pyramid
+bounds:1100,1025,100,100
+Quinquereme
+bounds:612,1560,100,100
+Recycling Center
+bounds:1491,1842,100,100
+RemoveHeresy
+bounds:516,212,100,100
+Repair
+bounds:1899,1944,100,100
+ConstructImprovement
+bounds:1899,1944,100,100
+Research Lab
+bounds:1304,1026,100,100
+Rifleman
+bounds:1508,1230,100,100
+RoadConnection
+bounds:794,948,100,100
+Rocket Artillery
+bounds:284,1028,100,100
+SS Booster
+bounds:1122,1637,100,100
+SS Cockpit
+bounds:998,515,100,100
+SS Engine
+bounds:516,110,100,100
+SS Stasis Chamber
+bounds:1938,1638,100,100
+Samurai
+bounds:896,1268,100,100
+Satrap's Court
+bounds:794,642,100,100
+Scout
+bounds:590,948,100,100
+Sea Beggar
+bounds:1814,1128,100,100
+Seaport
+bounds:1593,1842,100,100
+SetUp
+bounds:210,264,100,100
+Settler
+bounds:516,314,100,100
+Ship of the Line
+bounds:1428,1638,100,100
+Shrine
+bounds:822,336,100,100
+Sipahi
+bounds:386,722,100,100
+Sistine Chapel
+bounds:692,744,100,100
+Skip
+bounds:284,1436,100,100
+Skirmisher
+bounds:306,1538,100,100
+Sleep
+bounds:1224,1638,100,100
+Slinger
+bounds:488,1334,100,100
+Solar Plant
+bounds:590,846,100,100
+Spaceship Factory
+bounds:692,948,100,100
+Spearman
+bounds:822,30,100,100
+Stable
+bounds:998,1127,100,100
+Stadium
+bounds:612,1662,100,100
+Star
+bounds:822,1778,100,94
+StartGoldenAge
+bounds:1916,1230,100,100
+Statue of Liberty
+bounds:488,620,100,100
+Statue of Zeus
+bounds:692,1356,100,100
+Stealth Bomber
+bounds:618,336,100,100
+Stele
+bounds:1304,1332,100,100
+Stock Exchange
+bounds:1128,209,100,100
+Stone Works
+bounds:1814,1434,100,100
+Stonehenge
+bounds:386,1130,100,100
+StopEscort
+bounds:182,972,100,100
+Stop
+bounds:182,972,100,100
+StopMove
+bounds:182,972,100,100
+Submarine
+bounds:1638,1740,100,100
+Swap
+bounds:1610,822,100,100
+Swordsman
+bounds:284,926,100,100
+Sydney Opera House
+bounds:510,1662,100,100
+Taj Mahal
+bounds:896,860,100,100
+Tank
+bounds:618,132,100,100
+Temple
+bounds:1026,107,100,100
+Temple of Artemis
+bounds:1406,1128,100,100
+Tercio
+bounds:1536,1740,100,100
+Terracotta Army
+bounds:1100,617,100,100
+The Great Library
+bounds:1916,1536,100,100
+The Great Lighthouse
+bounds:720,234,100,100
+The Louvre
+bounds:618,30,100,100
+The Oracle
+bounds:1304,516,100,100
+The Pyramids
+bounds:1491,1944,100,100
+Theatre
+bounds:692,1152,100,100
+Transform
+bounds:260,1844,200,200
+Trebuchet
+bounds:1100,1535,100,100
+Triplane
+bounds:1202,1127,100,100
+Trireme
+bounds:981,1943,100,101
+Tun
+bounds:1406,566,50,50
+Turtle Ship
+bounds:720,336,100,100
+UnitFlag
+bounds:2,1788,256,256
+UnitFlagCivilian
+bounds:2,1148,178,217
+UnitFlagCivilianInner
+bounds:2,1367,178,217
+UnitFlagEmbark
+bounds:2,936,178,210
+UnitFlagFortify
+bounds:2,544,178,178
+UnitFlagSelection
+bounds:2,364,178,178
+UnitFlagSelectionCivilian
+bounds:822,1874,157,170
+UnitFlagSelectionEmbark
+bounds:2,724,178,210
+UnitFlagSelectionFortify
+bounds:642,1866,178,178
+United Nations
+bounds:414,314,100,100
+University
+bounds:1128,1740,100,100
+Utopia Project
+bounds:284,620,100,100
+WLTK 1
+bounds:1202,1025,100,100
+WLTK 2
+bounds:590,540,100,100
+WLTK LR
+bounds:1389,1842,100,100
+Walls
+bounds:714,1560,100,100
+Walls of Babylon
+bounds:794,1458,100,100
+War Chariot
+bounds:924,1739,100,100
+War Elephant
+bounds:896,1370,100,100
+Warrior
+bounds:1734,1638,100,100
+Wat
+bounds:182,564,100,100
+Water Mill
+bounds:2,1586,200,200
+Windmill
+bounds:896,656,100,100
+Work Boats
+bounds:924,350,100,100
+Worker
+bounds:1287,1944,100,100
+Workshop
+bounds:612,1764,100,100
+Zero
+bounds:692,1050,100,100
+pp_firework
+bounds:2,258,104,104

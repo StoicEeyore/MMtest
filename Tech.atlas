@@ -1,0 +1,171 @@
+Tech.png
+size:2048,512
+repeat:none
+Acoustics
+bounds:206,308,100,100
+Advanced Ballistics
+bounds:410,308,100,100
+Agriculture
+bounds:1100,410,100,100
+Animal Husbandry
+bounds:716,308,100,100
+Archaeology
+bounds:1532,308,100,100
+Archery
+bounds:1226,104,100,100
+Architecture
+bounds:182,410,100,100
+Astronomy
+bounds:614,2,100,100
+Atomic Theory
+bounds:206,2,100,100
+Ballistics
+bounds:2,128,100,100
+Banking
+bounds:1124,2,100,100
+Biology
+bounds:1022,308,100,100
+Bronze Working
+bounds:716,206,100,100
+Calendar
+bounds:1022,206,100,100
+Chemistry
+bounds:1430,104,100,100
+Chivalry
+bounds:920,2,100,100
+Circle
+bounds:2,332,178,178
+Civil Service
+bounds:104,26,100,100
+Combined Arms
+bounds:1508,410,100,100
+Combustion
+bounds:488,410,100,100
+Compass
+bounds:206,104,100,100
+Computers
+bounds:512,206,100,100
+Construction
+bounds:1814,410,100,100
+Currency
+bounds:590,410,100,100
+Drama and Poetry
+bounds:1532,206,100,100
+Dynamite
+bounds:104,230,100,100
+Ecology
+bounds:1328,2,100,100
+Economics
+bounds:998,410,100,100
+Education
+bounds:2,230,100,100
+Electricity
+bounds:1610,410,100,100
+Electronics
+bounds:308,206,100,100
+Engineering
+bounds:2,26,100,100
+Fallback
+bounds:1124,308,100,100
+Fertilizer
+bounds:692,410,100,100
+Flight
+bounds:1202,410,100,100
+Future Tech
+bounds:1430,2,100,100
+Globalization
+bounds:1430,206,100,100
+Guilds
+bounds:1916,410,100,100
+Gunpowder
+bounds:614,104,100,100
+Horseback Riding
+bounds:1304,410,100,100
+Industrialization
+bounds:104,128,100,100
+Iron Working
+bounds:284,410,100,100
+Lasers
+bounds:818,308,100,100
+Machinery
+bounds:308,2,100,100
+Masonry
+bounds:1634,308,100,100
+Mass Media
+bounds:1226,2,100,100
+Mathematics
+bounds:1022,2,100,100
+Metal Casting
+bounds:614,206,100,100
+Metallurgy
+bounds:1124,206,100,100
+Military Science
+bounds:1226,308,100,100
+Mining
+bounds:206,206,100,100
+Mobile Tactics
+bounds:896,410,100,100
+Nanotechnology
+bounds:512,308,100,100
+Navigation
+bounds:920,308,100,100
+Nuclear Fission
+bounds:818,206,100,100
+Nuclear Fusion
+bounds:1532,2,100,100
+Optics
+bounds:410,104,100,100
+Particle Physics
+bounds:614,308,100,100
+Pharmaceuticals
+bounds:1328,206,100,100
+Philosophy
+bounds:1406,410,100,100
+Physics
+bounds:512,104,100,100
+Plastics
+bounds:410,2,100,100
+Pottery
+bounds:716,104,100,100
+Printing Press
+bounds:386,410,100,100
+Radar
+bounds:716,2,100,100
+Radio
+bounds:1736,308,100,100
+Railroads
+bounds:818,104,100,100
+Refrigeration
+bounds:512,2,100,100
+Replaceable Parts
+bounds:1022,104,100,100
+Rifling
+bounds:1124,104,100,100
+Robotics
+bounds:308,308,100,100
+Rocketry
+bounds:1430,308,100,100
+Sailing
+bounds:1226,206,100,100
+Satellites
+bounds:308,104,100,100
+Scientific Theory
+bounds:1712,410,100,100
+Stealth
+bounds:818,2,100,100
+Steam Power
+bounds:1328,308,100,100
+Steel
+bounds:1532,104,100,100
+Telecommunications
+bounds:410,206,100,100
+Telegraph
+bounds:1634,206,100,100
+The Wheel
+bounds:1328,104,100,100
+Theology
+bounds:794,410,100,100
+Trapping
+bounds:920,104,100,100
+Writing
+bounds:920,206,100,100

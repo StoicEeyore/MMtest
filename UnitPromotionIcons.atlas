@@ -1,0 +1,105 @@
+UnitPromotionIcons.png
+size:2048,128
+repeat:none
+Accuracy
+bounds:1092,54,50,50
+Air Repair
+bounds:572,54,50,50
+Air Targeting
+bounds:624,54,50,50
+Targeting
+bounds:624,54,50,50
+Ambush
+bounds:104,54,50,50
+Anti-Armor
+bounds:104,54,50,50
+Amphibious
+bounds:208,54,50,50
+Landing Party
+bounds:208,54,50,50
+Armor Plating
+bounds:1716,54,50,50
+Barrage
+bounds:1144,54,50,50
+Besiege
+bounds:988,54,50,50
+Siege
+bounds:988,54,50,50
+Blitz
+bounds:1560,54,50,50
+Boarding Party
+bounds:780,54,50,50
+Bombardment
+bounds:1352,54,50,50
+Charge
+bounds:1248,54,50,50
+Coastal Raider
+bounds:1612,54,50,50
+Cover
+bounds:832,54,50,50
+Dogfighting
+bounds:884,54,50,50
+Drill
+bounds:1300,54,50,50
+Evasion
+bounds:260,2,50,50
+Flight Deck
+bounds:364,54,50,50
+Formation
+bounds:936,54,50,50
+Great Generals
+bounds:468,54,50,50
+Fallback
+bounds:468,54,50,50
+Quick Study
+bounds:468,54,50,50
+Haka War Dance
+bounds:1924,54,50,50
+Heal Instantly
+bounds:1820,54,50,50
+Home Sweet Home
+bounds:104,2,50,50
+Ignore terrain cost
+bounds:2,4,100,100
+Indirect Fire
+bounds:1040,54,50,50
+Interception
+bounds:1404,54,50,50
+Logistics
+bounds:1456,54,50,50
+March
+bounds:156,2,50,50
+Medic
+bounds:416,54,50,50
+Mobility
+bounds:1976,54,50,50
+Morale
+bounds:208,2,50,50
+Operational Range
+bounds:676,54,50,50
+Extended Range
+bounds:676,54,50,50
+Pictish Courage
+bounds:728,54,50,50
+Rejuvenation
+bounds:260,54,50,50
+Sentry
+bounds:520,54,50,50
+Scouting
+bounds:520,54,50,50
+Shock
+bounds:312,54,50,50
+Slinger Withdraw
+bounds:1664,54,50,50
+Sortie
+bounds:1196,54,50,50
+Supply
+bounds:156,54,50,50
+Survivalism
+bounds:1768,54,50,50
+Volley
+bounds:1872,54,50,50
+Wolfpack
+bounds:312,2,50,50
+Woodsman
+bounds:1508,54,50,50
