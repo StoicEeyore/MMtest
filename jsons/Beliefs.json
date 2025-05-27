@@ -1,5 +1,5 @@
-
 [
+
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
@@ -19,13 +19,12 @@
         "name": "Faith Healers",
         "type": "Pantheon",
         "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
-        // This should be worded better
+
     },
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
         "uniques": ["[+10]% growth [in this city]"]
-        // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
     },
     {
         "name": "God of Craftsman",
@@ -113,7 +112,6 @@
         "type": "Pantheon",
         "uniques": ["[+2 Faith] from every [Quarry]"]
     },
-///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Asceticism",
         "type": "Follower",
@@ -194,7 +192,6 @@
         "type": "Follower",
         "uniques": ["[+15]% growth [in this city] <when not at war>"]
     },
-///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
         "name": "Ceremonial Burial",
@@ -244,13 +241,11 @@
         "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
     },
 
-    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
 
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
-        // ToDo: Should only be friendly territory of cities that follow this religion
     },
     {
         "name": "Holy Order",
@@ -266,7 +261,6 @@
         "name": "Just War",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
-        // ToDo: Should only be enemy territory of cities that follow this religion
     },
     {
         "name": "Messiah",
