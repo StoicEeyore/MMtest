@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Images.Flags"
+		},
+		{
+			"path": "../Images.Icons"
+		},
+		{
+			"path": "../Images.NationIcons"
+		},
+		{
+			"path": "../Images.PolicyIcons"
+		},
+		{
+			"path": "../Images.ReligionIcons"
+		},
+		{
+			"path": "../Images.Skin"
+		},
+		{
+			"path": "../Images.Tech"
+		},
+		{
+			"path": "../Images.Tilesets"
+		},
+		{
+			"path": "../Images.UnitPromotionIcons"
+		},
+		{
+			"path": "../ImagesToNotAddToGame"
+		},
+		{
+			"path": "../jsons"
+		},
+		{
+			"path": "../sounds"
+		},
+		{
+			"path": "../.github"
+		},
+		{
+			"path": "../Images.AbsoluteUnits"
+		},
+		{
+			"path": "../Images.ConstructionIcons"
+		}
+	]
+}
