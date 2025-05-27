@@ -1,6 +1,5 @@
 [
 
-	//Civilians
 	{
 		"name": "Worker",
 		"unitType": "Civilian",
@@ -265,9 +264,6 @@
 		"uniques": [
 			"Can instantly construct a [Customs house] improvement <by consuming this unit> <after discovering [Guilds]>",
 			"[2] free [Mongol Raider] units appear <by consuming this unit>",
-		/*
-		"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence <after discovering [Currency]>",
-		*/
 			"Great Person - [Gold]",
 			"Unbuildable", "Uncapturable"],
 		"movement": 2
@@ -336,7 +332,6 @@
 	},
 
 
-	// Religious units 
 
 	{
 		"name": "Missionary",
@@ -360,7 +355,6 @@
 		"movement": 3
 	},
 
-	//Rovers
 
 	{
 		"name": "Combat Rover",
@@ -394,7 +388,6 @@
 		"attackSound": "MissileLaunch"
 	},
 
-	//recon
 
 	{
 		"name": "Scout",
@@ -480,7 +473,6 @@
 		"attackSound": "machinegun"
 	},
 
-	//amphibious
 	{
 		"name": "Naval Infantry",
 		"unitType": ["Gunpowder Amphibious", "Recon", "Gunpowder", "Infantry"],
@@ -551,7 +543,6 @@
 		]
 	},
 
-	//Infantry
 
 
 	{
@@ -747,7 +738,6 @@
 		"promotions": ["[Berserker] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-		//Danish unique unit. Can attack from the sea without any penalty, and moves faster.
 	},
 	{
 		"name": "Ghazi",
@@ -958,7 +948,6 @@
 		"attackSound": "machinegun"
 	},
 
-//future infantry
 
 	{
 		"name": "Clone Trooper",
@@ -1066,7 +1055,6 @@
 		"attackSound": "machinegun"
 	},
 
-	//paratroops
 
 	{
 		"name": "Paratrooper",
@@ -1113,7 +1101,6 @@
 			],
 		"attackSound": "machinegun"
 	},
-	//experimental
 	{
 		"name": "ODST Trooper",
 		"unitType": ["Gunpowder", "Infantry", "Armored", "Data Uplinked"],
@@ -1158,7 +1145,6 @@
 		]
 	},
 
-	//siege infantry
 
 	{
 		"name": "Siege Ram",
@@ -1265,7 +1251,6 @@
 		"attackSound": "shot"
 	},
 
-	//anticav
 
 
 	{
@@ -1388,7 +1373,6 @@
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
-		//"Requires [Mercenary Army]" in BNW
 	},
 	{
 		"name": "Pike and Shot",
@@ -1442,7 +1426,6 @@
 		"attackSound": "shot"
 	},
 
-	//rangedA
 
 	{
 		"name": "Stoneslinger",
@@ -1507,7 +1490,6 @@
 		"cost": 185,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Napoleonic Skirmisher",
-		//"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -1632,7 +1614,6 @@
 	},
 
 
-	//rangedE
 	{
 		"name": "Gatling Gun",
 		"unitType": ["Ranged Gunpowder Emplacement", "Gunpowder"], 
@@ -1739,7 +1720,6 @@
 		"attackSound": "ChargeUpBeam"
 	},
 
-	//rangedB
 	{
 		"name": "Archer",
 		"unitType": "Archery",
@@ -1930,7 +1910,6 @@
 
 
 
-	//siegeB
 	{
 		"name": "Catapult",
 		"unitType": ["Siege Assault", "Siege"],
@@ -2128,7 +2107,6 @@
 		"attackSound": "ChargeUpBeam"
 	},
 
-	//light cav
 
 	{
 		"name": "Horseman",
@@ -2383,7 +2361,6 @@
 		"attackSound": "machinegun"
 	},
 
-	//heavy cav
 	{
 		"name": "Heavy Chariot",
 		"unitType": ["Heavy Mounted", "Mounted", "Armored"],
@@ -2495,7 +2472,6 @@
 			],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
-		//Ability to found new cities can only be used on a foreign continent that does not contain the Spanish capital.
 	},
 	{
 		"name": "Naresuan's Elephant",
@@ -2607,7 +2583,6 @@
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Consumes [1] [Oil]", "Consumes [1] [Iron]"],
 		"attackSound": "tankshot"
-		//German unique unit, stronger than Tank
 	},
 	{
 		"name": "Red Army Tank",
@@ -2731,7 +2706,6 @@
 	},
 
 
-	//ranged cav
 	{
 		"name": "Chariot Archer",
 		"unitType": ["Archery", "Mounted"],
@@ -2909,7 +2883,6 @@
 		"attackSound": "artilllery"
 	},
 
-	//counter cav
 	{
 		"name": "Medieval Lancer",
 		"unitType": ["Counter Cavalry", "Mounted"],
@@ -3072,7 +3045,6 @@
 
 
 
-	//Mechs
 
 	{
 		"name": "Recon Mech",
@@ -3305,7 +3277,6 @@
 	},
 
 
-	//AA
 
 	{
 		"name": "Anti-Aircraft Gun",
@@ -3434,8 +3405,6 @@
 		"attackSound": "MissileLaunch"
 	},
 
-
-	//missile def
 	{
 		"name": "Theatre Defense System",
 		"unitType": ["Missile Defense", "Armored", "Gunpowder", "Data Uplinked", "Advanced Anti-Air"],
@@ -3454,7 +3423,6 @@
 		"attackSound": "missile"
 	},
 
-	//missiles
 
 	{
 		"name": "Short-Range Missile",
@@ -3588,8 +3556,6 @@
 			],
 		"attackSound": "missile"
 	},
-	//experimental
-	//drop pods
 	{
 		"name": "ODST Drop Pod",
 		"unitType": ["Drop Pod"],
@@ -3603,7 +3569,6 @@
 			"Cannot attack cities",
 			"Free [ODST Trooper] appears <upon being defeated>",
 
-	//<upon expending a [ODST Drop Pod] unit>
 
 			"Can transform to [ODST Trooper]",
 			"Consumes [1] [Titanium]",
@@ -3631,8 +3596,6 @@
 			],
 		"attackSound": "missile"
 	},
-	//experimental
-	//torpedo
 
 	{
 		"name": "Torpedo",
@@ -3661,8 +3624,6 @@
 		"attackSound": "torpedo"
 	},
 
-	//nukes
-	//experimental
 	{
 		"name": "Chemical Missile",
 		"unitType": ["Chem Missile", "Missile"],
@@ -3703,10 +3664,7 @@
 			"Damage taken from interception reduced by [10]%"
 			],
 		"attackSound": "nuke"
-		// Plane rather than a missile - can be based in city or Carrier only.
-		// Can be intercepted, but must die for it not to take effect.
 	},
-	//experimental
 	{
 		"name": "Dirty Bomb Truck",
 		"unitType": "Nuke Truck",
@@ -3742,7 +3700,6 @@
 		"hurryCostModifier": 20,
 		"attackSound": "nuke"
 	},
-	//experimental
 	{
 		"name": "Nuclear Missile",
 		"unitType": ["Nuke Missile", "Missile", "Ballistic"],
@@ -3784,7 +3741,6 @@
 			],
 		"attackSound": "nuke"
 	},
-	//experimental
 	{
 		"name": "Apocalypse Missile",
 		"unitType": ["Nuke Missile", "Missile", "Ballistic"],
@@ -3843,8 +3799,6 @@
 			"Cannot be intercepted",
 			"Destroys tile improvements when attacking",
 
-	//might need to figure out workaround, difference between defeated and selfdestruct?
-	//<upon losing at least [positiveAmount] HP in a single attack>
 
 			"[3] free [{Barbarians} {Barbarian Irregular}] units appear <upon being defeated>",
 			"Blast radius [2]",
@@ -3858,7 +3812,6 @@
 	},
 
 
-	//Satellites
 
 	{
 		"name": "Survey Satellite",
@@ -3997,8 +3950,6 @@
 	},
 
 
-	//supercarriers
-	//land carrier
 
 	{
 		"name": "Mobile Fortress",
@@ -4024,7 +3975,6 @@
 		"attackSound": "tankshot"
 	},
 
-	//helicarrier
 	{
 		"name": "HeliCarrier",
 		"unitType": ["Hover Carrier", "Hover", "Recon", "Armored", "Gunpowder", "Data Uplinked"],
@@ -4099,7 +4049,6 @@
 		"attackSound": "tankshot"
 	},
 
-	//Drones
 
 	{
 		"name": "UAV",
@@ -4121,7 +4070,6 @@
 		"attackSound": "jetgun"
 	},
 
-	//deciv
 	{
 		"name": "Quadcopter Drone",
 		"unitType": ["Hover Drone", "Hover", "Gunpowder"],
@@ -4190,7 +4138,6 @@
 		"attackSound": "MissileLaunch"
 	},
 
-	//meant to slice and dice generals, experimental
 
 	{
 		"name": "Ginsu Strike Drone",
@@ -4274,7 +4221,6 @@
 	},
 
 
-	//heli
 
 	{
 		"name": "Zeppelin",
@@ -4365,7 +4311,6 @@
 			"Can upgrade to [Heavy Heli Gunship] <after discovering [Nanotech]>",
 			"Never appears as a Barbarian unit"
 			],
-		//"promotions": ["Indirect Fire"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -4409,7 +4354,6 @@
 	},
 
 
-	//Hovercraft
 
 	{
 		"name": "Support Hovercraft",
@@ -4428,10 +4372,6 @@
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
-
-
-	//navy melee
-
 	{
 		"name": "Trireme",
 		"unitType": "Melee Water",
@@ -4485,7 +4425,6 @@
 		"upgradesTo": "Trireme",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
-		//Barbarian unique naval unit
 	},
 	{
 		"name": "Cog",
@@ -4648,7 +4587,6 @@
 		"attackSound": "shipguns"
 	},
 
-	//navy ranged
 	{
 		"name": "Great Galley",
 		"unitType": "Ranged Water",
@@ -4832,7 +4770,6 @@
 		"attackSound": "shipguns"
 	},
 
-	//siege ships
 	{
 		"name": "Carrack",
 		"unitType": ["Naval Siege", "Naval Armor"],
@@ -5025,7 +4962,6 @@
 		"attackSound": "missile"
 	},
 
-	//navy raiders
 	{
 		"name": "Privateer",
 		"unitType": "Naval Raider",
@@ -5061,8 +4997,6 @@
 		"strength": 34,
 		"cost": 250,
 		"requiredTech": "Steam Power",
-		//"upgradesTo": "Submarine",
-		//"obsoleteTech": "Refrigeration",
 		"promotions": ["Coastal Raider I", "Supply"],
 		"uniques": ["Gunpowder"],
 		"attackSound": "shipguns"
@@ -5080,7 +5014,6 @@
 		"attackSound": "shipguns"
 	},
 
-	//subs
 	{
 		"name": "Diesel Submarine",
 		"unitType": ["Submarine", "Naval Gunpowder"],
@@ -5161,7 +5094,6 @@
 		"attackSound": "missile"
 	},
 
-	//navy carriers
 	{
 		"name": "Carrier",
 		"unitType": ["Aircraft Carrier", "Naval Armor"],
@@ -5220,7 +5152,6 @@
 	},
 
 
-	//air superiority & interceptors
 	{
 		"name": "Triplane",
 		"unitType": ["Fighter", "Aircraft", "Air Gunpowder"],
@@ -5232,7 +5163,6 @@
 		"cost": 325,
 		"requiredTech": "Flight",
 		"upgradesTo": "Air Fighter",
-		//"obsoleteTech": "Radar",
 		"uniques": ["Consumes [1] [Oil]", "[40]% chance to intercept air attacks"],
 		"attackSound": "machinegun"
 	},
@@ -5247,7 +5177,6 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		//"obsoleteTech": "Lasers",
 		"uniques": ["Consumes [1] [Oil]", "[65]% chance to intercept air attacks"],
 		"attackSound": "machinegun"
 	},
@@ -5264,7 +5193,6 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		//"obsoleteTech": "Lasers",
 		"uniques": [
 			"Consumes [1] [Oil]", 
 			"[70]% chance to intercept air attacks",
@@ -5286,7 +5214,6 @@
 		"cost": 300,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		//"obsoleteTech": "Lasers",
 		"uniques": [
 			"Consumes [1] [Oil]", 
 			"[65]% chance to intercept air attacks", 
@@ -5305,7 +5232,6 @@
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Jet Interceptor",
-		//"obsoleteTech": "Lasers",
 		"uniques": [
 			"Consumes [1] [Oil]", 
 			"[65]% chance to intercept air attacks"
@@ -5420,7 +5346,6 @@
 	},
 
 
-	//bomber & CAS
 	{
 		"name": "Great War Bomber",
 		"unitType": ["Bomber", "Aircraft", "Air Gunpowder"],
@@ -5447,7 +5372,6 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Bomber",
-		//"obsoleteTech": "Lasers",
 		"uniques": ["Consumes [1] [Oil]", "Consumes [1] [Iron]"],
 		"attackSound": "bombing"
 	},
@@ -5465,7 +5389,6 @@
 		"requiredResource": "Oil",
 		"promotions": ["[B17] ability"],
 		"upgradesTo": "Jet Bomber",
-		//"obsoleteTech": "Lasers",
 		"uniques": ["Consumes [1] [Oil]", "Consumes [1] [Aluminum]"],
 		"attackSound": "bombing"
 	},
@@ -5479,7 +5402,6 @@
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Jet Striker",
-		//"obsoleteTech": "Lasers",
 		"uniques": ["Consumes [1] [Oil]"],
 		"attackSound": "bombing"
 	},
@@ -5618,7 +5540,6 @@
 		"attackSound": "bombing"
 	},
 
-	// barbarians
 	{
 		"name": "Barbarian Warlord",
 		"uniqueTo": "Barbarians",
@@ -5727,7 +5648,6 @@
 			"Cannot attack cities",
 			"Free [ODST Trooper test] appears <upon being defeated>",
 
-	//<upon expending a [ODST Drop Pod] unit>
 
 			"Can transform to [ODST Trooper test]",
 			"Never appears as a Barbarian unit"

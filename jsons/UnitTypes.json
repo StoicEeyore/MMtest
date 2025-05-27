@@ -8,7 +8,7 @@
         "movementType": "Water"
     },
 
-//other
+
 
     {
         "name": "Elephant",
@@ -144,7 +144,7 @@
         "movementType": "Water"
     },
 
-	//for mod compatability
+
 
     {
         "name": "Scout",
@@ -159,7 +159,6 @@
         "movementType": "Land"
     },
 
-//Rover
 
     {
         "name": "Rover",
@@ -169,7 +168,6 @@
         "movementType": "Land"
     },
 
-//infantry
 
     {
         "name": "Infantry",
@@ -207,7 +205,6 @@
         "movementType": "Land"
     },
 
-	//anti-cav
 
     {
 		        "name": "Anti-Cavalry",
@@ -244,7 +241,6 @@
         "movementType": "Land"
     },
 
-    //ranged
 
     {
         "name": "Archery Light",
@@ -256,7 +252,6 @@
         "movementType": "Land"
     },
 
-	//for mod compatability
     {
         "name": "Ranged Gunpowder",
 	"uniques": [
@@ -331,7 +326,6 @@
     },
 
 
-//cavalry
 
 
     {
@@ -395,7 +389,6 @@
         "movementType": "Land"
     },
 
-	//Mechs
 
 
 	{
@@ -434,7 +427,6 @@
 	"movementType": "Land"
 	},
 
-    //anti-air
 
     {
         "name": "Anti-Air",
@@ -481,7 +473,6 @@
         "movementType": "Land"
     },
 
-	//torpedo
 	{
 	"name": "Torpedo",
 	"uniques": [
@@ -499,7 +490,6 @@
 	"movementType": "Air"
 	},
 
-	//missiles
 
 	{
 	"name": "Missile",
@@ -622,7 +612,6 @@
 	"movementType": "Land"
 	},
 
-	//Satellites
 
 	{
 	"name": "Satellite",
@@ -650,7 +639,6 @@
 	"movementType": "Land"
     },
 
-	//supercarriers
 	{
 	"name": "Land Carrier",
 	"uniques": ["Carrier",
@@ -697,7 +685,6 @@
 	"movementType": "Land"
 	},
 
-	//Drones
 
 
     {
@@ -736,7 +723,6 @@
         "movementType": "Water"
     },
 
-	//helicopters
 
     {
         "name": "Helicopter",
@@ -774,7 +760,6 @@
         "movementType": "Land"
     },
 
-    //naval
 
     {
         "name": "Melee Water",
@@ -873,7 +858,6 @@
         "movementType": "Water"
     },
 
-    //aircraft
 
     {
         "name": "Fighter",
@@ -954,7 +938,6 @@
         "movementType": "Air"
     },
 
-    // Deprecated unit types required for mods without a UnitTypes.json file to work
 
     {
         "name": "Melee",
