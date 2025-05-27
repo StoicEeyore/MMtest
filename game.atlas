@@ -1,0 +1,1753 @@
+game.png
+size:2048,2048
+repeat:none
+Academy
+bounds:546,1196,100,100
+Acquire
+bounds:1662,740,100,100
+Aesthetics
+bounds:1988,1684,50,50
+Afrikaans
+bounds:818,1786,128,128
+AirSweep
+bounds:1934,326,100,100
+Aircraft
+bounds:1576,367,50,50
+Aluminum
+bounds:1833,542,100,100
+America
+bounds:104,318,100,100
+Ancient ruins
+bounds:1875,950,100,100
+Anti-Aircraft Gun-1
+bounds:520,64,64,56
+Anti-Tank Gun-2
+bounds:1770,7,64,56
+Arabia
+bounds:1770,944,100,100
+Austria
+bounds:1526,521,100,100
+Autocracy
+bounds:1988,1372,50,50
+Automate
+bounds:364,62,50,50
+Aztecs
+bounds:1464,1018,100,100
+Babylon
+bounds:1356,916,100,100
+Bananas
+bounds:2,772,100,100
+Bangla
+bounds:1067,1528,128,128
+Barbarian encampment
+bounds:2,466,100,100
+Barbarians
+bounds:2,670,100,100
+Belarusian
+bounds:1457,1528,128,128
+Berserker-2
+bounds:1512,232,95,81
+Blockade
+bounds:818,1916,130,130
+Blockaded
+bounds:410,503,100,100
+Bobot
+bounds:1165,1324,100,100
+Bosnian
+bounds:132,1366,128,128
+Brazilian_Portuguese
+bounds:1342,1918,128,128
+Buddhism
+bounds:1866,644,100,100
+Bulgarian
+bounds:188,1496,128,128
+Buy
+bounds:1629,638,100,100
+Byzantium
+bounds:438,1115,100,100
+Camel Archer-1
+bounds:1443,315,77,80
+Camel Archer-2
+bounds:1444,397,77,80
+Camel Archer-Arabia
+bounds:1364,359,77,80
+Camera
+bounds:648,1338,25,25
+Camp
+bounds:1731,638,100,100
+Cannon
+bounds:1114,64,64,56
+Cannon-2
+bounds:1044,6,64,56
+Capital
+bounds:448,1523,107,101
+Caravel
+bounds:384,4,64,56
+Carrier
+bounds:780,6,64,56
+Carrier-2
+bounds:1836,8,64,56
+Carthage
+bounds:1764,740,100,100
+Catalan
+bounds:1212,1918,128,128
+Catapult-2
+bounds:912,6,64,56
+Cattle
+bounds:1119,814,100,100
+Celts
+bounds:308,522,100,100
+Charts
+bounds:642,1031,100,100
+China
+bounds:1879,1052,100,100
+Christianity
+bounds:1050,916,100,100
+Circle
+bounds:380,1626,178,178
+Citadel
+bounds:336,1134,100,100
+Cities
+bounds:1806,1556,100,100
+Citizenship
+bounds:1124,580,50,50
+Citrus
+bounds:1730,434,100,100
+City center
+bounds:1254,916,100,100
+City ruins
+bounds:104,624,100,100
+CityCenter
+bounds:1158,1018,100,100
+CityConnection
+bounds:950,1916,130,130
+CityState
+bounds:546,1298,100,100
+CityStatus
+bounds:954,1148,100,100
+Close
+bounds:1872,746,100,100
+Coal
+bounds:1566,929,100,100
+Collective Rule
+bounds:136,1600,50,50
+Freedom
+bounds:136,1600,50,50
+Commerce
+bounds:1988,1528,50,50
+Communism
+bounds:512,634,50,50
+Order
+bounds:512,634,50,50
+Confucianism
+bounds:807,1424,100,100
+Constitution
+bounds:1124,476,50,50
+Fallback
+bounds:1124,476,50,50
+Copper
+bounds:716,224,100,100
+Corner
+bounds:1458,916,100,100
+Cotton
+bounds:1344,508,100,100
+Crab
+bounds:2,1078,100,100
+Croatian
+bounds:1598,1658,128,128
+CrosshairB
+bounds:132,1134,100,100
+Cultural
+bounds:1770,842,100,100
+Cultural Diplomacy
+bounds:1180,580,50,50
+Culture
+bounds:716,812,100,100
+Cultured
+bounds:750,1220,100,100
+Demographics
+bounds:750,1220,100,100
+HiddenTutorialTask
+bounds:750,1220,100,100
+Rankings
+bounds:750,1220,100,100
+Score
+bounds:750,1220,100,100
+Customs house
+bounds:2,874,100,100
+Czech
+bounds:1342,1788,128,128
+Deer
+bounds:104,726,100,100
+Democracy
+bounds:416,62,50,50
+Denmark
+bounds:852,1220,100,100
+Destroyer
+bounds:846,6,64,56
+Destroyer-1
+bounds:1048,64,64,56
+Diplomacy
+bounds:512,992,100,100
+DiplomacyW
+bounds:920,122,100,100
+Diplomatic
+bounds:1668,842,100,100
+DisbandUnit
+bounds:750,1118,100,100
+Discipline
+bounds:312,62,50,50
+Discord
+bounds:2,1570,132,132
+DollarSign
+bounds:1527,725,100,100
+DomainAir
+bounds:410,809,100,100
+DomainWater
+bounds:1464,1120,100,100
+Domination
+bounds:1587,1541,115,115
+Dromon-2
+bounds:1974,699,64,64
+Dromon-Byzantium-2
+bounds:1979,9,64,64
+Dromon-1
+bounds:1979,9,64,64
+Dutch
+bounds:937,1656,128,128
+Dyes
+bounds:2,262,100,100
+Easter Egg 3
+bounds:120,2,64,58
+Easter Egg 4
+bounds:318,3,64,57
+Easter Egg 7
+bounds:252,2,64,58
+Easter Egg 8
+bounds:186,2,64,58
+Educated Elite
+bounds:1988,1580,50,50
+Egypt
+bounds:789,1322,100,100
+EmbarkedUnit-Civilian
+bounds:1902,8,64,56
+EmbarkedUnit-Civilian-1
+bounds:1506,6,64,56
+EmbarkedUnit-Civilian-Renaissance era
+bounds:1312,64,64,56
+EmbarkedUnit-Civilian-Renaissance era-2
+bounds:1246,64,64,56
+EmbarkedUnit-Civilian-Spain-Modern era
+bounds:516,4,64,56
+EmbarkedUnit-Civilian-Modern era
+bounds:516,4,64,56
+EmbarkedUnit-Military
+bounds:982,64,64,56
+EmbarkedUnit-Military-Renaissance era-2
+bounds:1232,421,64,56
+EmbarkedUnit-Military-Spain-Modern era
+bounds:784,64,64,56
+EmbarkedUnit-Military-Modern era
+bounds:784,64,64,56
+EmbarkedUnit-Military-Spain-Modern era-1
+bounds:586,64,64,56
+EmbarkedUnit-Military-Modern era-1
+bounds:586,64,64,56
+England
+bounds:308,828,100,100
+English
+bounds:1082,1918,128,128
+Enhancer
+bounds:1022,326,100,100
+Espionage
+bounds:1369,1324,100,100
+MoveSpies
+bounds:1369,1324,100,100
+Spy_White
+bounds:1369,1324,100,100
+EspionageTutorial
+bounds:2,1704,196,100
+Ethiopia
+bounds:1526,623,100,100
+ExclamationMark
+bounds:206,522,100,100
+Farm
+bounds:1569,1133,100,100
+Filipino
+bounds:1732,1918,128,128
+Finnish
+bounds:948,1786,128,128
+Fire
+bounds:690,1439,115,115
+Fish
+bounds:1022,428,100,100
+Fishing Boats
+bounds:1872,848,100,100
+Follower
+bounds:1158,1120,100,100
+Food
+bounds:1365,1222,100,100
+Fort
+bounds:410,401,100,100
+FoundReligion
+bounds:1067,1426,100,100
+EnhanceReligion
+bounds:1067,1426,100,100
+Faith
+bounds:1067,1426,100,100
+FoundPantheon
+bounds:1067,1426,100,100
+ReformReligion
+bounds:1067,1426,100,100
+Founder
+bounds:104,522,100,100
+France
+bounds:444,1319,100,100
+Free Religion
+bounds:104,62,50,50
+Free Speech
+bounds:1522,315,50,50
+French
+bounds:1082,1788,128,128
+Frigate-2
+bounds:1180,64,64,56
+Frigate-Barbarians
+bounds:652,64,64,56
+Furs
+bounds:206,318,100,100
+Galician
+bounds:2,1180,128,128
+Galleass
+bounds:1378,64,64,56
+Galleass-1
+bounds:1440,6,64,56
+Galley
+bounds:1642,65,64,56
+Gatling Gun
+bounds:1298,421,64,56
+Gatling Gun-2
+bounds:1572,6,64,56
+Gems
+bounds:1323,814,100,100
+German
+bounds:1472,1788,128,128
+Germany
+bounds:410,197,100,100
+Giant Death Robot
+bounds:993,1250,64,84
+Giant Death Robot-1
+bounds:1981,980,64,84
+Giant Death Robot-2
+bounds:1981,1066,64,84
+Giant Easter Egg
+bounds:993,1336,64,84
+Giant Pumpkin
+bounds:1977,905,64,73
+Github
+bounds:512,428,100,100
+Gold
+bounds:410,299,100,100
+Gold Ore
+bounds:1704,1556,100,100
+Great Engineer
+bounds:1992,1944,50,50
+Great General
+bounds:392,1236,50,50
+Great General-1
+bounds:1384,122,77,100
+Great General-2
+bounds:1226,122,77,100
+Great General-Industrial era-2
+bounds:1318,232,95,81
+Great Merchant
+bounds:1011,1474,50,50
+Great Scientist
+bounds:260,62,50,50
+Great Scientist-2
+bounds:1116,731,95,81
+Greece
+bounds:2,568,100,100
+Greek
+bounds:1862,1918,128,128
+Halloween candy 1
+bounds:1510,64,64,56
+Halloween candy 4
+bounds:978,6,64,56
+Happiness
+bounds:614,428,100,100
+Helicopter Gunship-2
+bounds:916,64,64,56
+Hexagon
+bounds:2,1806,277,240
+HexagonOutline
+bounds:281,1806,277,240
+Hinduism
+bounds:1260,1120,100,100
+Holy site
+bounds:448,1421,100,100
+Hoplite-Greece-1
+bounds:1022,833,95,81
+Horse Archer-1
+bounds:1900,66,77,70
+Horse Archer-The Huns-2
+bounds:1900,66,77,70
+Horse Archer-The Huns
+bounds:1821,66,77,70
+Horse Archer
+bounds:1821,66,77,70
+Horses
+bounds:410,911,100,100
+Hungarian
+bounds:1327,1528,128,128
+Illustration
+bounds:818,326,100,100
+Improvements
+bounds:564,634,50,50
+Inca
+bounds:1883,1154,100,100
+Incense
+bounds:1628,536,100,100
+Increase
+bounds:818,428,100,100
+India
+bounds:104,1032,100,100
+Indonesian
+bounds:1602,1918,128,128
+Iron
+bounds:1935,530,100,100
+Ironclad-1
+bounds:1242,6,64,56
+Iroquois
+bounds:206,930,100,100
+Islam
+bounds:1628,434,100,100
+Italian
+bounds:807,1656,128,128
+Ivory
+bounds:716,914,100,100
+Japan
+bounds:954,1046,100,100
+Japanese
+bounds:2,1310,128,128
+Jewelry
+bounds:234,1134,100,100
+Judaism
+bounds:1022,122,100,100
+Kazakh
+bounds:2,1440,128,128
+Keyboard
+bounds:1152,916,100,100
+Khan
+bounds:1542,122,77,100
+Khan-1
+bounds:1305,122,77,100
+Khan-2
+bounds:1463,122,77,100
+Korea
+bounds:648,1235,100,100
+Korean
+bounds:1728,1658,128,128
+Landed Elite
+bounds:392,1444,50,50
+Landmark
+bounds:206,114,100,100
+Landsknecht-1
+bounds:1106,632,95,95
+Landsknecht-Germany
+bounds:815,632,95,95
+Latin
+bounds:1472,1918,128,128
+Link
+bounds:1832,236,100,100
+Lithuanian
+bounds:1862,1788,128,128
+Load
+bounds:648,1133,100,100
+Locked
+bounds:846,1016,100,100
+Longbowman
+bounds:1009,632,95,95
+Longbowman-1
+bounds:1124,322,95,95
+Longswordsman-2
+bounds:912,632,95,95
+Lumber mill
+bounds:206,1032,100,100
+Macedonian
+bounds:1338,1658,128,128
+Machine Gun-2
+bounds:1176,6,64,56
+Malay
+bounds:318,1496,128,128
+Malcontent
+bounds:308,624,100,100
+Manufactory
+bounds:818,530,100,100
+MapEditor
+bounds:614,827,100,100
+MapOverlayToggleImprovements
+bounds:156,62,50,50
+MapOverlayToggleWorkedTiles
+bounds:1124,424,50,50
+Marble
+bounds:614,326,100,100
+Maritime
+bounds:1730,536,100,100
+MenuIcon
+bounds:1628,332,100,100
+Mercantile
+bounds:1730,332,100,100
+Mercantilism
+bounds:468,62,50,50
+Meritocracy
+bounds:1180,528,50,50
+Militarism
+bounds:1992,1840,50,50
+Militaristic
+bounds:104,420,100,100
+Military Caste
+bounds:136,1548,50,50
+Military Tradition
+bounds:208,62,50,50
+Honor
+bounds:208,62,50,50
+Mine
+bounds:1475,1426,100,100
+Missile Cruiser-1
+bounds:1444,64,64,56
+Moai
+bounds:1271,1426,100,100
+Mods
+bounds:920,326,100,100
+Monarchy
+bounds:392,1288,50,50
+Mongolia
+bounds:512,686,100,100
+MoveAutomatedUnits
+bounds:1988,1476,50,50
+ArrowRight
+bounds:1988,1476,50,50
+Movement
+bounds:1988,1476,50,50
+NextUnit
+bounds:1988,1476,50,50
+Multiplayer
+bounds:1242,712,100,100
+NationSwap
+bounds:1791,1352,100,100
+Nationalism
+bounds:392,1340,50,50
+Naval Tradition
+bounds:1992,1892,50,50
+New
+bounds:104,930,100,100
+NextTurn
+bounds:1689,1352,100,100
+Checkmark
+bounds:1689,1352,100,100
+Norwegian
+bounds:132,1236,128,128
+Norwegian Ski Infantry
+bounds:1934,141,95,81
+Norwegian Ski Infantry-1
+bounds:1609,232,95,81
+NotWorked
+bounds:1344,712,100,100
+Notifications
+bounds:1022,530,100,100
+Nuclear Submarine
+bounds:718,64,64,56
+Nuclear Submarine-1
+bounds:450,4,64,56
+Offshore Platform
+bounds:1242,508,100,100
+Oil
+bounds:1526,419,100,100
+Oil well
+bounds:614,530,100,100
+Options
+bounds:2,364,100,100
+Pantheon
+bounds:920,428,100,100
+Pasture
+bounds:1056,1120,100,100
+Pause
+bounds:1576,315,50,50
+Pearls
+bounds:410,707,100,100
+Pencil
+bounds:716,530,100,100
+Pentagon
+bounds:1063,1324,100,100
+Persia
+bounds:308,930,100,100
+Persian Immortal
+bounds:1221,232,95,81
+Persian_(Pinglish-DIN)
+bounds:1858,1658,128,128
+Persian_(Pinglish-UN)
+bounds:1858,1658,128,128
+Philantropy
+bounds:1988,1736,50,50
+PickConstruction
+bounds:1267,1324,100,100
+Production
+bounds:1267,1324,100,100
+PickPolicy
+bounds:648,1365,33,33
+Pillage
+bounds:512,224,100,100
+Plantation
+bounds:716,122,100,100
+Polder
+bounds:512,326,100,100
+Police State
+bounds:136,1652,50,50
+Policies
+bounds:512,788,100,100
+Polish
+bounds:560,1660,128,128
+Politics-diagram-bg
+bounds:560,1790,256,256
+Polynesia
+bounds:1671,1046,100,100
+Populism
+bounds:1523,367,50,50
+Porcelain
+bounds:1471,1324,100,100
+Portuguese
+bounds:557,1400,128,128
+Present
+bounds:308,216,100,100
+Protectionism
+bounds:1988,1632,50,50
+Puppet
+bounds:690,1556,115,115
+Quarry
+bounds:744,1016,100,100
+Quest
+bounds:852,1118,100,100
+Question
+bounds:1467,1222,100,100
+Quickstart
+bounds:1161,1222,100,100
+Quinquereme
+bounds:1979,75,64,64
+Quinquereme-1
+bounds:1974,765,64,64
+Railroad
+bounds:818,122,100,100
+Random
+bounds:614,725,100,100
+Reduce
+bounds:1362,1018,100,100
+Reformation
+bounds:132,1496,50,50
+Religions
+bounds:1566,1031,100,100
+Religion
+bounds:1566,1031,100,100
+Religious
+bounds:1566,1031,100,100
+ReligiousStrength
+bounds:1059,1222,100,100
+Remove Fallout
+bounds:891,1322,100,100
+Remove Heresy
+bounds:2,160,100,100
+Remove Jungle
+bounds:1777,1148,100,100
+Remove Forest
+bounds:1777,1148,100,100
+Remove Marsh
+bounds:1621,123,100,99
+Remove Railroad
+bounds:1832,440,100,100
+Remove Road
+bounds:104,114,100,100
+Repair
+bounds:1587,1439,100,100
+Republic
+bounds:1176,424,50,50
+Resistance
+bounds:690,1673,115,115
+Resources
+bounds:948,944,100,100
+Road
+bounds:206,828,100,100
+RobotArm
+bounds:920,224,100,100
+RobotHeadRect
+bounds:308,114,100,100
+RobotHeadSquare
+bounds:920,842,100,100
+Romanian
+bounds:1197,1528,128,128
+Rome
+bounds:1425,814,100,100
+Russia
+bounds:614,224,100,100
+Russian
+bounds:1602,1788,128,128
+Rusyn
+bounds:262,1366,128,128
+SS Booster
+bounds:1446,479,78,65
+SS Booster-1
+bounds:1446,546,78,65
+SS Booster-2
+bounds:1908,1390,78,65
+SS Cockpit
+bounds:1446,613,78,65
+SS Cockpit-1
+bounds:1446,680,78,65
+SS Cockpit-2
+bounds:1908,1457,78,65
+SS Engine
+bounds:1883,1256,78,65
+SS Engine-1
+bounds:1446,747,78,65
+SS Engine-2
+bounds:1908,1524,78,65
+SS Stasis Chamber
+bounds:1364,441,78,65
+SS Stasis Chamber-1
+bounds:1968,632,78,65
+SS Stasis Chamber-2
+bounds:1908,1591,78,65
+Salt
+bounds:818,224,100,100
+Samurai-1
+bounds:1706,235,95,95
+Samurai-2
+bounds:718,632,95,95
+Samurai-Japan
+bounds:1221,322,95,95
+Scenarios
+bounds:308,318,100,100
+Scholasticism
+bounds:1992,1996,50,50
+Science
+bounds:104,828,100,100
+PickTech
+bounds:104,828,100,100
+Scientific
+bounds:444,1217,100,100
+Sea Beggar-2
+bounds:1374,6,64,56
+Search
+bounds:614,929,100,100
+SecretOptions
+bounds:1773,1046,100,100
+Secularism
+bounds:392,1392,50,50
+ServerRack
+bounds:1242,610,100,100
+Settings
+bounds:687,1337,100,100
+Settler
+bounds:1018,729,96,96
+Settler-Ancient era
+bounds:1018,729,96,96
+Settler-2
+bounds:1836,138,96,96
+Settler-Ancient era-2
+bounds:1836,138,96,96
+Settler-Ancient era-1
+bounds:1723,126,96,96
+Settler-1
+bounds:1723,126,96,96
+Settler-Industrial era
+bounds:616,642,100,81
+Settler-Industrial era-1
+bounds:716,729,100,81
+Settler-Industrial era-2
+bounds:410,114,100,81
+Sheep
+bounds:1573,1235,100,100
+Shield
+bounds:1169,1426,100,100
+Shinto
+bounds:1560,827,100,100
+Ship of the Line-2
+bounds:1704,7,64,56
+Siam
+bounds:308,1032,100,100
+Sikhism
+bounds:716,326,100,100
+Silk
+bounds:104,216,100,100
+Silver
+bounds:1056,1018,100,100
+Simplified_Chinese
+bounds:560,1530,128,128
+Skip
+bounds:2,976,100,100
+Sleep
+bounds:206,420,100,100
+Socialism
+bounds:1011,1422,50,50
+Songhai
+bounds:1704,1454,100,100
+Sovereignty
+bounds:1180,476,50,50
+Spain
+bounds:614,122,100,100
+Spanish
+bounds:807,1526,128,128
+Speaker
+bounds:1934,224,100,100
+Specialist
+bounds:1668,944,100,100
+OurStatus
+bounds:1668,944,100,100
+Spectator
+bounds:716,428,100,100
+Spices
+bounds:512,890,100,100
+Spy
+bounds:1022,224,100,100
+Stone
+bounds:1362,1120,100,100
+Stop
+bounds:206,624,100,100
+Cancel improvement order
+bounds:206,624,100,100
+Strength
+bounds:68,6,50,50
+Submarine-1
+bounds:1110,6,64,56
+Sugar
+bounds:920,530,100,100
+Swap
+bounds:1124,122,100,100
+Sweden
+bounds:206,726,100,100
+Swedish
+bounds:1078,1658,128,128
+Taoism
+bounds:1260,1018,100,100
+Tengriism
+bounds:1577,1337,100,100
+Tercio-Spain
+bounds:1415,232,95,81
+Terrace farm
+bounds:410,1013,100,100
+Terrains
+bounds:512,530,100,100
+DomainLand
+bounds:512,530,100,100
+Thai
+bounds:1208,1658,128,128
+The Huns
+bounds:818,914,100,100
+The Maya
+bounds:512,122,100,100
+The Netherlands
+bounds:1934,428,100,100
+The Ottomans
+bounds:2,58,100,100
+Theocracy
+bounds:1985,1204,50,50
+Timer
+bounds:1373,1426,100,100
+Time
+bounds:1373,1426,100,100
+Total War
+bounds:1985,1152,50,50
+Trading post
+bounds:1679,1250,100,100
+Tradition
+bounds:1988,1424,50,50
+Traditional_Chinese
+bounds:937,1526,128,128
+Triangle
+bounds:200,1626,178,178
+Trireme
+bounds:1708,65,64,56
+Truffles
+bounds:1806,1454,100,100
+Turkish
+bounds:1212,1788,128,128
+Turn
+bounds:1124,528,50,50
+Turn right
+bounds:1221,814,100,100
+Turtle Ship
+bounds:648,2,64,60
+Turtle Ship-1
+bounds:714,2,64,60
+Turtle Ship-2
+bounds:582,2,64,60
+Tyrannosaurus
+bounds:308,420,100,100
+Ukrainian
+bounds:1468,1658,128,128
+Undo
+bounds:540,1094,100,100
+Resume
+bounds:540,1094,100,100
+UnitTypes
+bounds:1263,1222,100,100
+Banner
+bounds:1263,1222,100,100
+United Front
+bounds:1992,1788,50,50
+Uranium
+bounds:1832,338,100,100
+Vietnamese
+bounds:1732,1788,128,128
+WLTKD
+bounds:1893,1323,83,65
+Whales
+bounds:410,605,100,100
+Wheat
+bounds:818,812,100,100
+Wine
+bounds:206,216,100,100
+Wonders
+bounds:909,1424,100,100
+Work Boats-2
+bounds:1308,6,64,56
+Work Boats-Industrial era
+bounds:1576,64,64,56
+Worked
+bounds:308,726,100,100
+Population
+bounds:308,726,100,100
+Worker
+bounds:1124,232,95,81
+Worker-Barbarians
+bounds:920,729,96,96
+Worker-Industrial era-2
+bounds:818,729,95,81
+Working
+bounds:1781,1250,100,100
+Loading
+bounds:1781,1250,100,100
+Replay
+bounds:1781,1250,100,100
+WorldCongressVote
+bounds:1675,1148,100,100
+Politics
+bounds:1675,1148,100,100
+Xmas Tree
+bounds:1978,1256,64,114
+Xmas decoration 1
+bounds:2,4,64,52
+Xmas decoration 3
+bounds:850,64,64,56
+Xmas decoration 5
+bounds:1638,6,64,56
+Xmas decoration 7
+bounds:1974,831,64,72
+Zoroastrianism
+bounds:1344,610,100,100
+Zulu
+bounds:262,1236,128,128
+whiteDot
+bounds:188,1701,1,1
+
+game2.png
+size:2048,2048
+repeat:none
+African Forest Elephant
+bounds:1069,1549,77,79
+African Forest Elephant-Carthage
+bounds:1069,1549,77,79
+African Forest Elephant-1
+bounds:972,1466,77,79
+African Forest Elephant-Carthage-2
+bounds:972,1466,77,79
+African Forest Elephant-2
+bounds:875,1383,77,79
+African Forest Elephant-Carthage-1
+bounds:875,1383,77,79
+Anti-Aircraft Gun
+bounds:1385,1492,64,56
+Anti-Aircraft Gun-2
+bounds:1342,1666,64,56
+Anti-Tank Gun
+bounds:663,1002,64,56
+Anti-Tank Gun-1
+bounds:1456,1608,64,56
+Archer
+bounds:487,1547,95,81
+Archer-1
+bounds:681,1381,95,81
+Archer-2
+bounds:293,1713,95,81
+Aristocracy
+bounds:1055,1052,50,50
+Artillery
+bounds:1685,1745,64,56
+Artillery-1
+bounds:1553,1744,64,56
+Artillery-2
+bounds:591,537,64,56
+Atlatlist-1
+bounds:681,1215,95,81
+Atlatlist-2
+bounds:875,1796,95,81
+Atlatlist-The Maya
+bounds:1462,1879,95,81
+Atlatlist
+bounds:1462,1879,95,81
+BackArrow
+bounds:829,954,50,50
+Ballista
+bounds:451,693,77,65
+Ballista-1
+bounds:257,306,77,65
+Ballista-2
+bounds:530,709,77,65
+Battering Ram
+bounds:336,275,77,65
+Battering Ram-1
+bounds:257,105,77,65
+Battering Ram-2
+bounds:494,441,77,65
+Battering Ram-The Huns
+bounds:354,677,77,65
+Battleship
+bounds:692,15,64,56
+Battleship-1
+bounds:1147,1220,64,56
+Battleship-2
+bounds:639,421,64,56
+Berserker
+bounds:99,1381,95,81
+Berserker-1
+bounds:390,1796,95,81
+Bowman
+bounds:99,1796,95,81
+Bowman-1
+bounds:1559,1962,95,81
+Bowman-2
+bounds:487,1132,95,81
+Brute
+bounds:196,800,95,81
+Camel Archer
+bounds:778,1299,77,80
+Cannon-1
+bounds:639,363,64,56
+Caravel-1
+bounds:1015,1162,64,56
+Caravel-2
+bounds:560,131,64,56
+Carolean
+bounds:293,1547,95,81
+Carolean-1
+bounds:2,606,95,81
+Carolean-2
+bounds:293,1049,95,81
+Carolean-Sweden
+bounds:293,1630,95,81
+Carrier-1
+bounds:1451,1434,64,56
+Cataphract
+bounds:178,573,77,70
+Cataphract-1
+bounds:257,373,77,70
+Cataphract-2
+bounds:663,1060,77,70
+Cataphract-Byzantium
+bounds:257,445,77,70
+Catapult
+bounds:1015,1278,64,56
+Catapult-1
+bounds:560,15,64,56
+Cavalry
+bounds:372,744,77,65
+Cavalry-1
+bounds:512,575,77,65
+Cavalry-2
+bounds:336,141,77,65
+Chariot Archer
+bounds:566,977,77,70
+Chariot Archer-1
+bounds:1342,1724,77,70
+Chariot Archer-2
+bounds:1227,1502,77,70
+Chu-Ko-Nu
+bounds:196,1630,95,81
+Chu-Ko-Nu-1
+bounds:99,966,95,81
+Chu-Ko-Nu-2
+bounds:395,1879,95,81
+Chu-Ko-Nu-China
+bounds:196,1215,95,81
+Civil Society
+bounds:881,954,50,50
+Companion Cavalry
+bounds:178,501,77,70
+Companion Cavalry-1
+bounds:936,1311,77,70
+Companion Cavalry-2
+bounds:178,285,77,70
+Companion Cavalry-Greece
+bounds:936,1239,77,70
+Composite Bowman
+bounds:293,1298,95,81
+Composite Bowman-1
+bounds:681,1713,95,81
+Composite Bowman-2
+bounds:2,440,95,81
+Conquistador
+bounds:99,180,77,74
+Conquistador-1
+bounds:99,332,77,74
+Conquistador-2
+bounds:954,1388,77,74
+Conquistador-Spain
+bounds:1834,1803,77,74
+Cossack
+bounds:99,637,77,78
+Cossack-1
+bounds:1263,1716,77,78
+Cossack-2
+bounds:293,803,77,78
+Cossack-Russia
+bounds:196,720,77,78
+Crossbowman
+bounds:2,357,95,81
+Crossbowman-1
+bounds:487,1049,95,81
+Crossbowman-2
+bounds:681,1630,95,81
+Death
+bounds:795,1039,50,50
+Destroyer-2
+bounds:1451,1550,64,56
+Dromon-Byzantium
+bounds:494,241,64,64
+Dromon
+bounds:494,241,64,64
+Dromon-Byzantium-1
+bounds:494,43,64,64
+Easter Egg 1
+bounds:1015,1104,64,56
+Easter Egg 2
+bounds:560,73,64,56
+Easter Egg 5
+bounds:609,711,64,63
+Easter Egg 6
+bounds:645,944,64,56
+EmbarkedUnit-Civilian-2
+bounds:1081,1162,64,56
+EmbarkedUnit-Civilian-Denmark
+bounds:693,886,64,56
+EmbarkedUnit-Civilian-Polynesia
+bounds:1081,1220,64,56
+EmbarkedUnit-Civilian-Renaissance era-1
+bounds:705,421,64,56
+EmbarkedUnit-Civilian-Spain-Modern era-1
+bounds:1817,1745,64,56
+EmbarkedUnit-Civilian-Modern era-1
+bounds:1817,1745,64,56
+EmbarkedUnit-Civilian-Spain-Modern era-2
+bounds:591,479,64,56
+EmbarkedUnit-Civilian-Modern era-2
+bounds:591,479,64,56
+EmbarkedUnit-Civilian-Spain-Renaissance era
+bounds:639,305,64,56
+EmbarkedUnit-Military-1
+bounds:711,944,64,56
+EmbarkedUnit-Military-2
+bounds:705,305,64,56
+EmbarkedUnit-Military-Denmark
+bounds:626,131,64,56
+EmbarkedUnit-Military-Polynesia
+bounds:1883,1745,64,56
+EmbarkedUnit-Military-Renaissance era
+bounds:1081,1104,64,56
+EmbarkedUnit-Military-Renaissance era-1
+bounds:675,604,64,56
+EmbarkedUnit-Military-Spain-Modern era-2
+bounds:1390,1608,64,56
+EmbarkedUnit-Military-Modern era-2
+bounds:1390,1608,64,56
+EmbarkedUnit-Military-Spain-Renaissance era
+bounds:675,720,64,56
+Fascism
+bounds:1164,1439,50,50
+Foreign Legion
+bounds:1069,1796,95,81
+Foreign Legion-1
+bounds:487,1713,95,81
+Foreign Legion-2
+bounds:2,1021,95,81
+Foreign Legion-France
+bounds:487,1796,95,81
+ForwardArrow
+bounds:693,782,50,50
+Free Thought
+bounds:951,1053,50,50
+Frigate
+bounds:1147,1162,64,56
+Frigate-1
+bounds:626,73,64,56
+Galleass-2
+bounds:1015,1220,64,56
+Gatling Gun-1
+bounds:1324,1608,64,56
+Great Artist
+bounds:899,1053,50,50
+Great Artist-1
+bounds:778,1464,95,81
+Great Artist-2
+bounds:99,1464,95,81
+Great Artist-Industrial era
+bounds:1850,1879,95,81
+Great Artist-Industrial era-1
+bounds:293,1132,95,81
+Great Artist-Industrial era-2
+bounds:589,1879,95,81
+Great Engineer-1
+bounds:1074,1879,95,81
+Great Engineer-2
+bounds:1166,1713,95,81
+Great Engineer-Industrial era
+bounds:336,208,77,65
+Great Engineer-Industrial era-1
+bounds:433,559,77,65
+Great Engineer-Industrial era-2
+bounds:275,661,77,65
+Great General-Industrial era
+bounds:972,1630,95,81
+Great General-Industrial era-1
+bounds:99,1547,95,81
+Great Merchant-1
+bounds:257,517,77,70
+Great Merchant-2
+bounds:469,894,77,70
+Great Merchant-Industrial era
+bounds:415,492,77,65
+Great Merchant-Industrial era-1
+bounds:451,760,77,65
+Great Merchant-Industrial era-2
+bounds:1245,1574,77,65
+Great Prophet
+bounds:104,1879,95,81
+Great Prophet-1
+bounds:1462,1962,95,81
+Great Prophet-2
+bounds:99,800,95,81
+Great Prophet-Industrial era
+bounds:293,1464,95,81
+Great Prophet-Industrial era-1
+bounds:390,1547,95,81
+Great Prophet-Industrial era-2
+bounds:2,855,95,81
+Great Scientist-1
+bounds:99,1713,95,81
+Great Scientist-Industrial era
+bounds:936,1105,77,65
+Great Scientist-Industrial era-1
+bounds:1148,1491,77,65
+Great Scientist-Industrial era-2
+bounds:415,358,77,65
+Great War Infantry
+bounds:196,1381,95,81
+Great War Infantry-1
+bounds:390,1464,95,81
+Great War Infantry-2
+bounds:880,1962,95,81
+Hakkapeliitta
+bounds:1913,1803,77,74
+Hakkapeliitta-1
+bounds:99,28,77,74
+Hakkapeliitta-2
+bounds:99,408,77,74
+Hakkapeliitta-Sweden
+bounds:99,256,77,74
+Halloween candy 2
+bounds:1147,1278,64,56
+Halloween candy 3
+bounds:494,175,64,64
+Halloween candy 5
+bounds:1385,1434,64,56
+Helicopter Gunship
+bounds:573,421,64,56
+Helicopter Gunship-1
+bounds:657,537,64,56
+Hoplite
+bounds:487,1630,95,81
+Hoplite-1
+bounds:584,1132,95,81
+Hoplite-2
+bounds:778,1713,95,81
+Hoplite-Greece
+bounds:2,772,95,81
+Hoplite-Greece-2
+bounds:196,1132,95,81
+Horse Archer-Barbarians
+bounds:178,645,77,70
+Horse Archer-The Huns-1
+bounds:372,811,77,70
+Horse Archer-2
+bounds:372,811,77,70
+Horseman
+bounds:257,589,77,70
+Horseman-1
+bounds:1033,1394,77,70
+Horseman-2
+bounds:178,141,77,70
+Humanism
+bounds:847,1058,50,50
+Hussar
+bounds:1166,1633,77,78
+Hussar-1
+bounds:390,886,77,78
+Hussar-2
+bounds:1360,1799,77,78
+Hussar-Austria
+bounds:487,969,77,78
+Hwach'a
+bounds:548,776,77,65
+Hwach'a-1
+bounds:566,910,77,65
+Hwach'a-2
+bounds:336,342,77,65
+Hwach'a-Korea
+bounds:469,827,77,65
+Infantry
+bounds:2,274,95,81
+Infantry-1
+bounds:293,1215,95,81
+Infantry-2
+bounds:1753,1962,95,81
+Inquisitor
+bounds:293,1796,95,81
+Inquisitor-1
+bounds:2,108,95,81
+Inquisitor-2
+bounds:1069,1713,95,81
+Inquisitor-Industrial era
+bounds:977,1879,95,81
+Inquisitor-Industrial era-1
+bounds:492,1879,95,81
+Inquisitor-Industrial era-2
+bounds:972,1547,95,81
+InterceptRange
+bounds:1992,1827,50,50
+Ironclad
+bounds:573,363,64,56
+Ironclad-2
+bounds:1751,1745,64,56
+Jaguar
+bounds:783,1962,95,81
+Jaguar-Aztecs
+bounds:783,1962,95,81
+Jaguar-1
+bounds:584,1713,95,81
+Jaguar-2
+bounds:589,1962,95,81
+Janissary
+bounds:875,1630,95,81
+Janissary-1
+bounds:584,1215,95,81
+Janissary-2
+bounds:584,1796,95,81
+Janissary-The Ottomans
+bounds:778,1547,95,81
+Keshik
+bounds:1245,1641,77,70
+Keshik-1
+bounds:178,429,77,70
+Keshik-2
+bounds:1306,1502,77,70
+Knight
+bounds:178,69,77,70
+Knight-1
+bounds:275,728,77,70
+Knight-2
+bounds:1148,1558,77,70
+Lancer
+bounds:548,843,77,65
+Lancer-1
+bounds:336,7,77,65
+Lancer-2
+bounds:857,1162,77,65
+Lancer-Barbarians
+bounds:415,291,77,65
+Landship
+bounds:494,374,77,65
+Landship-1
+bounds:415,157,77,65
+Landship-2
+bounds:354,610,77,65
+Landsknecht
+bounds:2,1270,95,95
+Landsknecht-2
+bounds:2,1464,95,95
+Legalism
+bounds:758,45,50,50
+Legion
+bounds:293,883,95,81
+Legion-1
+bounds:972,1713,95,81
+Legion-2
+bounds:1559,1879,95,81
+Legion-Rome
+bounds:2,1187,95,81
+Liberty
+bounds:1112,1419,50,50
+LockSmall
+bounds:742,1086,50,50
+Longbowman-2
+bounds:2,1367,95,95
+Longbowman-England
+bounds:2,1561,95,95
+Longswordsman
+bounds:2,1755,95,95
+Longswordsman-1
+bounds:2,1658,95,95
+Longswordsman-Barbarians
+bounds:880,1879,95,81
+Machine Gun
+bounds:692,189,64,56
+Machine Gun-1
+bounds:626,189,64,56
+Mandate Of Heaven
+bounds:1003,1052,50,50
+Mandekalu Cavalry
+bounds:99,484,77,74
+Mandekalu Cavalry-1
+bounds:1676,1803,77,74
+Mandekalu Cavalry-2
+bounds:857,1305,77,74
+Mandekalu Cavalry-Songhai
+bounds:1051,1471,77,74
+Maori Warrior-1
+bounds:390,1132,95,81
+Maori Warrior-2
+bounds:99,1630,95,81
+Maori Warrior-Polynesia
+bounds:1171,1879,95,81
+Maori Warrior
+bounds:1171,1879,95,81
+MapOverlayToggleMovement
+bounds:741,626,50,50
+MapOverlayToggleResources
+bounds:758,253,50,50
+MapOverlayToggleYields
+bounds:745,834,50,50
+Marauder
+bounds:1069,1630,95,81
+Marine
+bounds:196,1298,95,81
+Marine-1
+bounds:99,883,95,81
+Marine-2
+bounds:1656,1879,95,81
+Mechanized Infantry
+bounds:1306,1435,77,65
+Mechanized Infantry-1
+bounds:178,2,77,65
+Mechanized Infantry-2
+bounds:415,425,77,65
+Mehal Sefari
+bounds:686,1962,95,81
+Mehal Sefari-1
+bounds:1753,1879,95,81
+Mehal Sefari-2
+bounds:390,966,95,81
+Mehal Sefari-Ethiopia
+bounds:681,1298,95,81
+Merchant Navy
+bounds:741,574,50,50
+Minuteman
+bounds:584,1630,95,81
+Minuteman-1
+bounds:2,523,95,81
+Minuteman-2
+bounds:487,1215,95,81
+Minuteman-America
+bounds:390,1298,95,81
+Missile Cruiser
+bounds:1619,1745,64,56
+Missile Cruiser-2
+bounds:1081,1278,64,56
+Missionary
+bounds:977,1962,95,81
+Missionary-1
+bounds:390,1049,95,81
+Missionary-2
+bounds:196,1464,95,81
+Missionary-Industrial era
+bounds:584,1547,95,81
+Missionary-Industrial era-1
+bounds:99,1132,95,81
+Missionary-Industrial era-2
+bounds:1171,1962,95,81
+Mobile SAM
+bounds:415,90,77,65
+Mobile SAM-1
+bounds:415,224,77,65
+Mobile SAM-2
+bounds:257,38,77,65
+Modern Armor
+bounds:336,476,77,65
+Modern Armor-1
+bounds:257,239,77,65
+Modern Armor-2
+bounds:530,642,77,65
+Mohawk Warrior
+bounds:487,1381,95,81
+Mohawk Warrior-1
+bounds:99,1049,95,81
+Mohawk Warrior-2
+bounds:1656,1962,95,81
+Mohawk Warrior-Iroquois
+bounds:196,1796,95,81
+Musketeer
+bounds:783,1879,95,81
+Musketeer-1
+bounds:395,1962,95,81
+Musketeer-2
+bounds:487,1298,95,81
+Musketeer-France
+bounds:293,966,95,81
+Musketman
+bounds:584,1464,95,81
+Musketman-1
+bounds:875,1464,95,81
+Musketman-2
+bounds:681,1796,95,81
+Naresuan's Elephant-1
+bounds:1518,1802,77,75
+Naresuan's Elephant-2
+bounds:778,1222,77,75
+Naresuan's Elephant-Siam
+bounds:584,1055,77,75
+Naresuan's Elephant
+bounds:584,1055,77,75
+Nations
+bounds:758,149,50,50
+Global
+bounds:758,149,50,50
+Norwegian Ski Infantry-2
+bounds:778,1630,95,81
+Norwegian Ski Infantry-Denmark
+bounds:2,938,95,81
+Nuclear Submarine-2
+bounds:692,73,64,56
+Oligarchy
+bounds:723,522,50,50
+Organized Religion
+bounds:794,1091,50,50
+Panzer
+bounds:415,23,77,65
+Panzer-1
+bounds:336,543,77,65
+Panzer-2
+bounds:494,307,77,65
+Panzer-Germany
+bounds:433,626,77,65
+Paratrooper
+bounds:99,1298,95,81
+Paratrooper-1
+bounds:1268,1962,95,81
+Paratrooper-2
+bounds:875,1547,95,81
+Patronage
+bounds:846,1110,50,50
+Persian Immortal-1
+bounds:201,1879,95,81
+Persian Immortal-2
+bounds:778,1381,95,81
+Pictish Warrior
+bounds:293,1381,95,81
+Pictish Warrior-Celts
+bounds:293,1381,95,81
+Pictish Warrior-1
+bounds:2,25,95,81
+Pictish Warrior-2
+bounds:196,883,95,81
+Piety
+bounds:847,1006,50,50
+Pikeman
+bounds:2,689,95,81
+Pikeman-1
+bounds:487,1464,95,81
+Pikeman-2
+bounds:1365,1962,95,81
+Pikeman-Barbarians
+bounds:99,717,95,81
+Planned Economy
+bounds:758,201,50,50
+Privateer
+bounds:1147,1104,64,56
+Privateer-1
+bounds:1099,1336,64,56
+Privateer-2
+bounds:657,479,64,56
+Professional Army
+bounds:775,522,50,50
+Quinquereme-2
+bounds:494,109,64,64
+Quinquereme-Carthage
+bounds:627,844,64,64
+Range
+bounds:758,97,50,50
+RangedStrength
+bounds:1992,1775,50,50
+Rationalism
+bounds:745,782,50,50
+Representation
+bounds:693,834,50,50
+Rider-Barbarians
+bounds:196,1713,95,81
+Rifleman
+bounds:1166,1796,95,81
+Rifleman-1
+bounds:390,1381,95,81
+Rifleman-2
+bounds:2,191,95,81
+Rocket Artillery
+bounds:1227,1435,77,65
+Rocket Artillery-1
+bounds:336,74,77,65
+Rocket Artillery-2
+bounds:936,1172,77,65
+Samurai
+bounds:2,1852,95,95
+Scientific Revolution
+bounds:741,678,50,50
+Scout
+bounds:686,1879,95,81
+Scout-1
+bounds:1263,1796,95,81
+Scout-2
+bounds:778,1796,95,81
+Sea Beggar
+bounds:729,1002,64,56
+Sea Beggar-1
+bounds:692,247,64,56
+Settler-Medieval era
+bounds:390,1630,95,81
+Settler-Medieval era-1
+bounds:2,1104,95,81
+Settler-Medieval era-2
+bounds:196,1049,95,81
+Ship of the Line
+bounds:692,131,64,56
+Ship of the Line-1
+bounds:1385,1550,64,56
+Sipahi
+bounds:1755,1803,77,74
+Sipahi-1
+bounds:99,104,77,74
+Sipahi-2
+bounds:1597,1803,77,74
+Sipahi-The Ottomans
+bounds:857,1229,77,74
+Skirmisher
+bounds:492,1962,95,81
+Slinger
+bounds:1947,1962,95,81
+Slinger-1
+bounds:972,1796,95,81
+Slinger-2
+bounds:298,1879,95,81
+Spearman
+bounds:390,1713,95,81
+Spearman-1
+bounds:104,1962,95,81
+Spearman-2
+bounds:875,1713,95,81
+Star
+bounds:2,1949,100,94
+Submarine
+bounds:626,247,64,56
+Submarine-2
+bounds:1451,1492,64,56
+Swordsman
+bounds:298,1962,95,81
+Swordsman-1
+bounds:681,1464,95,81
+Swordsman-2
+bounds:1365,1879,95,81
+Swordsman-Barbarians
+bounds:1850,1962,95,81
+Tank
+bounds:336,409,77,65
+Tank-1
+bounds:257,172,77,65
+Tank-2
+bounds:512,508,77,65
+Tercio
+bounds:99,1215,95,81
+Tercio-1
+bounds:196,1547,95,81
+Tercio-2
+bounds:201,1962,95,81
+Trade Unions
+bounds:759,892,50,50
+Trebuchet
+bounds:626,15,64,56
+Trebuchet-1
+bounds:1421,1741,64,56
+Trebuchet-2
+bounds:609,653,64,56
+Trireme-1
+bounds:1487,1744,64,56
+Trireme-2
+bounds:609,595,64,56
+Trireme-Barbarians
+bounds:675,662,64,56
+Universal Suffrage
+bounds:777,950,50,50
+War Chariot-Egypt
+bounds:178,213,77,70
+War Chariot
+bounds:178,213,77,70
+War Chariot-Egypt-1
+bounds:760,1143,77,70
+War Chariot-2
+bounds:760,1143,77,70
+War Chariot-Egypt-2
+bounds:178,357,77,70
+War Chariot-1
+bounds:178,357,77,70
+War Elephant
+bounds:1439,1802,77,75
+War Elephant-1
+bounds:99,560,77,75
+War Elephant-2
+bounds:681,1138,77,75
+Warrior
+bounds:681,1547,95,81
+Warrior Code
+bounds:741,730,50,50
+Warrior-1
+bounds:390,1215,95,81
+Warrior-2
+bounds:1268,1879,95,81
+Work Boats
+bounds:560,189,64,56
+Work Boats-1
+bounds:705,363,64,56
+Work Boats-Industrial era-1
+bounds:1033,1336,64,56
+Work Boats-Industrial era-2
+bounds:573,305,64,56
+Worker-1
+bounds:1074,1962,95,81
+Worker-2
+bounds:584,1298,95,81
+Worker-Industrial era
+bounds:196,966,95,81
+Worker-Industrial era-1
+bounds:1947,1879,95,81
+Xmas decoration 2
+bounds:560,247,64,56
+Xmas decoration 4
+bounds:1408,1666,64,56
+Xmas decoration 6
+bounds:627,778,64,64
+img
+bounds:584,1381,95,81
+Musketman-Barbarians
+bounds:584,1381,95,81
